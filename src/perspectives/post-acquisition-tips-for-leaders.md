@@ -2,7 +2,7 @@
 title: 'Post-Acquisition Integration: Preparing Your Leadership for Success'
 date: '2025-10-06'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1759719912090-9ZC5S46NMF7X7HE6AB2I/istockphoto-1204743098-612x612.jpg
+  /images/perspectives/post-acquisition-tips-for-leaders.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -30,7 +30,7 @@ seoDescription: >-
   learn how to empower your leaders to preserve value and drive the strategic
   success of the acquisition.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/68e3268a61c5ca6192ae5cfb/1770846784809/istockphoto-1204743098-612x612.jpg?format=1500w
+  /images/perspectives/post-acquisition-tips-for-leaders-2.jpg
 sqsId: 68e3268a61c5ca6192ae5cfb
 sqsOrder: 17
 ---

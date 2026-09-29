@@ -2,7 +2,7 @@
 title: 'Long-term Thinking: Black Box Intelligence Acquired by Diversis Capital'
 date: '2021-02-01'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1612215297593-16JAWK6Y0WUV8GEDA3WI/image-asset.jpeg
+  /images/perspectives/blackboxintelligence.jpg
 categories:
   - Case Study
 sqsTags: []
@@ -18,7 +18,7 @@ seoDescription: >-
   equity, and the long-term survival of a company play a part in our decision
   making as well.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/6018437a3746da11cdde3279/1612500962769/?format=1500w
+  /images/perspectives/blackboxintelligence-2.jpg
 sqsId: 6018437a3746da11cdde3279
 sqsOrder: 43
 ---

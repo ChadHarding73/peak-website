@@ -2,7 +2,7 @@
 title: Typhoon Data acquired by Appriss
 date: '2021-01-30'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1705095400728-RVO5ZRQFVK2IXV32CZH2/Untitled+design+%281%29.png
+  /images/experience/typhoondata-acquired-by-appriss.png
 categories:
   - Merger & Acquisition
   - Strategic
@@ -17,7 +17,7 @@ excerpt: ''
 seoTitle: Typhoon Data acquired by Appriss — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/6014bbc27540072ef2e4e17d/1710809554461/Untitled+design+%281%29.png?format=1500w
+  /images/experience/typhoondata-acquired-by-appriss-2.png
 sqsId: 6014bbc27540072ef2e4e17d
 sqsOrder: 53
 ---

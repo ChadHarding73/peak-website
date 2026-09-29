@@ -2,7 +2,7 @@
 title: Chad Harding
 date: '2020-12-02'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1610993350869-JI19OA5W27O1UDFPGCXZ/Chad-01-cropped-SELECT.jpg
+  /images/team/chad-harding.jpg
 categories:
   - Managing Partner
 sqsTags: []
@@ -16,7 +16,7 @@ seoDescription: >-
   technology companies on financing and strategic transactions for over twenty
   years.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/5fc7ecaa8a66f53a61197765/1790631306384/Chad-01-cropped-SELECT.jpg?format=1500w
+  /images/team/chad-harding-2.jpg
 sqsId: 5fc7ecaa8a66f53a61197765
 sqsOrder: 0
 ---
@@ -37,7 +37,7 @@ sqsOrder: 0
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1610993978973-QB3J48GK7N59AFIGEO36/Chad-01-cropped-SELECT.jpg" alt="Chad-01-cropped-SELECT.jpg" />
+                <img src="/images/team/chad-harding-3.jpg" alt="Chad-01-cropped-SELECT.jpg" />
 
             
           

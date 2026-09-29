@@ -2,7 +2,7 @@
 title: CSIdentity Acquired by Experian for $358 Million
 date: '2016-08-15'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1769711913893-VEO3C0R4EO0PXNL8S5NI/CSID+graphic.png
+  /images/experience/csid-acquired-by-experian.png
 categories:
   - Merger & Acquisition
   - Analytics
@@ -14,7 +14,7 @@ excerpt: ''
 seoTitle: CSIdentity Acquired by Experian for $358 Million — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/697ba7ddc247773bb7cc429b/1769712209747/CSID+graphic.png?format=1500w
+  /images/experience/csid-acquired-by-experian-2.png
 sqsId: 697ba7ddc247773bb7cc429b
 sqsOrder: 106
 ---

@@ -2,7 +2,7 @@
 title: MediServe acquired by Thoma Bravo
 date: '2021-01-06'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1609911988838-DTZK3H342ENF2VM06K8W/Mediserve.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -13,7 +13,7 @@ excerpt: ''
 seoTitle: MediServe acquired by Thoma Bravo — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/5ff54ce7c0e43812a5f5a3fb/1610931358074/Mediserve.jpg?format=1500w
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-2.jpg
 sqsId: 5ff54ce7c0e43812a5f5a3fb
 sqsOrder: 93
 ---

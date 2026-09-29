@@ -2,7 +2,7 @@
 title: The Vital Role of Revenue Predictability in SaaS Valuation
 date: '2025-02-10'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1738970594872-ZBDAKFCR4YPG78C6WM92/istockphoto-1905639659-612x612.jpg
+  /images/perspectives/the-vital-role-of-revenue-predictability-in-saas-valuation.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -29,7 +29,7 @@ seoDescription: >-
   these distinctions is crucial for SaaS businesses aiming to enhance their
   valuation and attract investment.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/67a67874fe4e8d2763c1fc60/1770848320368/istockphoto-1905639659-612x612.jpg?format=1500w
+  /images/perspectives/the-vital-role-of-revenue-predictability-in-saas-valuation-2.jpg
 sqsId: 67a67874fe4e8d2763c1fc60
 sqsOrder: 32
 ---

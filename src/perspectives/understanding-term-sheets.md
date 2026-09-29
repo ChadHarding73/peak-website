@@ -2,7 +2,7 @@
 title: 'Understanding Term Sheets: A Guide for Software Company Founders'
 date: '2025-04-01'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1743619165292-10IJC5V49R0ZZ6IWL22T/20221026133525-blobid1666791323012.png
+  /images/perspectives/understanding-term-sheets.png
 categories: []
 sqsTags: []
 excerpt: >-
@@ -30,7 +30,7 @@ seoDescription: >-
   process.   A strong grasp of these elements empowers founders to negotiate
   better terms and avoid costly pitfalls in M&amp;A or fundraising scenarios.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/67ec2211c4a28b34bd0e0a06/1770847512009/20221026133525-blobid1666791323012.png?format=1500w
+  /images/perspectives/understanding-term-sheets-2.png
 sqsId: 67ec2211c4a28b34bd0e0a06
 sqsOrder: 23
 ---

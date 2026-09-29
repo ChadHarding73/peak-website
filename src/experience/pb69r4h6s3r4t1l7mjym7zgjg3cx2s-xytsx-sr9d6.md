@@ -2,7 +2,7 @@
 title: Bloodhound Technologies acquired by Verisk Analytics
 date: '2020-12-17'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1608570610237-0WBADQ0BPG72W6APCXT6/bloodhound-2.jpg
+  /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-xytsx-sr9d6.jpg
 categories:
   - Merger & Acquisition
   - SaaS
@@ -17,7 +17,7 @@ seoTitle: >-
   Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/5fdaa24020a50f31401d9977/1769711581929/bloodhound-2.jpg?format=1500w
+  /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-xytsx-sr9d6-2.jpg
 sqsId: 5fdaa24020a50f31401d9977
 sqsOrder: 105
 ---

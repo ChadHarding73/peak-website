@@ -2,7 +2,7 @@
 title: 'The Fragile Side of Hypergrowth: Building SaaS That Lasts'
 date: '2025-09-29'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1759115016699-P0ZZTTOXR91RWA5O5SBZ/scaling-business.jpg
+  /images/perspectives/sustainable-scale-in-saas.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -31,7 +31,7 @@ seoDescription: >-
   time  through credibility, loyal customers, and a product that continues to
   deliver value.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/68d9c115a307e74d52bd4cd3/1774558930622/scaling-business.jpg?format=1500w
+  /images/perspectives/sustainable-scale-in-saas-2.jpg
 sqsId: 68d9c115a307e74d52bd4cd3
 sqsOrder: 18
 ---

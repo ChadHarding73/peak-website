@@ -2,7 +2,7 @@
 title: AssureHire acquired by Mitratech
 date: '2022-07-09'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1657671664222-O7FNZKH15RGLZBMM77BJ/AssureHire+2.png
+  /images/experience/assurehire-acquired-by-mitratech.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -14,7 +14,7 @@ excerpt: ''
 seoTitle: AssureHire acquired by Mitratech — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/62ce0ef98354835d9abe9beb/1784678700305/AssureHire+2.png?format=1500w
+  /images/experience/assurehire-acquired-by-mitratech-2.png
 sqsId: 62ce0ef98354835d9abe9beb
 sqsOrder: 27
 ---

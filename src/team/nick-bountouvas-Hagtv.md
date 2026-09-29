@@ -2,7 +2,7 @@
 title: Nick Bountouvas
 date: '2020-10-23'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1649868502967-ARU34G7QCHKBTVUX44QY/Nick+Photo.jpg
+  /images/team/nick-bountouvas-Hagtv.jpg
 categories:
   - Senior Associate
 sqsTags: []
@@ -16,7 +16,7 @@ seoDescription: >-
   execution of M&amp;A and capital raising transactions for high-growth
   technology companies.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/6256fa5d61b3e05d364a8cac/1790634784470/Nick+Photo.jpg?format=1500w
+  /images/team/nick-bountouvas-Hagtv-2.jpg
 sqsId: 6256fa5d61b3e05d364a8cac
 sqsOrder: 10
 ---
@@ -37,7 +37,7 @@ sqsOrder: 10
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/f91a0b28-d607-4c64-bc42-205a6ca1ddd0/Nick+Photo.jpg" alt="" />
+                <img src="/images/team/nick-bountouvas-Hagtv-3.jpg" alt="" />
 
             
           

@@ -2,7 +2,7 @@
 title: ReminderCall acquired by Rectangle Health
 date: '2022-11-01'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1695078991908-98TAS2D99MA9HTNPKRE3/ReminderCall.png
+  /images/experience/remindercall-acquired-by-rectangle-health.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -15,7 +15,7 @@ excerpt: ''
 seoTitle: ReminderCall acquired by Rectangle Health — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/6508d43318d07436306cdd28/1710807220136/ReminderCall.png?format=1500w
+  /images/experience/remindercall-acquired-by-rectangle-health-2.png
 sqsId: 6508d43318d07436306cdd28
 sqsOrder: 22
 ---

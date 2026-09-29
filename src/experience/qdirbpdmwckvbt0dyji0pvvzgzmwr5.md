@@ -2,7 +2,7 @@
 title: CyberShift acquired by SumTotal
 date: '2020-12-17'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1608566466062-JRHGDI1M0SY5A9XZ4RAM/Cubershift-2.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5.jpg
 categories:
   - Strategic
   - Merger & Acquisition
@@ -17,7 +17,7 @@ excerpt: ''
 seoTitle: CyberShift acquired by SumTotal — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/5fdabfc240dfbf21cfe8e3cb/1610923791474/Cubershift-2.jpg?format=1500w
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-2.jpg
 sqsId: 5fdabfc240dfbf21cfe8e3cb
 sqsOrder: 103
 ---

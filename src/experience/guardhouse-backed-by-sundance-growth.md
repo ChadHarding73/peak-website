@@ -4,7 +4,7 @@ title: >-
   on Strategic Investment from Sundance Growth
 date: '2026-03-17'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1773708233617-GWBGPRRVAJ7FZXJD85WP/GUARDHOUSE+FINAL+.png
+  /images/experience/guardhouse-backed-by-sundance-growth.png
 categories:
   - SaaS
   - Productivity
@@ -19,7 +19,7 @@ seoTitle: >-
   on Strategic Investment from Sundance Growth — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/69b8a3825dc2625ac4ddd601/1784243871646/GUARDHOUSE+FINAL+.png?format=1500w
+  /images/experience/guardhouse-backed-by-sundance-growth-2.png
 sqsId: 69b8a3825dc2625ac4ddd601
 sqsOrder: 2
 ---

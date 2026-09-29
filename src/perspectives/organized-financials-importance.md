@@ -2,7 +2,7 @@
 title: 'Why Disorganized Financials Kill Deals: The Hidden Cost of Messy Books'
 date: '2025-10-27'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1761541311982-YN6MAR61TMNWZHVJ8PKC/istockphoto-1474786273-612x612.jpg
+  /images/perspectives/organized-financials-importance.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -25,7 +25,7 @@ seoDescription: >-
   financial clarity into  defensible, bankable value  that holds up under
   scrutiny.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/68fef66099424c05f2acdf92/1770846579172/istockphoto-1474786273-612x612.jpg?format=1500w
+  /images/perspectives/organized-financials-importance-2.jpg
 sqsId: 68fef66099424c05f2acdf92
 sqsOrder: 13
 ---

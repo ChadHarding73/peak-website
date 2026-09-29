@@ -2,7 +2,7 @@
 title: Guidekick acquired by ServiceChannel
 date: '2021-01-30'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611969368745-MHJ1Z0AA6S9XARAZMGYH/GuideKick.jpg
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne-bphe9-2snrc-yxfza.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -14,7 +14,7 @@ excerpt: ''
 seoTitle: Guidekick acquired by ServiceChannel — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/6014b32045eb9438ae2fe159/1611969422370/GuideKick.jpg?format=1500w
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne-bphe9-2snrc-yxfza-2.jpg
 sqsId: 6014b32045eb9438ae2fe159
 sqsOrder: 57
 ---

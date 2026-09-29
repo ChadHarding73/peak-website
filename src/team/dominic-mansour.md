@@ -2,7 +2,7 @@
 title: Dominic Mansour
 date: '2020-10-30'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1669748722967-SVVAKG32OZNP2WWXIVAC/IMG-0664+%281%29.jpg
+  /images/team/dominic-mansour.jpg
 categories:
   - Senior Associate
 sqsTags: []
@@ -16,7 +16,7 @@ seoDescription: >-
   investment banking experience, primarily focused on business development and
   M&amp;A and capital raising for technology entrepreneurs.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/638631e0ecbe7753b1a202d5/1790634760986/IMG-0664+%281%29.jpg?format=1500w
+  /images/team/dominic-mansour-2.jpg
 sqsId: 638631e0ecbe7753b1a202d5
 sqsOrder: 9
 ---
@@ -37,7 +37,7 @@ sqsOrder: 9
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/0710039c-67cb-4f81-9edc-38127ce1ddee/IMG-0664+%281%29.jpg" alt="" />
+                <img src="/images/team/dominic-mansour-3.jpg" alt="" />
 
             
           

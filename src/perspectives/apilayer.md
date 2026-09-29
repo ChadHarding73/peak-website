@@ -2,7 +2,7 @@
 title: 'Selling the Future: apilayer Acquired by Idera'
 date: '2021-02-01'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1612214926174-5QQOJ7SDFAZPXL2UPNL0/image-asset.jpeg
+  /images/perspectives/apilayer.jpg
 categories:
   - Case Study
 sqsTags: []
@@ -18,7 +18,7 @@ seoDescription: >-
   premium outcome in an expedited fashion using competitive tension and process
   expertise.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/60186f3a519cc03c6fa03b93/1784956561959/?format=1500w
+  /images/perspectives/apilayer-2.jpg
 sqsId: 60186f3a519cc03c6fa03b93
 sqsOrder: 44
 ---

@@ -4,7 +4,7 @@ title: >-
   Companies?
 date: '2025-01-27'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1738006353333-ONC4G7EOGIX6S33764NS/DeepSeek-AI-predicts-XRP-price-for-end-of-2025.jpg
+  /images/perspectives/1gkasna4ekg39ba9klbvvzlowsdjej.jpg
 categories: []
 sqsTags: []
 excerpt: "<p>DeepSeek represents a growing force in AI, particularly with its open-weight models. While American AI companies still lead in innovation, DeepSeek’s rise could challenge their dominance by increasing competition, influencing pricing, and reshaping global AI geopolitics. These developments underscore the dynamic and competitive nature of the global AI industry, with DeepSeek's innovations prompting significant considerations for American AI companies.\_</p>"
@@ -20,7 +20,7 @@ seoDescription: >-
   innovations prompting significant considerations for American AI
   companies.&nbsp;
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/6797d1ce88002c3f155d59f4/1770848381287/DeepSeek-AI-predicts-XRP-price-for-end-of-2025.jpg?format=1500w
+  /images/perspectives/1gkasna4ekg39ba9klbvvzlowsdjej-2.jpg
 sqsId: 6797d1ce88002c3f155d59f4
 sqsOrder: 34
 ---

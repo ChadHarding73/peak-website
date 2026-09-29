@@ -2,7 +2,7 @@
 title: Snagajob receives investment from Split Rock Partners
 date: '2021-01-06'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1609913469969-IH9HO4SDXL0V6RV3RP0Q/SnagAJob.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2.jpg
 categories:
   - Capital Raise
   - Financial
@@ -15,7 +15,7 @@ seoTitle: >-
   Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/5ff5528d57c1e706a54958d0/1630093372911/SnagAJob.jpg?format=1500w
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-2.jpg
 sqsId: 5ff5528d57c1e706a54958d0
 sqsOrder: 92
 ---

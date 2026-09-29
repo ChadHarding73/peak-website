@@ -2,7 +2,7 @@
 title: Preparing Your Software Company for an Exit
 date: '2024-11-08'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1730939372238-VW4GN8V6IOZ5PIBFBW0L/Copy+of+Large+M%26A+Blog+LinkedIn.png
+  /images/perspectives/software-company-exit-blog.png
 categories:
   - Thoughts
 sqsTags: []
@@ -20,7 +20,7 @@ seoDescription: >-
   company for an M&amp;A exit. With these steps and a PEAK advisor by your side,
   you will be the most prepared of all.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/672a7ca056dfc27f389998c5/1731109833641/Copy+of+Large+M%26A+Blog+LinkedIn.png?format=1500w
+  /images/perspectives/software-company-exit-blog-2.png
 sqsId: 672a7ca056dfc27f389998c5
 sqsOrder: 38
 ---

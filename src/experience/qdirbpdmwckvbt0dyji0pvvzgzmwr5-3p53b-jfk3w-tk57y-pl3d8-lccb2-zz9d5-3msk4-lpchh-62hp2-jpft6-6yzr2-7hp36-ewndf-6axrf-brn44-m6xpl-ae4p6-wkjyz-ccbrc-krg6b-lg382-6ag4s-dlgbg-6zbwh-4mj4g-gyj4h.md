@@ -2,7 +2,7 @@
 title: Infotrieve acquired by Copyright Clearance Center
 date: '2021-01-22'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611273849789-WVEUBCBBO5FFK8XCKZLO/Infotrieve.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s-dlgbg-6zbwh-4mj4g-gyj4h.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -15,7 +15,7 @@ excerpt: ''
 seoTitle: Infotrieve acquired by Copyright Clearance Center — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/600a166a019393013fe00d91/1612194683020/Infotrieve.jpg?format=1500w
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s-dlgbg-6zbwh-4mj4g-gyj4h-2.jpg
 sqsId: 600a166a019393013fe00d91
 sqsOrder: 77
 ---

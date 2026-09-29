@@ -2,7 +2,7 @@
 title: 'Asset Sale vs. Stock Sale: Structuring the Best Exit for Your Software Company'
 date: '2025-03-04'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1741121759149-CTUX8UUH1A25L3FNU3TM/man-in-suit-choosing-between-two-different-choices-vector.jpg
+  /images/perspectives/asset-sale-vs-stock-sale.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -42,7 +42,7 @@ seoDescription: >-
   Understanding these key differences will enable sellers to make informed
   decisions and optimize their post-sale outcomes.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/67c641a5f2c6666a9e1fc323/1770847882841/man-in-suit-choosing-between-two-different-choices-vector.jpg?format=1500w
+  /images/perspectives/asset-sale-vs-stock-sale-2.jpg
 sqsId: 67c641a5f2c6666a9e1fc323
 sqsOrder: 27
 ---

@@ -4,7 +4,7 @@ title: >-
   with Dazos’ $25M Series A
 date: '2025-05-19'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1749147461082-RA6TZEVRSUZMGKPVTCDP/Dazos+Website+Image+%281%29.png
+  /images/experience/dazos-series-a-capital-raise.png
 categories:
   - Capital Raise
   - Healthcare
@@ -20,7 +20,7 @@ seoTitle: >-
   with Dazos’ $25M Series A — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/6841d846fb28ea78305f53e1/1763007915914/Dazos+Website+Image+%281%29.png?format=1500w
+  /images/experience/dazos-series-a-capital-raise-2.png
 sqsId: 6841d846fb28ea78305f53e1
 sqsOrder: 7
 ---

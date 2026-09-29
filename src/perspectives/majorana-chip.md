@@ -2,7 +2,7 @@
 title: 'Microsoft’s Majorana Chip: The Quantum Leap'
 date: '2025-02-27'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1740675103104-YXVZVSRCQ8KI4XH4ER45/32063_482566_microsoftchip_updates.jpg
+  /images/perspectives/majorana-chip.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -31,7 +31,7 @@ seoDescription: >-
   quantum-powered solutions redefine how industries operate and compete.  Is
   your business ready for the quantum leap?
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/67bfae90b9323b021f32f3d5/1770847938355/32063_482566_microsoftchip_updates.jpg?format=1500w
+  /images/perspectives/majorana-chip-2.jpg
 sqsId: 67bfae90b9323b021f32f3d5
 sqsOrder: 28
 ---

@@ -2,7 +2,7 @@
 title: 2021 Recap
 date: '2018-07-12'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641920254566-65JHLZQPRMFX8K6H6ANK/PEAK+2021+Results.png
+  /images/perspectives/2021recap.png
 categories:
   - Thoughts
 sqsTags: []
@@ -10,7 +10,7 @@ excerpt: <p>Highlights from 2021</p>
 seoTitle: 2021 Recap — Peak Technology Partners
 seoDescription: Highlights from 2021
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/61d79f5e6efe1c7002d98368/1784956440701/PEAK+2021+Results.png?format=1500w
+  /images/perspectives/2021recap-2.png
 sqsId: 61d79f5e6efe1c7002d98368
 sqsOrder: 54
 ---
@@ -27,7 +27,7 @@ sqsOrder: 54
         
           
             
-              <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641524907082-NM0O4HTWMJBKN24LI2V3/Slide2.jpeg" alt="Slide2.jpeg" />
+              <img src="/images/perspectives/2021recap-3.jpg" alt="Slide2.jpeg" />
             
           
           
@@ -42,7 +42,7 @@ sqsOrder: 54
         
           
             
-              <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523051086-X9XFPVMHRKGEEVLC7BJI/Slide3.jpeg" alt="Slide3.jpeg" />
+              <img src="/images/perspectives/2021recap-4.jpg" alt="Slide3.jpeg" />
             
           
           
@@ -57,7 +57,7 @@ sqsOrder: 54
         
           
             
-              <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523051616-JDXAR8ALO4RPNFPN4EW7/Slide4.jpeg" alt="Slide4.jpeg" />
+              <img src="/images/perspectives/2021recap-5.jpg" alt="Slide4.jpeg" />
             
           
           
@@ -72,7 +72,7 @@ sqsOrder: 54
         
           
             
-              <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523051637-0MB3VLTT7JHDIU19GFYW/Slide5.jpeg" alt="Slide5.jpeg" />
+              <img src="/images/perspectives/2021recap-6.jpg" alt="Slide5.jpeg" />
             
           
           
@@ -87,7 +87,7 @@ sqsOrder: 54
         
           
             
-              <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523052121-GHJNHAOC2X6SKA11H4L0/Slide6.jpeg" alt="Slide6.jpeg" />
+              <img src="/images/perspectives/2021recap-7.jpg" alt="Slide6.jpeg" />
             
           
           
@@ -102,7 +102,7 @@ sqsOrder: 54
         
           
             
-              <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523052163-H4ZN040N0BXSV05POSNO/Slide7.jpeg" alt="Slide7.jpeg" />
+              <img src="/images/perspectives/2021recap-8.jpg" alt="Slide7.jpeg" />
             
           
           
@@ -117,7 +117,7 @@ sqsOrder: 54
         
           
             
-              <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523052636-MVYZ75WRCNMCFEXLQZ89/Slide8.jpeg" alt="Slide8.jpeg" />
+              <img src="/images/perspectives/2021recap-9.jpg" alt="Slide8.jpeg" />
             
           
           
@@ -132,7 +132,7 @@ sqsOrder: 54
         
           
             
-              <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523052643-FOKSJ4Z58MESNTR3Y2HE/Slide9.jpeg" alt="Slide9.jpeg" />
+              <img src="/images/perspectives/2021recap-10.jpg" alt="Slide9.jpeg" />
             
           
           
@@ -147,7 +147,7 @@ sqsOrder: 54
         
           
             
-              <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523053146-EOEACG5GRAWHLCNGR4P3/Slide10.jpeg" alt="Slide10.jpeg" />
+              <img src="/images/perspectives/2021recap-11.jpg" alt="Slide10.jpeg" />
             
           
           
@@ -162,7 +162,7 @@ sqsOrder: 54
         
           
             
-              <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523053196-9LLV9GAA6WEXNSE0FPQ3/Slide11.jpeg" alt="Slide11.jpeg" />
+              <img src="/images/perspectives/2021recap-12.jpg" alt="Slide11.jpeg" />
             
           
           
@@ -177,7 +177,7 @@ sqsOrder: 54
         
           
             
-              <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523053967-3Y59QTXAKVG4RFADMUH3/Slide12.jpeg" alt="Slide12.jpeg" />
+              <img src="/images/perspectives/2021recap-13.jpg" alt="Slide12.jpeg" />
             
           
           
@@ -218,7 +218,7 @@ sqsOrder: 54
                 
                 <a>
                   
-                  <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523315906-DB4F13IARTU9946GK3F6/Ryan.jpeg" alt="Ryan.jpeg" />
+                  <img src="/images/perspectives/2021recap-14.jpg" alt="Ryan.jpeg" />
                 </a>
                 
               
@@ -241,7 +241,7 @@ sqsOrder: 54
                 
                 <a>
                   
-                  <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523315826-THM49KM4EAT1GFF7LWP0/Jaclyn.jpeg" alt="Jaclyn.jpeg" />
+                  <img src="/images/perspectives/2021recap-15.jpg" alt="Jaclyn.jpeg" />
                 </a>
                 
               
@@ -264,7 +264,7 @@ sqsOrder: 54
                 
                 <a>
                   
-                  <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523316343-SX3LJZ3H5GIDSNLQBJ04/Taylor.png" alt="Taylor.png" />
+                  <img src="/images/perspectives/2021recap-16.png" alt="Taylor.png" />
                 </a>
                 
               
@@ -287,7 +287,7 @@ sqsOrder: 54
                 
                 <a>
                   
-                  <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523316385-MDJX15W56X21IGUGSOQL/Morgan.jpeg" alt="Morgan.jpeg" />
+                  <img src="/images/perspectives/2021recap-17.jpg" alt="Morgan.jpeg" />
                 </a>
                 
               
@@ -310,7 +310,7 @@ sqsOrder: 54
                 
                 <a>
                   
-                  <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523316746-8YMGHAUHBMVIADN3R35P/Kail.jpeg" alt="Kail.jpeg" />
+                  <img src="/images/perspectives/2021recap-18.jpg" alt="Kail.jpeg" />
                 </a>
                 
               
@@ -333,7 +333,7 @@ sqsOrder: 54
                 
                 <a>
                   
-                  <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523316783-UP9VGR4KKE32BKDU5XY7/Arthur.jpeg" alt="Arthur.jpeg" />
+                  <img src="/images/perspectives/2021recap-19.jpg" alt="Arthur.jpeg" />
                 </a>
                 
               
@@ -356,7 +356,7 @@ sqsOrder: 54
                 
                 <a>
                   
-                  <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523317275-HCIEFLL27M4GI88PWC3X/Miles.jpeg" alt="Miles.jpeg" />
+                  <img src="/images/perspectives/2021recap-20.jpg" alt="Miles.jpeg" />
                 </a>
                 
               
@@ -396,7 +396,7 @@ sqsOrder: 54
                 
                 <a>
                   
-                  <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523412278-YFVW3EZJHBOWRAXVRVXN/Shane.jpeg" alt="Shane.jpeg" />
+                  <img src="/images/perspectives/2021recap-21.jpg" alt="Shane.jpeg" />
                 </a>
                 
               
@@ -419,7 +419,7 @@ sqsOrder: 54
                 
                 <a>
                   
-                  <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523412316-UIRPU39XFORIECM2AMW5/Zach.jpeg" alt="Zach.jpeg" />
+                  <img src="/images/perspectives/2021recap-22.jpg" alt="Zach.jpeg" />
                 </a>
                 
               
@@ -442,7 +442,7 @@ sqsOrder: 54
                 
                 <a>
                   
-                  <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523412767-11GCN4Z95JPCM9XH6VJE/James.jpeg" alt="James.jpeg" />
+                  <img src="/images/perspectives/2021recap-23.jpg" alt="James.jpeg" />
                 </a>
                 
               
@@ -465,7 +465,7 @@ sqsOrder: 54
                 
                 <a>
                   
-                  <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1641523412812-VWOR957VNO9SXR0T0YLD/Jonah.jpeg" alt="Jonah.jpeg" />
+                  <img src="/images/perspectives/2021recap-24.jpg" alt="Jonah.jpeg" />
                 </a>
                 
               

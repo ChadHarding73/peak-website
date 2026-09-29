@@ -2,7 +2,7 @@
 title: Latista acquired by Textura
 date: '2021-01-07'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1609998193012-ZWBBGTXECSMVKM9L2ZJM/Latista.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -14,7 +14,7 @@ excerpt: ''
 seoTitle: Latista acquired by Textura — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/5ff69f13bd7a7c192288adc0/1610932577767/Latista.jpg?format=1500w
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-2.jpg
 sqsId: 5ff69f13bd7a7c192288adc0
 sqsOrder: 83
 ---

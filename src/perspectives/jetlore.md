@@ -2,7 +2,7 @@
 title: 'Go the Extra Mile: Jetlore Acquired by PayPal'
 date: '2021-02-01'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1612449637346-XK54WO9CNEJFJE2D5A2F/image-asset.jpeg
+  /images/perspectives/jetlore.jpg
 categories:
   - Case Study
 sqsTags: []
@@ -18,7 +18,7 @@ seoDescription: >-
   ability to develop a strong acquisition thesis for a less-than-obvious buyer
   enabled us to create an optimal outcome for Jetlore.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/601c06692f537f095a09e4b5/1713390627411/?format=1500w
+  /images/perspectives/jetlore-2.jpg
 sqsId: 601c06692f537f095a09e4b5
 sqsOrder: 46
 ---

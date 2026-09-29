@@ -2,7 +2,7 @@
 title: 'Julia Piedimonte '
 date: '2020-06-23'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1772128538548-QEP4BMOIP2I3KYNAEAIH/IMG_3670.jpeg
+  /images/team/julia-piedimonte-w77h7-fnsjj.jpg
 categories:
   - Operations Manager
 sqsTags: []
@@ -14,7 +14,7 @@ seoDescription: >-
   As the Operations Manager of Peak Technology Partners, Julia oversees all
   operational and administrative functions of the business.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/6806be8a8140bc2507cd51a0/1790634973835/IMG_3670.jpeg?format=1500w
+  /images/team/julia-piedimonte-w77h7-fnsjj-2.jpg
 sqsId: 6806be8a8140bc2507cd51a0
 sqsOrder: 18
 ---
@@ -35,7 +35,7 @@ sqsOrder: 18
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/97b24517-c502-47e0-a81d-aeb7a876e82e/IMG_3670.jpeg" alt="" />
+                <img src="/images/team/julia-piedimonte-w77h7-fnsjj-3.jpg" alt="" />
 
             
           

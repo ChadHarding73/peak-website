@@ -2,7 +2,7 @@
 title: AvenueHQ Closes Majority Capitalization
 date: '2024-10-08'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1728413114285-G05CXQAP197HCRGPFPPJ/Copy+of+Projector+%288%29.png
+  /images/experience/avenuehq-majority-recapitalization.png
 categories:
   - Productivity
   - SaaS
@@ -15,7 +15,7 @@ excerpt: ''
 seoTitle: AvenueHQ Closes Majority Capitalization — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/67042712270f025935846ea5/1747768710269/Copy+of+Projector+%288%29.png?format=1500w
+  /images/experience/avenuehq-majority-recapitalization-2.png
 sqsId: 67042712270f025935846ea5
 sqsOrder: 10
 ---

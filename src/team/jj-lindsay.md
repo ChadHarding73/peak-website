@@ -2,7 +2,7 @@
 title: JJ Lindsay
 date: '2020-06-27'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1754608184783-WTUX4OFFZ04ZEPEXPZPJ/website+jj++3.jpg
+  /images/team/jj-lindsay.jpg
 categories:
   - Analyst
 sqsTags: []
@@ -14,7 +14,7 @@ seoDescription: >-
   JJ is an Analyst at Peak Technology Partners where he focuses on executing
   mergers, acquisitions, and capital raises for technology companies.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/6805b2bdb1859a578dea2dc3/1790634864367/website+jj++3.jpg?format=1500w
+  /images/team/jj-lindsay-2.jpg
 sqsId: 6805b2bdb1859a578dea2dc3
 sqsOrder: 14
 ---
@@ -35,7 +35,7 @@ sqsOrder: 14
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/c2714060-22d4-4660-83fe-ff069fc2a508/4BD0DB6F-0FA4-435D-B9FC-5C7E7BFAD449_1_201_a.jpeg" alt="" />
+                <img src="/images/team/jj-lindsay-3.jpg" alt="" />
 
             
           

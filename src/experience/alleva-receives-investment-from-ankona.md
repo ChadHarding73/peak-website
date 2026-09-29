@@ -2,7 +2,7 @@
 title: Alleva receives investment from Ankona Capital Partners
 date: '2022-11-16'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1668639812126-V5822W7UU3L9ONUG1X7G/Alleva+%281%29.png
+  /images/experience/alleva-receives-investment-from-ankona.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -16,7 +16,7 @@ seoTitle: >-
   Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/637569dc61cac64f930b526b/1784677938777/Alleva+%281%29.png?format=1500w
+  /images/experience/alleva-receives-investment-from-ankona-2.png
 sqsId: 637569dc61cac64f930b526b
 sqsOrder: 20
 ---

@@ -4,7 +4,7 @@ title: >-
   AlarmCAD, on Its Sale to VisualLogix
 date: '2026-03-18'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1785190287573-STE8GA0ZMUB1O2V4HKPE/insight+updated+%282%29.png
+  /images/experience/autosprink-insight.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -19,7 +19,7 @@ seoTitle: >-
   AlarmCAD, on Its Sale to VisualLogix — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/691557353f17481317925130/1790721901631/insight+updated+%282%29.png?format=1500w
+  /images/experience/autosprink-insight-2.png
 sqsId: 691557353f17481317925130
 sqsOrder: 1
 ---

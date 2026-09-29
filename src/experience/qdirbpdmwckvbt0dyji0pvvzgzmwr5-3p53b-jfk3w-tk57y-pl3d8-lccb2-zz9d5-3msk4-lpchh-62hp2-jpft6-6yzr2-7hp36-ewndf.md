@@ -2,7 +2,7 @@
 title: Field ID acquired by Master Lock
 date: '2021-01-07'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1609984270711-AD8G2W14DE20Y71MPJ87/FieldID.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -14,7 +14,7 @@ excerpt: ''
 seoTitle: Field ID acquired by Master Lock — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/5ff668c1ea4dd066264d0a8e/1610931734779/FieldID.jpg?format=1500w
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-2.jpg
 sqsId: 5ff668c1ea4dd066264d0a8e
 sqsOrder: 90
 ---

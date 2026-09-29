@@ -2,7 +2,7 @@
 title: How Do Market Cycles Shape Acquisition Timing for Bootstrapped Companies?
 date: '2025-10-20'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1760980308819-R0JEMNR469TX2BX7Z57V/istockphoto-1474513420-612x612.jpg
+  /images/perspectives/market-cycle-effects.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -37,7 +37,7 @@ seoDescription: >-
   language acquirers value most — and the best time to prepare for that story
   is  before  the cycle turns.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/68f65b37936af0186e3a31ac/1761539680100/istockphoto-1474513420-612x612.jpg?format=1500w
+  /images/perspectives/market-cycle-effects-2.jpg
 sqsId: 68f65b37936af0186e3a31ac
 sqsOrder: 14
 ---

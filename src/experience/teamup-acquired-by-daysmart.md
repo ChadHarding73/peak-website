@@ -2,7 +2,7 @@
 title: TeamUp acquired by DaySmart Software
 date: '2022-09-08'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1662681306536-L2SPCECBDG52ZQJPO6KH/TeamUp.png
+  /images/experience/teamup-acquired-by-daysmart.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -16,7 +16,7 @@ excerpt: ''
 seoTitle: TeamUp acquired by DaySmart Software — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/631a7a6fa4008014d185a538/1710807267303/TeamUp.png?format=1500w
+  /images/experience/teamup-acquired-by-daysmart-2.png
 sqsId: 631a7a6fa4008014d185a538
 sqsOrder: 24
 ---

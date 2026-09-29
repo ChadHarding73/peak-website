@@ -2,7 +2,7 @@
 title: Allscreen acquired by Zealot Networks
 date: '2021-01-22'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611283719896-3MOTDVN0CXJDAV5V1V8D/AllScreen.jpg
+  /images/experience/d839zm9dfzm6brb-r28bp.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -13,7 +13,7 @@ excerpt: ''
 seoTitle: Allscreen acquired by Zealot Networks — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/600a3cf54d780e77412eda68/1645215010944/AllScreen.jpg?format=1500w
+  /images/experience/d839zm9dfzm6brb-r28bp-2.jpg
 sqsId: 600a3cf54d780e77412eda68
 sqsOrder: 73
 ---

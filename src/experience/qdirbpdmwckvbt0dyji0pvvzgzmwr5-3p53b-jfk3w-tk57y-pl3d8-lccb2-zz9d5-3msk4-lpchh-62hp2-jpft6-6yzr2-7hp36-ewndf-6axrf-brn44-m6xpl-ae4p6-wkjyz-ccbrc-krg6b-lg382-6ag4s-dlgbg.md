@@ -2,7 +2,7 @@
 title: iBoats acquisition
 date: '2021-01-21'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611271232955-XIJJW18HW03KQRTQOW1B/iboats.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s-dlgbg.jpg
 categories:
   - Merger & Acquisition
   - Financial
@@ -12,7 +12,7 @@ excerpt: ''
 seoTitle: iBoats acquisition — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/600a0bc490e8304a595d9612/1755208583501/iboats.jpg?format=1500w
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s-dlgbg-2.jpg
 sqsId: 600a0bc490e8304a595d9612
 sqsOrder: 80
 ---

@@ -4,7 +4,7 @@ title: >-
   ServicePower
 date: '2025-06-07'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1764115987669-UTYK1TER7ZLZ69PYILYY/PlusOne+Website+Image.png
+  /images/experience/plusonesolutions-acquisition-by-servicepower.png
 categories:
   - Merger & Acquisition
   - Strategic
@@ -19,7 +19,7 @@ seoTitle: >-
   ServicePower — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/69153f4a22ab50191edfe365/1790721953008/PlusOne+Website+Image.png?format=1500w
+  /images/experience/plusonesolutions-acquisition-by-servicepower-2.png
 sqsId: 69153f4a22ab50191edfe365
 sqsOrder: 4
 ---

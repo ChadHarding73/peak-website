@@ -2,7 +2,7 @@
 title: Agiloft investment from FTV Capital
 date: '2021-01-30'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611970416273-ZM2IBSJZX1Y8X3V3LFFA/Agiloft.jpg
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne-bphe9-2snrc-yxfza-b47j3-46gcc.jpg
 categories:
   - Financial
   - Productivity
@@ -15,7 +15,7 @@ excerpt: ''
 seoTitle: Agiloft investment from FTV Capital — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/6014b720fc0b927027bfbddb/1790722351227/Agiloft.jpg?format=1500w
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne-bphe9-2snrc-yxfza-b47j3-46gcc-2.jpg
 sqsId: 6014b720fc0b927027bfbddb
 sqsOrder: 54
 ---

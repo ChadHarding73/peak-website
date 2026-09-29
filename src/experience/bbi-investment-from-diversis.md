@@ -2,7 +2,7 @@
 title: Black Box Intelligence receives investment from Diversis Capital
 date: '2021-02-09'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1613080099831-ZS7C2FAZHSVNLMP4T20U/BBI-Diversis+Capital.png
+  /images/experience/bbi-investment-from-diversis.png
 categories:
   - Financial
   - SaaS
@@ -17,7 +17,7 @@ seoTitle: >-
   Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/60258aa5f0af0e319dcbfbb2/1632178347758/BBI-Diversis+Capital.png?format=1500w
+  /images/experience/bbi-investment-from-diversis-2.png
 sqsId: 60258aa5f0af0e319dcbfbb2
 sqsOrder: 48
 ---

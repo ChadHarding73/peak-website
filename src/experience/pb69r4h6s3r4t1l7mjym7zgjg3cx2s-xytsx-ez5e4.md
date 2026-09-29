@@ -2,7 +2,7 @@
 title: 7Geese acquired by Paycor
 date: '2021-01-31'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611972036566-IQAU5WK9YJRE4VSO72Z0/7geese.jpg
+  /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-xytsx-ez5e4.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -17,7 +17,7 @@ excerpt: ''
 seoTitle: 7Geese acquired by Paycor — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/6014bd4ada94a961a3b4e0d2/1710809516086/7geese.jpg?format=1500w
+  /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-xytsx-ez5e4-2.jpg
 sqsId: 6014bd4ada94a961a3b4e0d2
 sqsOrder: 51
 ---

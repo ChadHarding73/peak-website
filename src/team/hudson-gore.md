@@ -2,7 +2,7 @@
 title: Hudson Gore
 date: '2020-06-25'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1778192633470-0EKIO3IO3AOIWXMHYLUP/IMG_2626+2.jpg
+  /images/team/hudson-gore.jpg
 categories:
   - Analyst
 sqsTags: []
@@ -16,7 +16,7 @@ seoDescription: >-
   development and the execution of M&amp;A and capital raising transactions for
   technology companies.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/689523fa298f9e7c2560a892/1790634883790/IMG_2626+2.jpg?format=1500w
+  /images/team/hudson-gore-2.jpg
 sqsId: 689523fa298f9e7c2560a892
 sqsOrder: 15
 ---
@@ -37,7 +37,7 @@ sqsOrder: 15
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1778192633470-0EKIO3IO3AOIWXMHYLUP/IMG_2626+2.jpg" alt="" />
+                <img src="/images/team/hudson-gore.jpg" alt="" />
 
             
           

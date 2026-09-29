@@ -4,7 +4,7 @@ title: >-
   Partners
 date: '2021-02-01'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1612450917233-UCK05CTZ0GZTA1CY1N3X/image-asset.jpeg
+  /images/perspectives/chime.jpg
 categories:
   - Case Study
 sqsTags: []
@@ -18,7 +18,7 @@ seoDescription: >-
   A strong mission matters. When it comes to finding the ideal investor for an
   impact-driven company, it’s all about the story.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/601c066e17909115676895ea/1713390651531/?format=1500w
+  /images/perspectives/chime-2.jpg
 sqsId: 601c066e17909115676895ea
 sqsOrder: 45
 ---

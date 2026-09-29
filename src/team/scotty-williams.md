@@ -2,7 +2,7 @@
 title: Scotty Williams
 date: '2020-11-29'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611614312587-9FD38ET1H6XKEPMVD9YW/Williams-01-crop-select-b.jpg
+  /images/team/scotty-williams.jpg
 categories:
   - Managing Director
 sqsTags: []
@@ -16,7 +16,7 @@ seoDescription: >-
   of corporate strategy and investment advisory experience working with software
   and technology-enabled companies.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/5fc7fb2b0764684a2212a9b1/1790634245677/Williams-01-crop-select-b.jpg?format=1500w
+  /images/team/scotty-williams-2.jpg
 sqsId: 5fc7fb2b0764684a2212a9b1
 sqsOrder: 3
 ---
@@ -37,7 +37,7 @@ sqsOrder: 3
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611614136659-OH8VVKS1CIAKFZSA8GJ6/Williams-01-crop-select.jpg" alt="Williams-01-crop-select.jpg" />
+                <img src="/images/team/scotty-williams-3.jpg" alt="Williams-01-crop-select.jpg" />
 
             
           

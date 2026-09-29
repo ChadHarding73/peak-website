@@ -2,7 +2,7 @@
 title: Partek acquired by Illumina
 date: '2024-05-03'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1714769151478-8PSUBVAU7N0SZ1JTPNE0/Partek+%281%29.png
+  /images/experience/partek-acquired-by-illumina-86xay-tzmkb.png
 categories:
   - Merger & Acquisition
   - AI
@@ -11,7 +11,7 @@ excerpt: ''
 seoTitle: Partek acquired by Illumina — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/663543f36083727ccd6f5d1d/1790723790692/Partek+%281%29.png?format=1500w
+  /images/experience/partek-acquired-by-illumina-86xay-tzmkb-2.png
 sqsId: 663543f36083727ccd6f5d1d
 sqsOrder: 12
 ---

@@ -2,7 +2,7 @@
 title: 'The Expectation Gap: How to Perceive Your Company’s Valuation'
 date: '2025-10-13'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1760379520866-OFML6HW38GYQVSX7077F/istockphoto-1560022040-612x612.jpg
+  /images/perspectives/startup-exit-goals.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -30,7 +30,7 @@ seoDescription: >-
   measurable KPIs. By de-risking the business and focusing on verifiable EBITDA,
   you can ensure the final offer meets your personal minimum
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/68ed74c36dd4cc18d092cc23/1770846730811/istockphoto-1560022040-612x612.jpg?format=1500w
+  /images/perspectives/startup-exit-goals-2.jpg
 sqsId: 68ed74c36dd4cc18d092cc23
 sqsOrder: 16
 ---

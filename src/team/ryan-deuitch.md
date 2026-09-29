@@ -2,7 +2,7 @@
 title: Ryan Deuitch
 date: '2020-06-24'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1778191051390-EAYYHUVJP8B528GQI1V4/Headshot+2023+5.jpg
+  /images/team/ryan-deuitch.jpg
 categories:
   - Analyst
 sqsTags: []
@@ -16,7 +16,7 @@ seoDescription: >-
   execution of M&amp;A and capital raising transactions for technology
   companies.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/69fbc3834a4fb5359bf0ed66/1790634900044/Headshot+2023+5.jpg?format=1500w
+  /images/team/ryan-deuitch-2.jpg
 sqsId: 69fbc3834a4fb5359bf0ed66
 sqsOrder: 16
 ---
@@ -37,7 +37,7 @@ sqsOrder: 16
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1778191051390-EAYYHUVJP8B528GQI1V4/Headshot+2023+5.jpg" alt="" />
+                <img src="/images/team/ryan-deuitch.jpg" alt="" />
 
             
           

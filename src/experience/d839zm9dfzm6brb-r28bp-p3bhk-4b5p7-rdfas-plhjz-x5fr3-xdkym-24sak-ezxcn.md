@@ -2,7 +2,7 @@
 title: Proposify receives investment from Innovacorp
 date: '2021-01-26'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611642975259-UG3Z429VCZFYFUZS9N3S/Proposify.jpg
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn.jpg
 categories:
   - Capital Raise
   - Financial
@@ -15,7 +15,7 @@ excerpt: ''
 seoTitle: Proposify receives investment from Innovacorp — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/600fb7e0b64c0f3152131f18/1612905378108/Proposify.jpg?format=1500w
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-2.jpg
 sqsId: 600fb7e0b64c0f3152131f18
 sqsOrder: 64
 ---

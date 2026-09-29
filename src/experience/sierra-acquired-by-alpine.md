@@ -2,7 +2,7 @@
 title: Sierra Interactive acquired by Alpine  Software Group
 date: '2022-10-18'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1678906202309-XQLHL5XA65W8PKTCVJ0Z/Sierra+Interactive+%281%29.png
+  /images/experience/sierra-acquired-by-alpine.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -18,7 +18,7 @@ seoTitle: >-
   Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/634e19377486f50d9ba01ad1/1710807235217/Sierra+Interactive+%281%29.png?format=1500w
+  /images/experience/sierra-acquired-by-alpine-2.png
 sqsId: 634e19377486f50d9ba01ad1
 sqsOrder: 23
 ---

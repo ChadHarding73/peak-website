@@ -2,7 +2,7 @@
 title: Kasasa receives investment from The Riverside Company
 date: '2021-01-23'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611633831415-7WS7TJTVA023QFDWPBCS/Kasasa.jpg
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk.jpg
 categories:
   - Capital Raise
   - Financial
@@ -17,7 +17,7 @@ seoTitle: >-
   Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/600f9444f030a30da93a297a/1678896269077/Kasasa.jpg?format=1500w
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-2.jpg
 sqsId: 600f9444f030a30da93a297a
 sqsOrder: 72
 ---

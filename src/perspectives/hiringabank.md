@@ -2,7 +2,7 @@
 title: 'Already Have Interested Parties Wanting to Buy or Invest in Your Company? '
 date: '2022-08-31'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1661894703703-DLELLQ7S38SHBTNGSPL0/PEAK+Teamwork.jpeg
+  /images/perspectives/hiringabank.jpg
 categories:
   - Thoughts
 sqsTags: []
@@ -12,7 +12,7 @@ seoTitle: >-
   Peak Technology Partners
 seoDescription: You should still hire an investment bank.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/630e7eb5d57b626edebba640/1668728312361/PEAK+Teamwork.jpeg?format=1500w
+  /images/perspectives/hiringabank-2.jpg
 sqsId: 630e7eb5d57b626edebba640
 sqsOrder: 40
 ---

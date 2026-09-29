@@ -2,7 +2,7 @@
 title: The February Selloff Was a Gift. Here's Who's Collecting.
 date: '2026-03-11'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1773260404552-68DLW78J0L3D6Y07UE1T/m3ip5qjmQ62H_0_vTjs6_Q%402k.webp
+  /images/perspectives/the-february-selloff-was-a-gift.webp
 categories: []
 sqsTags: []
 excerpt: >-
@@ -43,7 +43,7 @@ seoDescription: >-
   window. But only if you enter it with a process designed to create
   competition—not respond to inbound.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/69b1cda3b96e7d7df06b68d1/1774917546995/m3ip5qjmQ62H_0_vTjs6_Q%402k.webp?format=1500w
+  /images/perspectives/the-february-selloff-was-a-gift-2.webp
 sqsId: 69b1cda3b96e7d7df06b68d1
 sqsOrder: 7
 ---

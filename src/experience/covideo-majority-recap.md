@@ -2,7 +2,7 @@
 title: Covideo Closes Majority Recapitalization with Five Elms
 date: '2022-04-01'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1761165819085-AV237LBO5IVGMHGGO3HR/covideo.png
+  /images/experience/covideo-majority-recap.png
 categories:
   - Capital Raise
   - Productivity
@@ -15,7 +15,7 @@ seoTitle: >-
   Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/61296b39e79fd0609429a665/1790722223586/covideo.png?format=1500w
+  /images/experience/covideo-majority-recap-2.png
 sqsId: 61296b39e79fd0609429a665
 sqsOrder: 30
 ---

@@ -2,7 +2,7 @@
 title: The Art and Science of Building the Right Buyer List
 date: '2025-11-11'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1762824095424-Z9WUR50QYZCP8HQ4RJF5/1_Pd1gTGJAJ7YHnn4wzyq7wA.jpg
+  /images/perspectives/buyer-list.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -25,7 +25,7 @@ seoDescription: >-
   outcomes. The approach reflects Peak Technology Partners’ commitment to
   precision, discretion, and strategic insight in every transaction.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/69125756e151d72207e5cb44/1770846425289/1_Pd1gTGJAJ7YHnn4wzyq7wA.jpg?format=1500w
+  /images/perspectives/buyer-list-2.jpg
 sqsId: 69125756e151d72207e5cb44
 sqsOrder: 12
 ---

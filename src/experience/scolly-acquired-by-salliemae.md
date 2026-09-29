@@ -2,7 +2,7 @@
 title: Scholly acquired by Sallie Mae
 date: '2023-07-26'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1690405893632-RPRZNAV9KE1N7VJV9F2I/Scholly+%282%29.png
+  /images/experience/scolly-acquired-by-salliemae.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -15,7 +15,7 @@ excerpt: ''
 seoTitle: Scholly acquired by Sallie Mae — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/64c145097217090863ff6b59/1728418651362/Scholly+%282%29.png?format=1500w
+  /images/experience/scolly-acquired-by-salliemae-2.png
 sqsId: 64c145097217090863ff6b59
 sqsOrder: 19
 ---

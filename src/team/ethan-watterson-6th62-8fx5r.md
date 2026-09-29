@@ -2,7 +2,7 @@
 title: Ethan Watterson
 date: '2020-07-25'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1725379340615-1BLWX4N4RLDU91ZGHKTT/Image+4-15-24+at+4.07%E2%80%AFPM+%281%29.jpeg
+  /images/team/ethan-watterson-6th62-8fx5r.jpg
 categories:
   - Analyst
 sqsTags: []
@@ -16,7 +16,7 @@ seoDescription: >-
   development, capital markets analysis, and M&amp;A and capital raise deal
   process execution.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/66d732ee2cccf552ad501ed7/1790634847852/Image+4-15-24+at+4.07%E2%80%AFPM+%281%29.jpeg?format=1500w
+  /images/team/ethan-watterson-6th62-8fx5r-2.jpg
 sqsId: 66d732ee2cccf552ad501ed7
 sqsOrder: 13
 ---
@@ -37,7 +37,7 @@ sqsOrder: 13
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/164bcef7-3851-43cf-a98c-315f70457a72/Image+4-15-24+at+4.07%E2%80%AFPM+%281%29.jpeg" alt="" />
+                <img src="/images/team/ethan-watterson-6th62-8fx5r-3.jpg" alt="" />
 
             
           

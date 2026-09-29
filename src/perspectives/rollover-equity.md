@@ -2,7 +2,7 @@
 title: 'Foundations of Investment Banking: Rollover Equity'
 date: '2025-02-18'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1739901710840-7EHDIB9ZY9QLARYJ4FWJ/istockphoto-641029518-612x612.jpg
+  /images/perspectives/rollover-equity.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -25,7 +25,7 @@ seoDescription: >-
   deal structures. Successful outcomes depend on proper negotiation and tax
   planning.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/67a696b1cd5d3c52c207c458/1770848209179/istockphoto-641029518-612x612.jpg?format=1500w
+  /images/perspectives/rollover-equity-2.jpg
 sqsId: 67a696b1cd5d3c52c207c458
 sqsOrder: 30
 ---

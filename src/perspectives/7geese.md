@@ -2,7 +2,7 @@
 title: 'Build Competition & Be Willing to Walk Away: 7Geese Acquired by Paycor'
 date: '2019-07-10'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1612465369650-IOUEXGJYEXPIB5M8RFHF/image-asset.jpeg
+  /images/perspectives/7geese.jpg
 categories:
   - Case Study
 sqsTags: []
@@ -18,7 +18,7 @@ seoDescription: >-
   value is between all the buyers and sellers, and be willing to walk away if
   you don’t get compelling terms, including valuation.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/601c0670a13c23157a8774b9/1713390837092/?format=1500w
+  /images/perspectives/7geese-2.jpg
 sqsId: 601c0670a13c23157a8774b9
 sqsOrder: 52
 ---

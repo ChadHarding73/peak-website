@@ -2,7 +2,7 @@
 title: StarCite acquired by Active Network
 date: '2021-01-06'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1609902671291-LI0BMUXN9OX0CIYBLLBF/StarCite.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w.jpg
 categories:
   - Strategic
   - Merger & Acquisition
@@ -13,7 +13,7 @@ excerpt: ''
 seoTitle: StarCite acquired by Active Network — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/5ff52924cc890e20af5c395c/1610923707102/StarCite.jpg?format=1500w
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-2.jpg
 sqsId: 5ff52924cc890e20af5c395c
 sqsOrder: 101
 ---

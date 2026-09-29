@@ -2,7 +2,7 @@
 title: Simpleview acquired by Ridgemont Equity Partners
 date: '2021-01-07'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1609986028723-7ZMV69SXJ44X6KZFOS3T/Simpleview.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf.jpg
 categories:
   - Merger & Acquisition
   - Financial
@@ -16,7 +16,7 @@ excerpt: ''
 seoTitle: Simpleview acquired by Ridgemont Equity Partners — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/5ff66a1b5775ac1350ea3e1c/1610931857749/Simpleview.jpg?format=1500w
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-2.jpg
 sqsId: 5ff66a1b5775ac1350ea3e1c
 sqsOrder: 89
 ---

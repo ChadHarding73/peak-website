@@ -2,7 +2,7 @@
 title: Matt Wanlass
 date: '2020-10-30'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1710433977337-I1MD5UPR5LB1DH58T7AB/image_123650291+3.JPG
+  /images/team/matt-wanlass-xj8m9.jpg
 categories:
   - Senior Associate
 sqsTags: []
@@ -14,7 +14,7 @@ seoDescription: >-
   Matt is a Senior Associate at Peak Technology Partners, where he works with
   technology founders on M&amp;A and capital raising transactions.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/65f3250e786f285193c571c8/1790634713044/image_123650291+3.JPG?format=1500w
+  /images/team/matt-wanlass-xj8m9-2.jpg
 sqsId: 65f3250e786f285193c571c8
 sqsOrder: 8
 ---
@@ -35,7 +35,7 @@ sqsOrder: 8
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/28b30b20-5272-4542-8e20-8248cf239809/image_123650291+3.JPG" alt="" />
+                <img src="/images/team/matt-wanlass-xj8m9-3.jpg" alt="" />
 
             
           

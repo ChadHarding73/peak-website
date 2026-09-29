@@ -2,7 +2,7 @@
 title: Coppei acquired by Exadel
 date: '2021-08-30'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1678904700591-BOHY2KAOQ6M7EDUKVDYV/Coppei.png
+  /images/experience/coppei-acquired-by-exadel.png
 categories:
   - Merger & Acquisition
   - Financial
@@ -12,7 +12,7 @@ excerpt: ''
 seoTitle: Coppei acquired by Exadel — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/64120c90fdb75230cecc96da/1678904872897/Coppei.png?format=1500w
+  /images/experience/coppei-acquired-by-exadel-2.png
 sqsId: 64120c90fdb75230cecc96da
 sqsOrder: 41
 ---

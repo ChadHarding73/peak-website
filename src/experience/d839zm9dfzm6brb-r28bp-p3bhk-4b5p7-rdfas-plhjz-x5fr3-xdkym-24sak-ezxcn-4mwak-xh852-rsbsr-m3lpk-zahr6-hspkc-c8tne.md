@@ -2,7 +2,7 @@
 title: Black Box Intelligence secures investment from Level Equity
 date: '2021-01-29'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611884612627-J3Z4XZSIWYPMHCG1I079/Blackbox+Intelligence.jpg
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne.jpg
 categories:
   - Capital Raise
   - Financial
@@ -17,7 +17,7 @@ seoTitle: >-
   Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/601366ebc49f6c4a0d9053ff/1632178312526/Blackbox+Intelligence.jpg?format=1500w
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne-2.jpg
 sqsId: 601366ebc49f6c4a0d9053ff
 sqsOrder: 60
 ---

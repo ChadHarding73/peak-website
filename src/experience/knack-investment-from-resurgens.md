@@ -2,7 +2,7 @@
 title: Knack receives investment from Resurgens Technology Partners
 date: '2022-09-01'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1661993495944-TG2HORBZUGWT47AK7VQ8/Copy+of+Projector.png
+  /images/experience/knack-investment-from-resurgens.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -19,7 +19,7 @@ seoTitle: >-
   Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/6310014582d2335bd5ddd2ad/1790722165809/Copy+of+Projector.png?format=1500w
+  /images/experience/knack-investment-from-resurgens-2.png
 sqsId: 6310014582d2335bd5ddd2ad
 sqsOrder: 25
 ---

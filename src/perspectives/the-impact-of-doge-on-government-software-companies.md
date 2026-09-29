@@ -2,7 +2,7 @@
 title: DOGE and the Future of GovTech
 date: '2025-02-04'
 image: >-
-  https://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/67a252c63d94712c85ac9603/1772558438280/
+  /images/perspectives/the-impact-of-doge-on-government-software-companies.png
 categories: []
 sqsTags: []
 excerpt: >-
@@ -27,7 +27,7 @@ seoDescription: >-
   small businesses may benefit from the increased opportunities for government
   contracting.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/t/601b238b5789e648b025c4c0/1612391315776/210202-PEAK-social-01.png?format=1500w
+  /images/pages/the-impact-of-doge-on-government-software-companies-2.png
 sqsId: 67a252c63d94712c85ac9603
 sqsOrder: 33
 ---

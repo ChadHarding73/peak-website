@@ -2,7 +2,7 @@
 title: Why We Founded PEAK
 date: '2024-03-06'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1610940693524-X3D8YENUOVG55SPHM47X/founders-3.jpg
+  /images/perspectives/foundingstory.jpg
 categories:
   - Thoughts
 sqsTags: []
@@ -15,7 +15,7 @@ seoDescription: >-
   to their clients, their vision for the future of PEAK, and why team matters
   most.&nbsp;
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/5fc6966a173fb5383b8ab313/1713390983416/founders-3.jpg?format=1500w
+  /images/perspectives/foundingstory-2.jpg
 sqsId: 5fc6966a173fb5383b8ab313
 sqsOrder: 39
 ---
@@ -44,7 +44,7 @@ sqsOrder: 39
                 
                 <a>
                   
-                  <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611965124282-FT5J37MYAZWH9KKSLXMP/Chad_circle-01.png" alt="Chad Harding" />
+                  <img src="/images/perspectives/foundingstory-3.png" alt="Chad Harding" />
                 </a>
                 
                   Chad Harding
@@ -69,7 +69,7 @@ sqsOrder: 39
                 
                 <a>
                   
-                  <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611965133646-IBENY55S40IW504QPRR8/Kirby-circle-01.png" alt="Dave Kirby" />
+                  <img src="/images/perspectives/foundingstory-4.png" alt="Dave Kirby" />
                 </a>
                 
                   Dave Kirby
@@ -94,7 +94,7 @@ sqsOrder: 39
                 
                 <a>
                   
-                  <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611965141624-4W0RP4TGFP3KGHDQZAB4/Stevenson-circle-01.png" alt="David Stevenson" />
+                  <img src="/images/perspectives/foundingstory-5.png" alt="David Stevenson" />
                 </a>
                 
                   David Stevenson

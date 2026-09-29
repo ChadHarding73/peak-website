@@ -4,7 +4,7 @@ title: >-
   Partners
 date: '2021-01-31'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1608570895330-0Y74C0QCS66RJ1H33UJF/chime-6.jpg
+  /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862.jpg
 categories:
   - Capital Raise
   - Financial
@@ -18,7 +18,7 @@ seoTitle: >-
   Partners — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/5fda741f8708523ef2c58e20/1669223058163/chime-6.jpg?format=1500w
+  /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862-2.jpg
 sqsId: 5fda741f8708523ef2c58e20
 sqsOrder: 50
 ---

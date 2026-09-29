@@ -2,7 +2,7 @@
 title: 'Forecasting 2025: The State of B2B Software'
 date: '2025-01-14'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1736897653109-U2X46REYUB2AQZCCEOJF/Screenshot+2025-01-14+at+3.34.00%E2%80%AFPM.png
+  /images/perspectives/2025-predictions-b2b-software.png
 categories: []
 sqsTags: []
 excerpt: >-
@@ -19,7 +19,7 @@ seoDescription: >-
   and exceptional customer experiences will be strategically positioned for
   long-term success.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/6786e3f70112bb7ac9923bdb/1773082727440/Screenshot+2025-01-14+at+3.34.00%E2%80%AFPM.png?format=1500w
+  /images/perspectives/2025-predictions-b2b-software-2.png
 sqsId: 6786e3f70112bb7ac9923bdb
 sqsOrder: 37
 ---

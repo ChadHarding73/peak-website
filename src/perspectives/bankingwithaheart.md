@@ -2,7 +2,7 @@
 title: Banking with a Heart
 date: '2021-02-01'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1668728925460-H1S88GBLE4N45GP0IDGQ/Screen+Shot+2022-11-17+at+2.25.43+PM.png
+  /images/perspectives/bankingwithaheart.png
 categories:
   - Thoughts
 sqsTags: []
@@ -14,7 +14,7 @@ seoDescription: >-
   Pencils Down Podcast with Finalis' CEO and Host, Federico Baradello and PEAK
   Technology Partners' Founder and Managing Partner, Chad Harding
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/6376c7d24a97ca193c896304/1713390795417/Screen+Shot+2022-11-17+at+2.25.43+PM.png?format=1500w
+  /images/perspectives/bankingwithaheart-2.png
 sqsId: 6376c7d24a97ca193c896304
 sqsOrder: 42
 ---

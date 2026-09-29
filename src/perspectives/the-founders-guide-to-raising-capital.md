@@ -4,7 +4,7 @@ title: >-
   Investment Bank
 date: '2025-03-11'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1741714502436-ZU15I78KD7JSCJUVG3B6/1692289858726.png
+  /images/perspectives/the-founders-guide-to-raising-capital.png
 categories: []
 sqsTags: []
 excerpt: >-
@@ -38,7 +38,7 @@ seoDescription: >-
   process.   Ultimately, founders who approach capital raising with clarity,
   preparation, and the right partners will maximize their chances of success.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/67d060a9f1613a40846207b7/1770847818296/1692289858726.png?format=1500w
+  /images/perspectives/the-founders-guide-to-raising-capital-2.png
 sqsId: 67d060a9f1613a40846207b7
 sqsOrder: 26
 ---

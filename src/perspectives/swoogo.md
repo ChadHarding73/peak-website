@@ -2,7 +2,7 @@
 title: 'Choose a Banker You Trust: Swoogo Acquired by Eagle Rock Capital'
 date: '2019-08-14'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1724427516516-0TPNL68OCNT5TEAC931Q/Screenshot+2024-08-23+083530.png
+  /images/perspectives/swoogo.png
 categories:
   - Case Study
 sqsTags: []
@@ -20,7 +20,7 @@ seoDescription: >-
   and day-out, but a strong relationship built on trust helps ensure ideal
   outcomes—and a better experience—for all parties.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/601c066c9914941f93ad91d9/1724427524036/Screenshot+2024-08-23+083530.png?format=1500w
+  /images/perspectives/swoogo-2.png
 sqsId: 601c066c9914941f93ad91d9
 sqsOrder: 50
 ---

@@ -2,7 +2,7 @@
 title: Level Platforms acquired by AVG
 date: '2021-01-07'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1609987868792-PCITPDKX25ZT3VX8IXXL/Level-Platforms.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -15,7 +15,7 @@ excerpt: ''
 seoTitle: Level Platforms acquired by AVG — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/5ff675d19b1bb00140731813/1610932110983/Level-Platforms.jpg?format=1500w
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-2.jpg
 sqsId: 5ff675d19b1bb00140731813
 sqsOrder: 87
 ---

@@ -2,7 +2,7 @@
 title: Clean Energy Experts acquired by Sunrun
 date: '2021-01-22'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611282805607-2YC58BTF0Y2QY1LBHGQG/Sunrun.jpg
+  /images/experience/d839zm9dfzm6brb.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -14,7 +14,7 @@ excerpt: ''
 seoTitle: Clean Energy Experts acquired by Sunrun — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/600a383e22c19d3062d945f7/1682628675703/Sunrun.jpg?format=1500w
+  /images/experience/d839zm9dfzm6brb-2.jpg
 sqsId: 600a383e22c19d3062d945f7
 sqsOrder: 74
 ---

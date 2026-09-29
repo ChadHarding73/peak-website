@@ -2,7 +2,7 @@
 title: NinjaCat Receives $26M Investment From Clovis Point Capital
 date: '2021-04-02'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1784249434872-VXT00OKWXLREMXA043YZ/ninjacat.png
+  /images/experience/ninjacat-capital-raise-from-clovis-point.png
 categories:
   - SaaS
   - Marketing
@@ -17,7 +17,7 @@ seoTitle: >-
   Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/69015934996d1148911eb00b/1790722321817/ninjacat.png?format=1500w
+  /images/experience/ninjacat-capital-raise-from-clovis-point-2.png
 sqsId: 69015934996d1148911eb00b
 sqsOrder: 46
 ---

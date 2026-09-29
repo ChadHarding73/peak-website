@@ -4,7 +4,7 @@ title: >-
   Decision
 date: '2025-12-11'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1765564055820-HMBR1TDAJLYDXR0NO0I4/How-to-raise-capital-for-a-startup-10-sources-of-capital-to-consider-scaled.webp
+  /images/perspectives/raising-capital.webp
 categories: []
 sqsTags: []
 excerpt: >-
@@ -35,7 +35,7 @@ seoDescription: >-
   practical framework that helps founders evaluate which capital strategy aligns
   best with their goals, capabilities, and long-term vision.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/693b388ad38fe456068f84ba/1774558182577/How-to-raise-capital-for-a-startup-10-sources-of-capital-to-consider-scaled.webp?format=1500w
+  /images/perspectives/raising-capital-2.webp
 sqsId: 693b388ad38fe456068f84ba
 sqsOrder: 9
 ---

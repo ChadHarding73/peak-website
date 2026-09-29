@@ -2,7 +2,7 @@
 title: 'SaaS M&A: Full Sale vs. Majority Recapitalization'
 date: '2025-03-25'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1742860041531-19CLMHIBQ1O6Q1NUKEFC/how-to-sell-private-shares-of-a-company.png
+  /images/perspectives/full-sale-vs-majority-recapitalization.png
 categories: []
 sqsTags: []
 excerpt: >-
@@ -28,7 +28,7 @@ seoDescription: >-
   choosing the right strategy.   This guide breaks down the nuances of both
   options, helping SaaS founders navigate their M&amp;A journey with confidence.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/67e1eb571717533166b9ed35/1770847575361/how-to-sell-private-shares-of-a-company.png?format=1500w
+  /images/perspectives/full-sale-vs-majority-recapitalization-2.png
 sqsId: 67e1eb571717533166b9ed35
 sqsOrder: 24
 ---

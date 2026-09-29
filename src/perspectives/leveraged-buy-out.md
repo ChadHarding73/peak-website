@@ -2,7 +2,7 @@
 title: 'Foundations of Investment Banking: Leveraged Buyout (LBO)'
 date: '2025-02-25'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1740510873523-PTC5DB11BBC01E88ZN7B/istockphoto-1369070758-612x612.jpg
+  /images/perspectives/leveraged-buy-out.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -31,7 +31,7 @@ seoDescription: >-
   high debt burdens and reduced control. The right structure, guided by
   investment and legal advisors, is key to optimizing the deal.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/67bd0b3f9f33e06b3f556a43/1770848001718/istockphoto-1369070758-612x612.jpg?format=1500w
+  /images/perspectives/leveraged-buy-out-2.jpg
 sqsId: 67bd0b3f9f33e06b3f556a43
 sqsOrder: 29
 ---

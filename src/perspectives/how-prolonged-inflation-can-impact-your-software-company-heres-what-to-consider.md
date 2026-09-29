@@ -2,7 +2,7 @@
 title: 'How Prolonged Inflation Can Impact Your Software Company and What to Consider '
 date: '2025-02-12'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1739398395242-AZKF7ZXZNG4WT7GXBWR9/reduce-inflation-by-increase-interest-rate-fed-or-central-bank-monetary-policy-to-cut-or-decrease-inflation-problem-concept-businessman-hand-using-needle-to-burst-inflation-balloon-with-price-tag-vector.jpg
+  /images/perspectives/how-prolonged-inflation-can-impact-your-software-company-heres-what-to-consider.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -25,7 +25,7 @@ seoDescription: >-
   to grow? This article explores key risks, strategic adjustments, and
   actionable steps to help your business stay resilient.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/67acdfeda6c8bc7ef94ce8cc/1770848273580/reduce-inflation-by-increase-interest-rate-fed-or-central-bank-monetary-policy-to-cut-or-decrease-inflation-problem-concept-businessman-hand-using-needle-to-burst-inflation-balloon-with-price-tag-vector.jpg?format=1500w
+  /images/perspectives/how-prolonged-inflation-can-impact-your-software-company-heres-what-to-consider-2.jpg
 sqsId: 67acdfeda6c8bc7ef94ce8cc
 sqsOrder: 31
 ---

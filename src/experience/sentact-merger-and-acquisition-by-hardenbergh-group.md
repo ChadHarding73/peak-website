@@ -4,7 +4,7 @@ title: >-
   Group
 date: '2025-05-30'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1757381189696-N9QJ2KB426SCIZT61T9V/Sentact+Website+Image+%281%29.png
+  /images/experience/sentact-merger-and-acquisition-by-hardenbergh-group.png
 categories:
   - Merger & Acquisition
   - Analytics
@@ -20,7 +20,7 @@ seoTitle: >-
   Group — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/6841d3c2a175727146c0e47c/1763007003078/Sentact+Website+Image+%281%29.png?format=1500w
+  /images/experience/sentact-merger-and-acquisition-by-hardenbergh-group-2.png
 sqsId: 6841d3c2a175727146c0e47c
 sqsOrder: 6
 ---

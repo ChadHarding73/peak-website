@@ -2,7 +2,7 @@
 title: Your AI Story Is Critical to Your Sale.
 date: '2026-04-10'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1775785351213-N43HSP4B8OQPOW35F15T/e6d21dbd-3e30-4c57-8385-2c9dea7e029e.jpg
+  /images/perspectives/your-ai-story-is-critical-to-your-sale.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -27,7 +27,7 @@ seoDescription: >-
   because of AI disruption risk. It's no longer a diligence footnote. It's a
   deal-kill criterion.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/69d8544089ebd53488ed035f/1784956654178/e6d21dbd-3e30-4c57-8385-2c9dea7e029e.jpg?format=1500w
+  /images/perspectives/your-ai-story-is-critical-to-your-sale-2.jpg
 sqsId: 69d8544089ebd53488ed035f
 sqsOrder: 1
 ---

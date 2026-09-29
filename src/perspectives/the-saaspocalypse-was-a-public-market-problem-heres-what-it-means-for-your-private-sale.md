@@ -4,7 +4,7 @@ title: >-
   Private Sale.
 date: '2026-03-31'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1774979639311-OZL83VUOAZPQE8Z4LAU5/editorial-illustration-split-frame-compo_YTTjWe6rTheCuYMwuqqnWg_1mx6Et9NSvOaX189L0HE0w_cover_sd.jpeg
+  /images/perspectives/the-saaspocalypse-was-a-public-market-problem-heres-what-it-means-for-your-private-sale.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -32,7 +32,7 @@ seoDescription: >-
   PE-backed software M&A is at a record 11.8x multiple while the Nasdaq is down
   21%. Here's what that means for your private sale.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/69cc0931ba9cf0503a773fb5/1776290140286/editorial-illustration-split-frame-compo_YTTjWe6rTheCuYMwuqqnWg_1mx6Et9NSvOaX189L0HE0w_cover_sd.jpeg?format=1500w
+  /images/perspectives/the-saaspocalypse-was-a-public-market-problem-heres-what-it-means-for-your-private-sale-2.jpg
 sqsId: 69cc0931ba9cf0503a773fb5
 sqsOrder: 4
 ---

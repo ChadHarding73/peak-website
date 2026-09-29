@@ -2,7 +2,7 @@
 title: 'How-To Guide: Leveraging Variation in Valuation'
 date: '2025-09-22'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1758572182790-LO0U661YXL79T7LUBLYK/istockphoto-174748958-612x612.jpg
+  /images/perspectives/variation-in-valuation.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -23,7 +23,7 @@ seoDescription: >-
   strategy—and the right advisor—you’ll be positioned to secure the best
   possible outcome for your sale and your legacy.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/68d1a0a3ce2e233df7f7a355/1759101205701/istockphoto-174748958-612x612.jpg?format=1500w
+  /images/perspectives/variation-in-valuation-2.jpg
 sqsId: 68d1a0a3ce2e233df7f7a355
 sqsOrder: 19
 ---

@@ -2,7 +2,7 @@
 title: Legalfit acquired by Centerbase via its financial sponsor Mainsail Partners
 date: '2022-04-19'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1650398434148-QFKI2QVHYE5VLNT6GBSG/Legalfit.png
+  /images/experience/legalfit-acquired-by-centerbase.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -15,7 +15,7 @@ seoTitle: >-
   Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/625f031d397f145375e43bdb/1710807336263/Legalfit.png?format=1500w
+  /images/experience/legalfit-acquired-by-centerbase-2.png
 sqsId: 625f031d397f145375e43bdb
 sqsOrder: 29
 ---

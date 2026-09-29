@@ -2,7 +2,7 @@
 title: 'Faces of the Lower Middle Market: Investment Bankers'
 date: '2018-06-06'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1635464019728-KKE0D91PV9JRQHP9HN2Z/faces_of_LMM-1-1000x750.jpeg
+  /images/perspectives/axial.jpg
 categories:
   - Thoughts
 sqsTags: []
@@ -12,7 +12,7 @@ seoTitle: >-
   Partners
 seoDescription: Excerpt from David Stevenson’s 2021 interview with Axial.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/617b182a35223e56684dc640/1784956521849/faces_of_LMM-1-1000x750.jpeg?format=1500w
+  /images/perspectives/axial-2.jpg
 sqsId: 617b182a35223e56684dc640
 sqsOrder: 55
 ---

@@ -2,7 +2,7 @@
 title: What Was “Liberation Day?”
 date: '2025-04-03'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1743706762144-PCOTOLESI44INHN3BMQR/Chip-with-US-flag-1-scaled.jpg
+  /images/perspectives/liberation-day.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -28,7 +28,7 @@ seoDescription: >-
   strategies, and geographic dependencies as they navigate a landscape
   increasingly shaped by deglobalization and policy-driven volatility.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/67eed8202c034941fdbcf491/1770847409676/Chip-with-US-flag-1-scaled.jpg?format=1500w
+  /images/perspectives/liberation-day-2.jpg
 sqsId: 67eed8202c034941fdbcf491
 sqsOrder: 22
 ---

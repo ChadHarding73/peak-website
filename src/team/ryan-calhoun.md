@@ -2,7 +2,7 @@
 title: Ryan Calhoun
 date: '2020-11-11'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1615178852985-FWAFHUD7NRN4LAAA8KUM/Ryan-Calhoun-ConvertImage.jpg
+  /images/team/ryan-calhoun.jpg
 categories:
   - Director
 sqsTags: []
@@ -15,7 +15,7 @@ seoDescription: >-
   Ryan is a Director at Peak Technology Partners with over 10 years of
   experience as an investment banker, operator, and investment professional.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/6041c571e3cb237c20842a8a/1790634581301/Ryan-Calhoun-ConvertImage.jpg?format=1500w
+  /images/team/ryan-calhoun-2.jpg
 sqsId: 6041c571e3cb237c20842a8a
 sqsOrder: 5
 ---
@@ -36,7 +36,7 @@ sqsOrder: 5
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1614923555285-BPPG01BSADTMYUUKAXF9/Calhoun.jpg" alt="Calhoun.jpg" />
+                <img src="/images/team/ryan-calhoun-3.jpg" alt="Calhoun.jpg" />
 
             
           

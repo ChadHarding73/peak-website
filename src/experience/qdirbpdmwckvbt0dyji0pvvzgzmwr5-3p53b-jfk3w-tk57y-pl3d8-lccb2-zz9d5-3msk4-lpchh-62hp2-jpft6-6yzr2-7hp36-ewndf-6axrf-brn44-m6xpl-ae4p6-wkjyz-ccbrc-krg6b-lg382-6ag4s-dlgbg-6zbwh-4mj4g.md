@@ -2,7 +2,7 @@
 title: Boostability receives investment from H.I.G. Capital
 date: '2021-01-21'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611273110906-5QPBCMHMSX5E0YCG3UW8/Boostability.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s-dlgbg-6zbwh-4mj4g.jpg
 categories:
   - Financial
   - SaaS
@@ -17,7 +17,7 @@ seoTitle: >-
   Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/600a10ecf28f30262d45ba97/1649961966836/Boostability.jpg?format=1500w
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s-dlgbg-6zbwh-4mj4g-2.jpg
 sqsId: 600a10ecf28f30262d45ba97
 sqsOrder: 78
 ---

@@ -2,7 +2,7 @@
 title: HomeStars acquired by IAC
 date: '2021-01-26'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611634939483-YANXVLM8KTT5YOYUTBEZ/Homestars.jpg
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -13,7 +13,7 @@ excerpt: ''
 seoTitle: HomeStars acquired by IAC — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/600f98a11162a24d6e365cc8/1612195582234/Homestars.jpg?format=1500w
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-2.jpg
 sqsId: 600f98a11162a24d6e365cc8
 sqsOrder: 70
 ---

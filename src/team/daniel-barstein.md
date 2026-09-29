@@ -2,7 +2,7 @@
 title: Daniel Barstein
 date: '2020-11-09'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611595598904-WNFQUX2FSRHAM3TTGJ1Y/Barstein-01-select-CROPPED.jpg
+  /images/team/daniel-barstein.jpg
 categories:
   - Vice President
 sqsTags: []
@@ -16,7 +16,7 @@ seoDescription: >-
   experience as an investment banker, business development professional, and
   entrepreneur.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/5fc7fb2f8cc9d6368a0f5a95/1790634633177/Barstein-01-select-CROPPED.jpg?format=1500w
+  /images/team/daniel-barstein-2.jpg
 sqsId: 5fc7fb2f8cc9d6368a0f5a95
 sqsOrder: 6
 ---
@@ -37,7 +37,7 @@ sqsOrder: 6
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611595393177-HJSODPAS6OUV4PYC57E0/Barstein-01.jpg" alt="Barstein-01.jpg" />
+                <img src="/images/team/daniel-barstein-3.jpg" alt="Barstein-01.jpg" />
 
             
           

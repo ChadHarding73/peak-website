@@ -2,7 +2,7 @@
 title: Strategic Acquirers Are Back. Here’s What That Means for Your Multiple.
 date: '2026-04-02'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1775095552312-9NJGNO0MPAWFM1UPQEYR/5cbd2b1d-4914-4176-9fee-a76ce9ee130d.jpg
+  /images/perspectives/strategic-acquirers-are-back.jpg
 categories: []
 sqsTags: []
 excerpt: "<p>Strategic corporate M&amp;A in enterprise SaaS surged at the end of 2025 (up 168.5% in Q4 2025 alone). PE sponsors were active. Strategics were dominant. Most founders building their exit thesis around financial sponsor math alone just got handed a reason to reconsider.\_</p><p>Strategic acquirers do not buy your business in isolation. They buy what your business enables inside their own organization: revenue acceleration, capability expansion, data infrastructure, and customer access. That logic may not appear in a DCF, but it often appears in the offer. PE sponsors are constrained by LBO math, while a strategic buyer with a real capability gap in your category can rationally pay above that ceiling.</p><p>The right question is not just what a PE firm would pay, but also which strategic buyers have a capability gap your product fills and what your business is worth inside their ecosystem. For well-positioned companies, the strategic answer is often materially higher.</p>"
@@ -13,7 +13,7 @@ seoDescription: >-
   Strategic M&A in enterprise SaaS surged 168.5% in Q4 2025. Founders building
   their exit thesis around PE math alone just got handed a reason to reconsider.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/69cdcb5073506d300f308588/1776290276469/5cbd2b1d-4914-4176-9fee-a76ce9ee130d.jpg?format=1500w
+  /images/perspectives/strategic-acquirers-are-back-2.jpg
 sqsId: 69cdcb5073506d300f308588
 sqsOrder: 3
 ---

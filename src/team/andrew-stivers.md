@@ -2,7 +2,7 @@
 title: Andrew Stivers
 date: '2020-11-11'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1642534733530-CGGK4SSB3LX5SCY9PSYP/Andrew+Stivers+Photo.jpeg
+  /images/team/andrew-stivers.jpg
 categories:
   - Managing Director
 sqsTags: []
@@ -16,7 +16,7 @@ seoDescription: >-
   Technology Partners, where he advises enterprise technology companies on
   strategic transactions.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/61e716227bbb095f76494bc9/1790634421900/Andrew+Stivers+Photo.jpeg?format=1500w
+  /images/team/andrew-stivers-2.jpg
 sqsId: 61e716227bbb095f76494bc9
 sqsOrder: 4
 ---
@@ -37,7 +37,7 @@ sqsOrder: 4
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/cc4cb8d2-24c8-49f3-a61c-c2119efddd6f/Andrew+Stivers+Photo.jpeg" alt="" />
+                <img src="/images/team/andrew-stivers-3.jpg" alt="" />
 
             
           

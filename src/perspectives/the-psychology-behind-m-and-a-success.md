@@ -2,7 +2,7 @@
 title: The Psychology Behind M&A Success
 date: '2025-09-11'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1757612560507-K8ZWPLLSUWKGBZ3DI90Y/istockphoto-1253488628-612x612.jpg
+  /images/perspectives/the-psychology-behind-m-and-a-success.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -21,7 +21,7 @@ seoDescription: >-
   compelling narratives, and why balancing numbers with human dynamics is the
   key to achieving the best outcomes.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/68bb2977808fdf0ef7f12e14/1770847215459/istockphoto-1253488628-612x612.jpg?format=1500w
+  /images/perspectives/the-psychology-behind-m-and-a-success-2.jpg
 sqsId: 68bb2977808fdf0ef7f12e14
 sqsOrder: 21
 ---

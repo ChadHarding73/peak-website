@@ -2,7 +2,7 @@
 title: More PE Funds Than McDonald’s—Why That is Bullish for Founder Exits and Raises
 date: '2025-10-15'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1760555640717-IVMKJF6MZYBM8HNEVBHG/istockphoto-2195489700-612x612.jpg
+  /images/perspectives/more-private-equity-than-fast-food.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -38,7 +38,7 @@ seoDescription: >-
   sequencing—has never mattered more. In a market where not all capital is
   equal, a disciplined, competitive process converts abundance into advantage.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/68efd10e9efbe135d7a96365/1774558790826/istockphoto-2195489700-612x612.jpg?format=1500w
+  /images/perspectives/more-private-equity-than-fast-food-2.jpg
 sqsId: 68efd10e9efbe135d7a96365
 sqsOrder: 15
 ---

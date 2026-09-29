@@ -2,7 +2,7 @@
 title: 'Partnering with PEAK: The Process'
 date: '2019-03-11'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1612467721393-JC283J6FC53Y1XGPA1IN/image-asset.jpeg
+  /images/perspectives/process.jpg
 categories:
   - Thoughts
 sqsTags: []
@@ -18,7 +18,7 @@ seoDescription: >-
   Co-founder David Stevenson breaks down the process and shares some stories
   about what to expect.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/5fc6966a173fb5383b8ab311/1635457066885/?format=1500w
+  /images/perspectives/process-2.jpg
 sqsId: 5fc6966a173fb5383b8ab311
 sqsOrder: 53
 ---

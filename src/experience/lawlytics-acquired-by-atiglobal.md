@@ -2,7 +2,7 @@
 title: LawLytics acquired by ATI Global
 date: '2021-11-16'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1637101015928-O2ZWCYFEWY94ERW35U07/LawLytics.png
+  /images/experience/lawlytics-acquired-by-atiglobal.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -15,7 +15,7 @@ excerpt: ''
 seoTitle: LawLytics acquired by ATI Global — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/61942a5340a60561bf5ed93d/1710809311090/LawLytics.png?format=1500w
+  /images/experience/lawlytics-acquired-by-atiglobal-2.png
 sqsId: 61942a5340a60561bf5ed93d
 sqsOrder: 35
 ---

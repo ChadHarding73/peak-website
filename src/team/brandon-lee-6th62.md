@@ -2,7 +2,7 @@
 title: Brandon Lee
 date: '2020-10-21'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1782498499285-HBDYIAK7AUWGTX9T5RVD/brandon+lee+15.jpeg
+  /images/team/brandon-lee-6th62.jpg
 categories:
   - Associate
 sqsTags: []
@@ -16,7 +16,7 @@ seoDescription: >-
   business development and the execution of M&amp;A and capital raising
   transactions for technology companies.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/6657a4798788b87842249882/1790634827350/brandon+lee+15.jpeg?format=1500w
+  /images/team/brandon-lee-6th62-2.jpg
 sqsId: 6657a4798788b87842249882
 sqsOrder: 12
 ---
@@ -37,7 +37,7 @@ sqsOrder: 12
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/2ebd74b0-c210-42f4-9ca1-4b881927dba2/brandon+lee+15.jpeg" alt="" />
+                <img src="/images/team/brandon-lee-6th62-3.jpg" alt="" />
 
             
           

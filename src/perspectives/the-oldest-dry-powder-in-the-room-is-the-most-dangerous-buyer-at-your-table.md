@@ -2,7 +2,7 @@
 title: The Oldest Dry Powder in the Room Is the Most Dangerous Buyer at Your Table.
 date: '2026-03-26'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1774556753298-BJTK9Z6DA1SYL6RJXVJ3/editorial-illustration-a-cinematic-poker_PnvQkpSxS-eTUA_mG_ya-w_CcVnZ7t6SEGgKmvAAw7F_A_cover_sd.jpeg
+  /images/perspectives/the-oldest-dry-powder-in-the-room-is-the-most-dangerous-buyer-at-your-table.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -28,7 +28,7 @@ seoDescription: >-
   40% of global PE dry powder has been undeployed for 2+ years. Here's how
   founders can turn that pressure into real leverage at the deal table.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/69c5958f62a20c1efde376d1/1776290022512/editorial-illustration-a-cinematic-poker_PnvQkpSxS-eTUA_mG_ya-w_CcVnZ7t6SEGgKmvAAw7F_A_cover_sd.jpeg?format=1500w
+  /images/perspectives/the-oldest-dry-powder-in-the-room-is-the-most-dangerous-buyer-at-your-table-2.jpg
 sqsId: 69c5958f62a20c1efde376d1
 sqsOrder: 5
 ---

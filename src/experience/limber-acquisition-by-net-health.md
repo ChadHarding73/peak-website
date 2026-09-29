@@ -4,7 +4,7 @@ title: >-
   Health
 date: '2025-06-04'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1755205770036-MPLW1ROMR078K38XVZG9/limber+corrected+graphic.png
+  /images/experience/limber-acquisition-by-net-health.png
 categories:
   - Healthcare
   - Merger & Acquisition
@@ -19,7 +19,7 @@ seoTitle: >-
   Health — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/6840a609375926732bae1e65/1763008012201/limber+corrected+graphic.png?format=1500w
+  /images/experience/limber-acquisition-by-net-health-2.png
 sqsId: 6840a609375926732bae1e65
 sqsOrder: 5
 ---

@@ -2,7 +2,7 @@
 title: The Impact on Valuation When AI Is Part of the Tech Stack
 date: '2025-09-15'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1757968519764-B4IAKME5KJGVDRRX9OE4/istockphoto-2164746643-612x612.jpg
+  /images/perspectives/artificial-intelligence-impact-on-valuation.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -36,7 +36,7 @@ seoDescription: >-
   themselves for outsized returns, while those who don’t risk being priced as
   laggards.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/68c34e8dd87e0b4ab16f51f1/1770847142171/istockphoto-2164746643-612x612.jpg?format=1500w
+  /images/perspectives/artificial-intelligence-impact-on-valuation-2.jpg
 sqsId: 68c34e8dd87e0b4ab16f51f1
 sqsOrder: 20
 ---

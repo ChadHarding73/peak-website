@@ -2,7 +2,7 @@
 title: Star2Star Communications receives investment from NewSpring Capital
 date: '2021-01-22'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611282283428-U4BPL8BRF7LTUJ8HDVGZ/Star2Star.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s-dlgbg-6zbwh-4mj4g-gyj4h-4rzje-6ee5c.jpg
 categories:
   - Capital Raise
   - Financial
@@ -16,7 +16,7 @@ seoTitle: >-
   Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/600a3632bd802f12f202a9e1/1669223006521/Star2Star.jpg?format=1500w
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s-dlgbg-6zbwh-4mj4g-gyj4h-4rzje-6ee5c-2.jpg
 sqsId: 600a3632bd802f12f202a9e1
 sqsOrder: 75
 ---

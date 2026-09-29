@@ -2,7 +2,7 @@
 title: Aplos acquired by ASG
 date: '2022-02-25'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1645803419056-E8U2OYAV2ABO1VWYZHYD/Aplos+Tombstone.png
+  /images/experience/aplos-acquired-by-asg.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -14,7 +14,7 @@ excerpt: ''
 seoTitle: Aplos acquired by ASG — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/6218f3e24a53205c3bb66b6e/1710807358553/Aplos+Tombstone.png?format=1500w
+  /images/experience/aplos-acquired-by-asg-2.png
 sqsId: 6218f3e24a53205c3bb66b6e
 sqsOrder: 32
 ---

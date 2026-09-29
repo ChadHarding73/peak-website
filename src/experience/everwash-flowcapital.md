@@ -2,7 +2,7 @@
 title: EverWash investment from Flow Capital
 date: '2021-09-29'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1632940455702-FROPPWZONZPXUUPNLLB6/EverWash.png
+  /images/experience/everwash-flowcapital.png
 categories:
   - Capital Raise
   - Financial
@@ -16,7 +16,7 @@ excerpt: ''
 seoTitle: EverWash investment from Flow Capital — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/6154b0048333cb326ad510cf/1784680578078/EverWash.png?format=1500w
+  /images/experience/everwash-flowcapital-2.png
 sqsId: 6154b0048333cb326ad510cf
 sqsOrder: 36
 ---

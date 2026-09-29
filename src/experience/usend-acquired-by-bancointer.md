@@ -2,7 +2,7 @@
 title: USEND acquired by Banco Inter
 date: '2022-02-03'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1643905672142-8QFRLZ2FYML3UUNTMDQF/USEND.png
+  /images/experience/usend-acquired-by-bancointer.png
 categories:
   - Merger & Acquisition
   - Strategic
@@ -13,7 +13,7 @@ excerpt: ''
 seoTitle: USEND acquired by Banco Inter — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/61fc011ff1a3017e73a7b2e0/1669223100987/USEND.png?format=1500w
+  /images/experience/usend-acquired-by-bancointer-2.png
 sqsId: 61fc011ff1a3017e73a7b2e0
 sqsOrder: 33
 ---

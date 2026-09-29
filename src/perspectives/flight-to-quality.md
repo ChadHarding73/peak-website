@@ -4,7 +4,7 @@ title: >-
   On?
 date: '2026-03-17'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1773789679538-TJUBIQRXUDONDIYG2MFR/a-split-exposure-long-exposure-photograp_eezu6n3cQg-UgYoAWY3Iqg_pcylJQf1RIyT6ZbkuseoNA_sd.jpeg
+  /images/perspectives/flight-to-quality.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -40,7 +40,7 @@ seoDescription: >-
   SaaS M&A is splitting in two. One company sold at 11x. Another at 3x. Same
   market. Flight to quality is real — here's which side you're on.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/69b9e0910674a5027e6329dc/1774918647572/a-split-exposure-long-exposure-photograp_eezu6n3cQg-UgYoAWY3Iqg_pcylJQf1RIyT6ZbkuseoNA_sd.jpeg?format=1500w
+  /images/perspectives/flight-to-quality-2.jpg
 sqsId: 69b9e0910674a5027e6329dc
 sqsOrder: 6
 ---

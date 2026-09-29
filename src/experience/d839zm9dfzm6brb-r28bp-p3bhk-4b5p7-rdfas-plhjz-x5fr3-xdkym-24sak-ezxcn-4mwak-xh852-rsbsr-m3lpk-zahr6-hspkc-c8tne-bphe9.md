@@ -2,7 +2,7 @@
 title: FitPay acquired by Garmin
 date: '2021-01-30'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611968074457-7LUFAL05ISSCZFVXEH9R/fitpay-garmin.jpg
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne-bphe9.jpg
 categories:
   - Merger & Acquisition
   - Consumer
@@ -15,7 +15,7 @@ excerpt: ''
 seoTitle: FitPay acquired by Garmin — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/6014ae15707adb2fbfa6fc30/1611968133569/fitpay-garmin.jpg?format=1500w
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne-bphe9-2.jpg
 sqsId: 6014ae15707adb2fbfa6fc30
 sqsOrder: 59
 ---

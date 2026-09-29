@@ -2,7 +2,7 @@
 title: 'The “SaaS Crash” Story Misses the Real Risk: Budget Reallocation'
 date: '2026-02-11'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1770842893777-ERW6NMFKR5UDGWLDWXDI/The-SaaS-Business-Model-scaled-1.webp
+  /images/perspectives/saas-crash-analysis.webp
 categories: []
 sqsTags: []
 excerpt: >-
@@ -27,7 +27,7 @@ seoDescription: >-
   priorities.  In this environment, every product that isn’t essential is being
   forced to prove its value or risk getting cut.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/698ce715d880783a68186747/1771894388032/The-SaaS-Business-Model-scaled-1.webp?format=1500w
+  /images/perspectives/saas-crash-analysis-2.webp
 sqsId: 698ce715d880783a68186747
 sqsOrder: 8
 ---

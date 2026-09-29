@@ -2,7 +2,7 @@
 title: WSI Technologies Becomes Valsoft’s Gateway into Public Safety Vertical
 date: '2025-09-09'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1757457569670-E6E9XSLU3MWPI9SE075A/ugh.png
+  /images/experience/wsi-technologies-merger-and-acquisition.png
 categories:
   - Merger & Acquisition
   - Financial
@@ -17,7 +17,7 @@ seoTitle: >-
   Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/68bf845278c07f78dc64d63a/1776297441125/ugh.png?format=1500w
+  /images/experience/wsi-technologies-merger-and-acquisition-2.png
 sqsId: 68bf845278c07f78dc64d63a
 sqsOrder: 3
 ---

@@ -2,7 +2,7 @@
 title: Alex Marzano
 date: '2020-06-24'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1788382499274-16QLVZCRWTRAPKVBJ4AY/Alex+Marzano.jpeg
+  /images/team/alex-marzano.jpg
 categories:
   - Analyst
 sqsTags: []
@@ -16,7 +16,7 @@ seoDescription: >-
   development and the execution of M&amp;A and capital raising transactions for
   technology companies.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/6a988c40b260bc01a15af677/1790634934670/Alex+Marzano.jpeg?format=1500w
+  /images/team/alex-marzano-2.jpg
 sqsId: 6a988c40b260bc01a15af677
 sqsOrder: 17
 ---
@@ -37,7 +37,7 @@ sqsOrder: 17
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/c0dc3864-ef3c-4ef0-958d-dd71f8f36c11/Alex+Marzano.jpeg" alt="" />
+                <img src="/images/team/alex-marzano-3.jpg" alt="" />
 
             
           

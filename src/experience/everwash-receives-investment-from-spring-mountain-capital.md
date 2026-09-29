@@ -2,7 +2,7 @@
 title: EverWash receives investment from Spring Mountain Capital
 date: '2022-03-02'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1696541366608-YWV9FW2VFZ6VC71KTXUZ/Everwash+%284%29.png
+  /images/experience/everwash-receives-investment-from-spring-mountain-capital.png
 categories:
   - Capital Raise
   - Financial
@@ -18,7 +18,7 @@ seoTitle: >-
   Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/651f1ebbdd16a11a2c0625b6/1696541377205/Everwash+%284%29.png?format=1500w
+  /images/experience/everwash-receives-investment-from-spring-mountain-capital-2.png
 sqsId: 651f1ebbdd16a11a2c0625b6
 sqsOrder: 31
 ---

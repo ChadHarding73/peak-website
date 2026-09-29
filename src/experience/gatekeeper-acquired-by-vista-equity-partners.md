@@ -2,7 +2,7 @@
 title: Gatekeeper acquired by Vista Equity Partners
 date: '2023-10-18'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1697662766601-0YKMWB58RL3QR0HVVQA9/Gatekeeper+%284%29.png
+  /images/experience/gatekeeper-acquired-by-vista-equity-partners.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -15,7 +15,7 @@ excerpt: ''
 seoTitle: Gatekeeper acquired by Vista Equity Partners — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/6530248290444f3a0cd69ef2/1790722117037/Gatekeeper+%284%29.png?format=1500w
+  /images/experience/gatekeeper-acquired-by-vista-equity-partners-2.png
 sqsId: 6530248290444f3a0cd69ef2
 sqsOrder: 16
 ---

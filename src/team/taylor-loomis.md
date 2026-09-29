@@ -2,7 +2,7 @@
 title: Taylor Loomis
 date: '2020-11-02'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1631660380911-WDHTPFF5V68KY52OPP7O/Screen+Shot+2021-09-14+at+4.57.01+PM.png
+  /images/team/taylor-loomis.png
 categories:
   - Vice President
 sqsTags: []
@@ -14,7 +14,7 @@ seoDescription: >-
   Taylor is a Vice President at Peak Technology Partners with over a decade of
   software-focused investment banking experience.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/61412756627e5e7b22998960/1790634663109/Screen+Shot+2021-09-14+at+4.57.01+PM.png?format=1500w
+  /images/team/taylor-loomis-2.png
 sqsId: 61412756627e5e7b22998960
 sqsOrder: 7
 ---
@@ -35,7 +35,7 @@ sqsOrder: 7
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1631660244633-3WSBZ4HIACVESYOURG6M/Screen+Shot+2021-09-14+at+4.57.01+PM.png" alt="Screen Shot 2021-09-14 at 4.57.01 PM.png" />
+                <img src="/images/team/taylor-loomis-3.png" alt="Screen Shot 2021-09-14 at 4.57.01 PM.png" />
 
             
           

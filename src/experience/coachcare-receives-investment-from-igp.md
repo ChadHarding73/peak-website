@@ -2,7 +2,7 @@
 title: CoachCare receives investment from Integrity Growth Partners
 date: '2024-07-22'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1725553989327-BQUF8WHJ7GLF5UF7MTD0/CoachCare+%281%29.png
+  /images/experience/coachcare-receives-investment-from-igp.png
 categories:
   - Capital Raise
   - Healthcare
@@ -17,7 +17,7 @@ seoTitle: >-
   Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/669ec03bf61d9732f1fc7604/1728418388899/CoachCare+%281%29.png?format=1500w
+  /images/experience/coachcare-receives-investment-from-igp-2.png
 sqsId: 669ec03bf61d9732f1fc7604
 sqsOrder: 11
 ---

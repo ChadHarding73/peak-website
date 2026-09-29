@@ -4,7 +4,7 @@ title: >-
   Its Acquisition by Guardhouse
 date: '2026-08-24'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1787595342752-FQ9R8JUFJGMC64DPFOIL/bleehbleh.png
+  /images/experience/mobohubb-acquired-by-guardhouse.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -18,7 +18,7 @@ seoTitle: >-
   Its Acquisition by Guardhouse — Peak Technology Partners
 seoDescription: ''
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/6a875f5f5e47cc016ce076bc/1787595352234/bleehbleh.png?format=1500w
+  /images/experience/mobohubb-acquired-by-guardhouse-2.png
 sqsId: 6a875f5f5e47cc016ce076bc
 sqsOrder: 0
 ---

@@ -2,7 +2,7 @@
 title: 'Andrew Brown '
 date: '2020-10-22'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1717614518759-W9HI08T13SQSNSG6GIE2/AB.png
+  /images/team/andrew-brown.png
 categories:
   - Associate
 sqsTags: []
@@ -14,7 +14,7 @@ seoDescription: >-
   Andrew is an Associate at Peak Technology Partners with 4+ years of Private
   Equity experience, primarily focusing on business development.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/6660b6df3e82563ec4b72d63/1790634808551/AB.png?format=1500w
+  /images/team/andrew-brown-2.png
 sqsId: 6660b6df3e82563ec4b72d63
 sqsOrder: 11
 ---
@@ -35,7 +35,7 @@ sqsOrder: 11
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/d0f21d7d-d81c-458e-bafc-9e236a7e4335/AB.png" alt="" />
+                <img src="/images/team/andrew-brown-3.png" alt="" />
 
             
           

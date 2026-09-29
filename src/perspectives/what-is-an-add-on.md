@@ -4,7 +4,7 @@ title: >-
   for Your Business?
 date: '2026-04-07'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1775587627731-6YRTFV5UP0U6AN5714HE/8399b31e-9c51-4e19-ad35-04eee7f7fe19.jpg
+  /images/perspectives/what-is-an-add-on.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -30,7 +30,7 @@ seoDescription: >-
   75% of PE buyouts are now add-ons. That single fact reshapes who the most
   motivated buyers in the market actually are and what it means for your exit.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/69d54e22d9bffa73166eb9f0/1775587706888/8399b31e-9c51-4e19-ad35-04eee7f7fe19.jpg?format=1500w
+  /images/perspectives/what-is-an-add-on-2.jpg
 sqsId: 69d54e22d9bffa73166eb9f0
 sqsOrder: 2
 ---

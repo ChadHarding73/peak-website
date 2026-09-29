@@ -2,7 +2,7 @@
 title: David Kirby
 date: '2020-12-02'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611171961449-DFTCWNSN30YKEW1MEAA3/Kirby-03-cropped-SELECT.jpg
+  /images/team/dave-kirby.jpg
 categories:
   - Managing Partner
 sqsTags: []
@@ -16,7 +16,7 @@ seoDescription: >-
   fifteen years of investment banking experience focused on mergers and
   acquisitions and capital raising projects for technology entrepreneurs.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/5fc7ed06670b6a56db6be747/1790631268125/Kirby-03-cropped-SELECT.jpg?format=1500w
+  /images/team/dave-kirby-2.jpg
 sqsId: 5fc7ed06670b6a56db6be747
 sqsOrder: 1
 ---
@@ -37,7 +37,7 @@ sqsOrder: 1
                 
                 
                 
-                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611171721697-LVGGPW7M8INC1S3S2WCE/Kirby-03.jpg" alt="Kirby-03.jpg" />
+                <img src="/images/team/dave-kirby-3.jpg" alt="Kirby-03.jpg" />
 
             
           

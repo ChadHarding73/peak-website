@@ -2,7 +2,7 @@
 title: The Due Diligence Guide for SaaS Founders
 date: '2025-11-18'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1763429425795-JKUU3E7M8WM1T6YQ3O9J/istockphoto-935395456-612x612.jpg
+  /images/perspectives/the-due-diligence-guide-for-saas-founders.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -33,7 +33,7 @@ seoDescription: >-
   story, build buyer confidence from day one, and ultimately create competitive
   tension that drives higher enterprise value.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/691bc7279e2d923f533fa114/1770846272189/istockphoto-935395456-612x612.jpg?format=1500w
+  /images/perspectives/the-due-diligence-guide-for-saas-founders-2.jpg
 sqsId: 691bc7279e2d923f533fa114
 sqsOrder: 11
 ---

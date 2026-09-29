@@ -2,7 +2,7 @@
 title: Earnouts. How They Work and How Founders Can Structure Them to Their Advantage
 date: '2025-12-02'
 image: >-
-  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1764700607892-OYL4YPPRJ20HSK7HGT8B/istockphoto-172728029-612x612.jpg
+  /images/perspectives/earnouts.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -25,7 +25,7 @@ seoDescription: >-
   reward. This article offers a clear and practical explanation of what earnouts
   are, how they function, and why they matter in today’s market.
 ogImage: >-
-  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc6966a173fb5383b8ab30e/692f29eb9a95275e6e040431/1770845906751/istockphoto-172728029-612x612.jpg?format=1500w
+  /images/perspectives/earnouts-2.jpg
 sqsId: 692f29eb9a95275e6e040431
 sqsOrder: 10
 ---

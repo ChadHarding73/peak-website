@@ -1,3 +1,5 @@
 # Netlify redirects. Format: from  to  status. Status 200 = rewrite (serve target, keep URL).
 # /home returns 200 on the old site, so it is a rewrite, not a redirect.
 /home  /index.html  200
+# Squarespace URL Mapping carried over (July 2026 rename).
+/transactions  /experience  301

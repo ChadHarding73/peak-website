@@ -1,0 +1,1400 @@
+[
+  {
+    "path": "/",
+    "source": "root",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/arbitration",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/careers",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/contact",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/demo",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/error-page",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/100plus-acquired-by-connectamerica",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/alleva-receives-investment-from-ankona",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/alliance-acquired-by-lee-equity-and-twin-point",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/aluna-acquisition-by-huma",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/aplos-acquired-by-asg",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/assurehire-acquired-by-mitratech",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/autosprink-insight",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/avenuehq-majority-recapitalization",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/bbi-investment-from-diversis",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/catchco-acquired-by-gordon-brothers-86xay",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/AI",
+    "source": "crawl:/experience",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/Analytics",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/B2B+Software",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/B2C+Software",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/Capital+Raise",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/Communications",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/Consumer",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/CyberSecurity",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/EdTech",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/Financial",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/FinTech",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/Healthcare",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/HR",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/Infrastructure",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/IT+Services",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/Marketing",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/Media",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/Merger+%26+Acquisition",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/Productivity",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/SaaS",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/category/Strategic",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/coachcare-receives-investment-from-igp",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/cold-bore-technology-closes-financing-round",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/coppei-acquired-by-exadel",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/covideo-majority-recap",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/csid-acquired-by-experian",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp-p3bhk",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne-bphe9",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne-bphe9-2snrc",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne-bphe9-2snrc-yxfza",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne-bphe9-2snrc-yxfza-b47j3",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne-bphe9-2snrc-yxfza-b47j3-46gcc",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/dazos-series-a-capital-raise",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/drivescale-acquired-by-twitter",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/eversign-acquired-by-pdftron",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/everwash-flowcapital",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/everwash-receives-investment-from-spring-mountain-capital",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/gatekeeper-acquired-by-vista-equity-partners",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/guardhouse-backed-by-sundance-growth",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/guidevine-acquired-by-avantax",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/gummicube-acquired-by-airship",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/hod-acquired-by-thl",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/insync-acquired-by-warburgpincus",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/knack-investment-from-resurgens",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/lawlytics-acquired-by-atiglobal",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/legalfit-acquired-by-centerbase",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/limber-acquisition-by-net-health",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/mobohubb-acquired-by-guardhouse",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/ninjacat-capital-raise-from-clovis-point",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/optiv-acquired-by-kkr",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/partek-acquired-by-illumina-86xay-tzmkb",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862-69ca7",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862-69ca7-7amkx",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-xytsx",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-xytsx-ez5e4",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-xytsx-sr9d6",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/peak-technology-partners-advises-stratapt",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/plusonesolutions-acquisition-by-servicepower",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/projector-acquired-by-bigtime",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s-dlgbg",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s-dlgbg-6zbwh",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s-dlgbg-6zbwh-4mj4g",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s-dlgbg-6zbwh-4mj4g-gyj4h",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s-dlgbg-6zbwh-4mj4g-gyj4h-4rzje",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s-dlgbg-6zbwh-4mj4g-gyj4h-4rzje-6ee5c",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/remindercall-acquired-by-rectangle-health",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/resi-acquired-by-pushpay",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/revenuegrid-investment-from-w3capital",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/scolly-acquired-by-salliemae",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/sentact-merger-and-acquisition-by-hardenbergh-group",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/sierra-acquired-by-alpine",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/swarm64-acquired-by-servicenow",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/teamup-acquired-by-daysmart",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/truepoint-acquired-by-seaside-equity-partners",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/typhoondata-acquired-by-appriss",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/usend-acquired-by-bancointer",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/vitruvi-acquired-by-bow-river",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/worksuite-acquired-by-hig-capital",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/wsi-technologies-merger-and-acquisition",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/yantricks-acquired-by-blueyonder",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/experience/zerossl-acquired-by-hid-global",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/home",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/indemnification",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/investment-banking-analyst",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/investment-banking-associate",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/people",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/1gkasna4ekg39ba9klbvvzlowsdjej",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/2021recap",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/2022recap",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/2023recap-b5rhy-24mm9-an6cb",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/2025-predictions-b2b-merger-acquisition",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/2025-predictions-b2b-software",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/7geese",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/agiloft",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/apilayer",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/artificial-intelligence-impact-on-valuation",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/asset-sale-vs-stock-sale",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/axial",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/bankingwithaheart",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/blackboxintelligence",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/buyer-list",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/category/Blog+Post",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/category/Case+Studies",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/category/Case+Study",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/category/Thoughts",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/chime",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/customer-retention",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/dci",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/earnouts",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/flight-to-quality",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/foundingstory",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/full-sale-vs-majority-recapitalization",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/hiringabank",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/how-prolonged-inflation-can-impact-your-software-company-heres-what-to-consider",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/jetlore",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/leveraged-buy-out",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/liberation-day",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/majorana-chip",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/market-cycle-effects",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/more-private-equity-than-fast-food",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/organized-financials-importance",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/post-acquisition-tips-for-leaders",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/process",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/raising-capital",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/rollover-equity",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/saas-crash-analysis",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/software-company-exit-blog",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/startup-exit-goals",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/strategic-acquirers-are-back",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/sustainable-scale-in-saas",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/swoogo",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/the-due-diligence-guide-for-saas-founders",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/the-effect-of-trumps-executive-orders-on-the-software-industry",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/the-february-selloff-was-a-gift",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/the-founders-guide-to-raising-capital",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/the-impact-of-doge-on-government-software-companies",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/the-oldest-dry-powder-in-the-room-is-the-most-dangerous-buyer-at-your-table",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/the-psychology-behind-m-and-a-success",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/the-saaspocalypse-accelerated-mergers-and-acquisitions",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/the-saaspocalypse-was-a-public-market-problem-heres-what-it-means-for-your-private-sale",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/the-vital-role-of-revenue-predictability-in-saas-valuation",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/typhoondata",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/understanding-term-sheets",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/variation-in-valuation",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/what-is-an-add-on",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/perspectives/your-ai-story-is-critical-to-your-sale",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/alex-marzano",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/andrew-brown",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/andrew-stivers",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/brandon-lee-6th62",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/category/Analyst",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/category/Associate",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/category/Director",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/category/Director+-+Content+Marketing",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/category/Founding+Partner",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/category/Managing+Director",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/category/Managing+Partner",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/category/Office+Manager",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/category/Operations+Manager",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/category/Senior+Analyst",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/category/Senior+Associate",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/category/Vice+President",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/chad-harding",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/daniel-barstein",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/dave-kirby",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/david-stevenson",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/dominic-mansour",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/ethan-watterson-6th62-8fx5r",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/hudson-gore",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/jj-lindsay",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/julia-piedimonte-w77h7-fnsjj",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/matt-wanlass-xj8m9",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/nick-bountouvas-Hagtv",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/ryan-calhoun",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/ryan-deuitch",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/scotty-williams",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  },
+  {
+    "path": "/team/taylor-loomis",
+    "source": "sitemap",
+    "status": 200,
+    "type": "text/html"
+  }
+]

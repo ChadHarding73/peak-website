@@ -1,0 +1,30 @@
+{
+  "name": "peak-website",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "eleventy",
+    "test": "node --test --test-concurrency=1 tests/*.test.mjs",
+    "inventory": "node scripts/inventory.mjs",
+    "scrape": "node scripts/scrape.mjs",
+    "images": "node scripts/images.mjs",
+    "probe": "node scripts/probe-styles.mjs",
+    "serve": "node scripts/serve.mjs",
+    "verify": "node scripts/verify.mjs",
+    "smoke": "node scripts/smoke.mjs",
+    "drift": "node scripts/drift.mjs"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "~3.1.6"
+  },
+  "devDependencies": {
+    "gray-matter": "~4.0.3",
+    "pixelmatch": "~7.2.0",
+    "playwright": "~1.63.0",
+    "pngjs": "~7.0.0",
+    "sanitize-html": "~2.17.0"
+  }
+}

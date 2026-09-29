@@ -1,0 +1,6 @@
+node_modules/
+_site/
+baseline/raw/
+baseline/shots/
+reports/
+.DS_Store

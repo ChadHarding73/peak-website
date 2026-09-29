@@ -6,7 +6,7 @@
     "node": ">=22"
   },
   "scripts": {
-    "build": "eleventy",
+    "build": "rm -rf _site && eleventy",
     "test": "node --test --test-concurrency=1 tests/*.test.mjs",
     "inventory": "node scripts/inventory.mjs",
     "scrape": "node scripts/scrape.mjs",

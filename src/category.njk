@@ -1,0 +1,12 @@
+---
+pagination:
+  data: collections.categoryPages
+  size: 1
+  alias: entry
+permalink: "/{{ entry.collection }}/category/{{ entry.category | categoryPath | safe }}/"
+layout: layouts/list.njk
+eleventyComputed:
+  title: "{{ entry.category }}"
+  listCollection: "{{ entry.collection }}"
+  listCategory: "{{ entry.category }}"
+---

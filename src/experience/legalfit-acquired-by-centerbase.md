@@ -1,0 +1,44 @@
+---
+title: Legalfit acquired by Centerbase via its financial sponsor Mainsail Partners
+date: '2022-04-19'
+image: >-
+  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1650398434148-QFKI2QVHYE5VLNT6GBSG/Legalfit.png
+categories:
+  - Merger & Acquisition
+  - SaaS
+  - Marketing
+  - B2B Software
+sqsTags: []
+excerpt: ''
+seoTitle: >-
+  Legalfit acquired by Centerbase via its financial sponsor Mainsail Partners —
+  Peak Technology Partners
+seoDescription: ''
+ogImage: >-
+  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/625f031d397f145375e43bdb/1710807336263/Legalfit.png?format=1500w
+sqsId: 625f031d397f145375e43bdb
+sqsOrder: 29
+---
+<hr />
+  
+    
+
+    
+
+  
+
+ 
+  
+  <h4>Deal Synopsis</h4><p>The company was acquired by Centerbase, via its financial sponsor Mainsail Partners, through an LBO on April 7, 2022 for an undisclosed amount.  The acquisition will enable Centerbase to offer end-to-end client and matter lifecycle management, bolstering the company's mission to power the growth of law firms.  See the <a href="https://www.prweb.com/releases/2022/4/prweb18607173.htm">first</a> and <a href="https://centerbase.com/blog/centerbase-acquires-legal-website-content-management-system-and-marketing-platform-legalfit/">second</a> press release.  </p>
+
+  
+
+ 
+  
+  <h4>Seller Details</h4><p>Legalfit is a provider of web marketing services and content management system (CMS) intended to serve law firms. The company develops a website and offers media marketing through its search engine optimization, enabling law firms to drive engagement, increase traffic, boost visibility, and improve conversions.</p>
+
+  
+
+ 
+  
+  <h4>Buyer Details</h4><p>Centerbase is a developer of legal practice management software designed for law firms. The company's cloud-based platform includes native accounting, billing, timekeeping, matter management, document management, client communication tools and reporting ordering them by date or priority, enabling mid-sized law firms to streamline daily tasks and manage firm operations efficiently.</p>

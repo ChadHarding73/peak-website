@@ -1,0 +1,59 @@
+---
+title: Chad Harding
+date: '2020-12-02'
+image: >-
+  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1610993350869-JI19OA5W27O1UDFPGCXZ/Chad-01-cropped-SELECT.jpg
+categories:
+  - Managing Partner
+sqsTags: []
+excerpt: >-
+  <p>Chad is a Managing Partner at Peak Technology Partners. Chad has been
+  advising technology companies on financing and strategic transactions for over
+  twenty years.</p>
+seoTitle: Chad Harding — Peak Technology Partners
+seoDescription: >-
+  Chad is a Managing Partner at Peak Technology Partners. Chad has been advising
+  technology companies on financing and strategic transactions for over twenty
+  years.
+ogImage: >-
+  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fc7eba24790d6605eb560e9/5fc7ecaa8a66f53a61197765/1790631306384/Chad-01-cropped-SELECT.jpg?format=1500w
+sqsId: 5fc7ecaa8a66f53a61197765
+sqsOrder: 0
+---
+<figure>
+          
+        
+        
+
+        
+          
+            
+          
+            
+                
+                
+                
+                
+                
+                
+                
+                <img src="https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1610993978973-QB3J48GK7N59AFIGEO36/Chad-01-cropped-SELECT.jpg" alt="Chad-01-cropped-SELECT.jpg" />
+
+            
+          
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    
+  
+
+  
+
+  
+  <p>Chad is a Co-Founder and Managing Partner at Peak Technology Partners. Chad has been advising technology companies on financing and strategic transactions for over twenty years. Chad has executed over $90 billion of transactions over his career.</p><p>Prior to co-founding PEAK in 2016, Chad was a Senior Director of Finance at Sojern, a travel technology company, responsible for corporate development and FP&amp;A.  Prior to Sojern, Chad was a Senior Director of Investment Banking at Arbor Advisors where he advised technology entrepreneurs on M&amp;A and capital raising transactions. Chad began his investment banking career at Lehman Brothers / Barclays Capital in New York City, executing a number of high-profile transactions during his nine years at the firm.</p><p>Chad also has startup experience, having founded SmartFunded, an online fundraising platform for public schools.</p><p>Chad holds an MBA from the Kellogg School of Management and a B.S. in Chemical Engineering from the University of Utah.</p><p></p><p><em>​Chad is a Registered Representative of Finalis Securities LLC Member </em><a href="https://www.finra.org"><em>FINRA</em></a><em> / </em><a href="https://www.sipc.org"><em>SIPC</em></a><em>.</em></p>

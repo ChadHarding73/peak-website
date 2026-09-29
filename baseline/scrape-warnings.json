@@ -1,0 +1,56 @@
+[
+  {
+    "url": "/perspectives/blackboxintelligence",
+    "dropped": [
+      "p2"
+    ]
+  },
+  {
+    "url": "/perspectives/apilayer",
+    "dropped": [
+      "p2"
+    ]
+  },
+  {
+    "url": "/perspectives/chime",
+    "dropped": [
+      "p2"
+    ]
+  },
+  {
+    "url": "/perspectives/jetlore",
+    "dropped": [
+      "p2"
+    ]
+  },
+  {
+    "url": "/perspectives/dci",
+    "dropped": [
+      "p2"
+    ]
+  },
+  {
+    "url": "/perspectives/typhoondata",
+    "dropped": [
+      "p2"
+    ]
+  },
+  {
+    "url": "/perspectives/swoogo",
+    "dropped": [
+      "p2"
+    ]
+  },
+  {
+    "url": "/perspectives/agiloft",
+    "dropped": [
+      "p2"
+    ]
+  },
+  {
+    "url": "/perspectives/7geese",
+    "dropped": [
+      "p2"
+    ]
+  }
+]

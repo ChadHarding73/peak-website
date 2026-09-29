@@ -1,0 +1,42 @@
+---
+title: USEND acquired by Banco Inter
+date: '2022-02-03'
+image: >-
+  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1643905672142-8QFRLZ2FYML3UUNTMDQF/USEND.png
+categories:
+  - Merger & Acquisition
+  - Strategic
+  - Financial
+  - IT Services
+sqsTags: []
+excerpt: ''
+seoTitle: USEND acquired by Banco Inter — Peak Technology Partners
+seoDescription: ''
+ogImage: >-
+  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/61fc011ff1a3017e73a7b2e0/1669223100987/USEND.png?format=1500w
+sqsId: 61fc011ff1a3017e73a7b2e0
+sqsOrder: 33
+---
+<hr />
+  
+    
+
+    
+
+  
+
+ 
+  
+  <h4>Deal Synopsis</h4><p>USEND reached a definitive agreement to be acquired by Banco Inter for an undisclosed amount on October 1, 2021. The deal closed on January 25th, 2022. See the <a href="https://www.prnewswire.com/news-releases/inter-announces-closing-of-usend-acquisition-301468108.html">Press Release</a>.</p>
+
+  
+
+ 
+  
+  <h4>Seller Details</h4><p>USEND is a developer of a cloud-based payment processing platform intended to transfer money from the USA to Brazil and vice versa. The company's platform provides a seamless API integration to automate global mass payouts directly, process transactions, as well as secure web-based applications with data encryption, enabling clients to save on money transfer fees and rates without payment traffic interruptions.</p>
+
+  
+
+ 
+  
+  <h4>Buyer Details</h4><p>Banco Inter SA provides a range of financial products and services. It offers a portfolio of credit and financing solutions, and investment products. The company focuses on Real Estate Credit, Personal Credit, Corporate Credit and Credit Card products. It also has a diversified portfolio of investment products such as Savings, Real Estate Secured Bill (LIG), Certificate of Deposit (CDB), Letter of Real Estate Credit (LCI), Letter of Agribusiness Credit (LCA), Financial Letter (LF) and Time Deposit. The company also launched products such as Inter Open Platform (PAI), Real Estate Consortium, Financial Protection Insurance for Consignment and Real Estate Secured Bill (LIG).</p>

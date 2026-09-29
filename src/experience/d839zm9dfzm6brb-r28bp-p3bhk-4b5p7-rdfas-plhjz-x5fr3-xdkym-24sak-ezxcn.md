@@ -1,0 +1,44 @@
+---
+title: Proposify receives investment from Innovacorp
+date: '2021-01-26'
+image: >-
+  https://images.squarespace-cdn.com/content/v1/5fc6934c403f5353fdbcd66e/1611642975259-UG3Z429VCZFYFUZS9N3S/Proposify.jpg
+categories:
+  - Capital Raise
+  - Financial
+  - Productivity
+  - SaaS
+  - Media
+  - Communications
+sqsTags: []
+excerpt: ''
+seoTitle: Proposify receives investment from Innovacorp — Peak Technology Partners
+seoDescription: ''
+ogImage: >-
+  http://static1.squarespace.com/static/5fc6934c403f5353fdbcd66e/5fda5727f1b39f4489400221/600fb7e0b64c0f3152131f18/1612905378108/Proposify.jpg?format=1500w
+sqsId: 600fb7e0b64c0f3152131f18
+sqsOrder: 64
+---
+<hr />
+  
+    
+
+    
+
+  
+
+ 
+  
+  <h4>Deal Synopsis</h4><p>The company raised a Series A venture funding from Innovacorp and other angel investors on February 20, 2018.</p>
+
+  
+
+ 
+  
+  <h4>Company Details</h4><p>Proposify is the proposal software that gives you control and insight into the most important stage of your sales process: the close. From design to sign-off, get the confidence and consistency to dominate your deals.</p><p>Proposify helps modern sales teams create, send, track, and e-sign winning proposals, contracts, and agreements with a leading SaaS platform. <br /></p>
+
+  
+
+ 
+  
+  <h4>Investor Details</h4><p>Founded in 1995, Innovacorp is a venture capital firm and is based in Halifax, Canada. The firm seeks investments in early stage companies. The firm prefers to make investments in the information technology, clean technology, life sciences, and ocean technology sectors. In addition to venture capital, Innovacorp provides incubation space and acceleration programming for early-stage technology companies.</p>

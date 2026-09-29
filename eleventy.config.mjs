@@ -27,7 +27,8 @@ export default function (eleventyConfig) {
     return out;
   });
 
-  eleventyConfig.addFilter('canonicalPath', u => (u === '/' ? '/' : u.replace(/\/$/, '')));
+  // Lowercase: Netlify redirects mixed-case paths to lowercase, so that is the URL actually served.
+  eleventyConfig.addFilter('canonicalPath', u => (u === '/' ? '/' : decodeURIComponent(u).replace(/\/$/, '').toLowerCase()));
   eleventyConfig.addFilter('isoDay', d => new Date(d).toISOString().slice(0, 10));
   eleventyConfig.addFilter('monthDay', d => new Date(d).toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' }));
   eleventyConfig.addFilter('inCategory', (items, cat) => items.filter(i => (i.data.categories || []).includes(cat)));

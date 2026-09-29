@@ -13,3 +13,15 @@ test('every baseline 200/3xx URL is served by _site or _redirects', () => {
     .map(u => u.path);
   assert.deepEqual(missing, []);
 });
+
+test('no two baseline URLs collide once lowercased (Netlify serves paths case-insensitively)', () => {
+  const urls = JSON.parse(readFileSync('baseline/urls.json', 'utf8'));
+  const seen = new Map();
+  const collisions = [];
+  for (const u of urls) {
+    const k = decodeURIComponent(u.path).toLowerCase();
+    if (seen.has(k)) collisions.push(`${seen.get(k)} vs ${u.path}`);
+    else seen.set(k, u.path);
+  }
+  assert.deepEqual(collisions, []);
+});

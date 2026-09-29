@@ -1,5 +1,7 @@
 const strip = p => (p.length > 1 ? p.replace(/\/+$/, '') : p);
 const pathOf = (loc, base) => strip(decodeURIComponent(new URL(loc, base).pathname));
+// Netlify serves paths case-insensitively and redirects mixed-case requests to lowercase.
+const same = (a, b) => a !== null && b !== null && a.toLowerCase() === b.toLowerCase();
 
 async function resolveOnce(url, fetchFn, base) {
   const r = await fetchFn(url, { redirect: 'manual' });
@@ -18,11 +20,11 @@ export async function checkEntry(entry, fetchFn = fetch, base) {
     const r = await resolveOnce(base + v, fetchFn, base);
     if (entry.status >= 300 && entry.status < 400) {
       const want = pathOf(entry.location, base);
-      if (r.first < 300 || r.first >= 400 || r.to !== want) return { path: v, ok: false, detail: `expected redirect to ${want}, got ${r.first} -> ${r.to}` };
+      if (r.first < 300 || r.first >= 400 || !same(r.to, want)) return { path: v, ok: false, detail: `expected redirect to ${want}, got ${r.first} -> ${r.to}` };
       continue;
     }
     if (r.final !== 200) return { path: v, ok: false, detail: `status ${r.first}${r.to ? ` -> ${r.to} ${r.final}` : ''}` };
-    if (r.to !== null && r.to !== self) return { path: v, ok: false, detail: `redirected away to ${r.to}` };
+    if (r.to !== null && !same(r.to, self)) return { path: v, ok: false, detail: `redirected away to ${r.to}` };
   }
   return { path: entry.path, ok: true, detail: '' };
 }

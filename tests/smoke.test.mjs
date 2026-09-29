@@ -36,3 +36,8 @@ test('baseline 3xx entries must redirect to the same target', async () => {
   const f = fakeFetch({ '/home': { status: 301, location: '/' }, '/home/': { status: 301, location: '/' } });
   assert.equal((await checkEntry({ path: '/home', status: 301, location: 'https://www.peak-tech.com/' }, f, base)).ok, true);
 });
+
+test('a case-only redirect to a 200 passes (Netlify lowercases paths)', async () => {
+  const f = fakeFetch({ '/experience/category/AI': { status: 301, location: '/experience/category/ai' }, '/experience/category/ai': { status: 200 }, '/experience/category/AI/': { status: 301, location: '/experience/category/ai' } });
+  assert.equal((await checkEntry({ path: '/experience/category/AI', status: 200 }, f, base)).ok, true);
+});

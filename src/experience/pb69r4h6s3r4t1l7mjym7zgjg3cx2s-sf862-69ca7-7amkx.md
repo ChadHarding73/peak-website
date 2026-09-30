@@ -1,8 +1,7 @@
 ---
 title: Airwide Solutions acquired by Mavenir
 date: '2020-12-17'
-image: >-
-  /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862-69ca7-7amkx.jpg
+image: /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862-69ca7-7amkx.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -12,31 +11,8 @@ sqsTags: []
 excerpt: ''
 seoTitle: Airwide Solutions acquired by Mavenir — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862-69ca7-7amkx-2.jpg
+ogImage: /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862-69ca7-7amkx-2.jpg
 sqsId: 5fdaa24295b05957b5622c17
 sqsOrder: 104
 ---
-<hr />
-  
-    
-
-    
-
-  
-
- 
-  
-  <h4>Deal Synopsis</h4><p>Airwide Solutions was acquired by Mavenir Systems, a venture-backed company, on May 30, 2011.</p>
-
-  
-
- 
-  
-  <h4>Seller Details</h4><p>Airwide Solutions is a provider of mobile infrastructure software. The company's software enables mobile communications for wireless operators worldwide.</p>
-
-  
-
- 
-  
-  <h4>Buyer Details</h4><p>Mavenir Systems—now Mitel Networks—provided software-based networking services that enabled mobile service providers to deliver next generation services over 4G LTE networks. They had a fully virtual, end-to-end portfolio of voice and video, messaging, and mobile core products that included IP Multimedia Subsystem (IMS), Evolved Packet Core (EPC), and Session Border Controller (SBC). Mavenir sought to expand its business operations through mergers and acquisitions. Mavenir (NYSE: MVNR) was acquired by Mitel Networks on April 29, 2015.</p>
+<div class="row"><div class="col span-12"><hr class="rule"><div class="spacer vsize-1"></div><h4>Deal Synopsis</h4><p>Airwide Solutions was acquired by Mavenir Systems, a venture-backed company, on May 30, 2011.</p><div class="spacer vsize-1"></div><div class="row"><div class="col span-5"><h4>Seller Details</h4><p>Airwide Solutions is a provider of mobile infrastructure software. The company's software enables mobile communications for wireless operators worldwide.</p></div><div class="col span-1"><div class="spacer vsize-1"></div></div><div class="col span-6"><h4>Buyer Details</h4><p>Mavenir Systems—now Mitel Networks—provided software-based networking services that enabled mobile service providers to deliver next generation services over 4G LTE networks. They had a fully virtual, end-to-end portfolio of voice and video, messaging, and mobile core products that included IP Multimedia Subsystem (IMS), Evolved Packet Core (EPC), and Session Border Controller (SBC). Mavenir sought to expand its business operations through mergers and acquisitions. Mavenir (NYSE: MVNR) was acquired by Mitel Networks on April 29, 2015.</p></div></div></div></div>

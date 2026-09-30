@@ -16,26 +16,4 @@ ogImage: >-
 sqsId: 600a0bc490e8304a595d9612
 sqsOrder: 80
 ---
-<hr />
-  
-    
-
-    
-
-  
-
- 
-  
-  <h4>Deal Synopsis</h4><p>The company was acquired by undisclosed individuals.</p>
-
-  
-
- 
-  
-  <h4>Seller Details</h4><p>iBoats is a provider of online recreational services. The company's online marketplace offers a wide range of boating and engine parts and accessories, delivering the most trusted shopping, classifieds, and forum experience for boaters, water sports enthusiasts, and those that are passionate about life on the water.</p>
-
-  
-
- 
-  
-  <h4>Buyer Details</h4><p>Undisclosed.</p>
+<div class="row"><div class="col span-12"><hr class="rule"><div class="spacer vsize-1"></div><h4>Deal Synopsis</h4><p>The company was acquired by undisclosed individuals.</p><div class="spacer vsize-1"></div><div class="row"><div class="col span-5"><h4>Seller Details</h4><p>iBoats is a provider of online recreational services. The company's online marketplace offers a wide range of boating and engine parts and accessories, delivering the most trusted shopping, classifieds, and forum experience for boaters, water sports enthusiasts, and those that are passionate about life on the water.</p></div><div class="col span-1"><div class="spacer vsize-1"></div></div><div class="col span-6"><h4>Buyer Details</h4><p>Undisclosed.</p></div></div></div></div>

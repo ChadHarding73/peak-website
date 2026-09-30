@@ -18,26 +18,4 @@ ogImage: >-
 sqsId: 5ff53c70ada5017f0bf9181f
 sqsOrder: 97
 ---
-<hr />
-  
-    
-
-    
-
-  
-
- 
-  
-  <h4>Deal Synopsis</h4><p>The company was acquired by McKesson (NASDAQ:MCK) for $90 million on July 26, 2011.</p>
-
-  
-
- 
-  
-  <h4>Seller Details</h4><p>Portico Systems, a provider of health plan software applications, provides maintenance and reimbursement of health plan provider networks and transforms the performance management of their provider networks, while significantly reducing medical, administrative, and information technology cost.</p>
-
-  
-
- 
-  
-  <h4>Buyer Details</h4><p>McKesson Corporation is the largest and most complex of the leading third-party logistics providers. The company is engaged in wholesale pharmaceutical and medical products sourcing, distribution and dispensing, contract manufacturing, and related IT services to acute care hospitals and health systems, as well as independent and chain retail pharmacies in North America, Europe, and Canada.<br /></p>
+<div class="row"><div class="col span-12"><hr class="rule"><div class="spacer vsize-1"></div><h4>Deal Synopsis</h4><p>The company was acquired by McKesson (NASDAQ:MCK) for $90 million on July 26, 2011.</p><div class="spacer vsize-1"></div><div class="row"><div class="col span-5"><h4>Seller Details</h4><p>Portico Systems, a provider of health plan software applications, provides maintenance and reimbursement of health plan provider networks and transforms the performance management of their provider networks, while significantly reducing medical, administrative, and information technology cost.</p></div><div class="col span-1"><div class="spacer vsize-1"></div></div><div class="col span-6"><h4>Buyer Details</h4><p>McKesson Corporation is the largest and most complex of the leading third-party logistics providers. The company is engaged in wholesale pharmaceutical and medical products sourcing, distribution and dispensing, contract manufacturing, and related IT services to acute care hospitals and health systems, as well as independent and chain retail pharmacies in North America, Europe, and Canada.<br /></p></div></div></div></div>

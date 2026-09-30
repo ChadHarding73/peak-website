@@ -21,26 +21,4 @@ ogImage: >-
 sqsId: 600a1a85f1250d24ffed2560
 sqsOrder: 76
 ---
-<hr />
-  
-    
-
-    
-
-  
-
- 
-  
-  <h4>Deal Synopsis</h4><p>Episerver was acquired by Accel-KKR through an LBO on December 8, 2014 for an undisclosed sum. This investment will enable the company to continue accelerating its growth and market share.</p>
-
-  
-
- 
-  
-  <h4>Seller Details</h4><p>Episerver develops web content management and digital experience software. The company's application combines content, commerce, multi-channel marketing, and predictive analytics in a single platform to work full-circle for businesses, providing capabilities such as intelligent optimization, lead-generation, web product recommendations, conversion, and repeat business with unprecedented ease-of-use to clients.</p>
-
-  
-
- 
-  
-  <h4>Buyer Details</h4><p>Accel-KKR is a private equity firm based in Menlo Park, California. The firm seeks to invest in mid-market software and technology-enabled services company.</p>
+<div class="row"><div class="col span-12"><hr class="rule"><div class="spacer vsize-1"></div><h4>Deal Synopsis</h4><p>Episerver was acquired by Accel-KKR through an LBO on December 8, 2014 for an undisclosed sum. This investment will enable the company to continue accelerating its growth and market share.</p><div class="spacer vsize-1"></div><div class="row"><div class="col span-5"><h4>Seller Details</h4><p>Episerver develops web content management and digital experience software. The company's application combines content, commerce, multi-channel marketing, and predictive analytics in a single platform to work full-circle for businesses, providing capabilities such as intelligent optimization, lead-generation, web product recommendations, conversion, and repeat business with unprecedented ease-of-use to clients.</p></div><div class="col span-1"><div class="spacer vsize-1"></div></div><div class="col span-6"><h4>Buyer Details</h4><p>Accel-KKR is a private equity firm based in Menlo Park, California. The firm seeks to invest in mid-market software and technology-enabled services company.</p></div></div></div></div>

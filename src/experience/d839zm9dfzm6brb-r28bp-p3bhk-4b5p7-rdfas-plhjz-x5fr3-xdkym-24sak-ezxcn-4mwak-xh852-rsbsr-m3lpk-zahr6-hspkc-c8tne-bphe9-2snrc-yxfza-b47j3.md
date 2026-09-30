@@ -19,26 +19,4 @@ ogImage: >-
 sqsId: 6014b38ebf7edd00ec60810e
 sqsOrder: 56
 ---
-<hr />
-  
-    
-
-    
-
-  
-
- 
-  
-  <h4>Deal Synopsis</h4><p>The company was acquired by Eagle Rock Capital (Christopher Sykes) for an undisclosed amount on April 30, 2020. See the <a href="https://get.swoogo.com/unconventional/introducing-swoogos-new-ceo-chris-sykes">Press Release.</a> </p>
-
-  
-
- 
-  
-  <h4>Seller Details</h4><p>Developer of an event management software based in California.The company offers an optimized event registration and ticketing platform with customizable themes and branding.</p>
-
-  
-
- 
-  
-  <h4>Buyer Details</h4><p>Eagle Rock Capital is a financial sponsor led by Chistoper Sykes. The firm is based in Los Angeles, CA.</p>
+<div class="row"><div class="col span-12"><hr class="rule"><div class="spacer vsize-1"></div><h4>Deal Synopsis</h4><p>The company was acquired by Eagle Rock Capital (Christopher Sykes) for an undisclosed amount on April 30, 2020. See the <a href="https://get.swoogo.com/unconventional/introducing-swoogos-new-ceo-chris-sykes">Press Release.</a> </p><div class="spacer vsize-1"></div><div class="row"><div class="col span-5"><h4>Seller Details</h4><p>Developer of an event management software based in California.The company offers an optimized event registration and ticketing platform with customizable themes and branding.</p></div><div class="col span-1"><div class="spacer vsize-1"></div></div><div class="col span-6"><h4>Buyer Details</h4><p>Eagle Rock Capital is a financial sponsor led by Chistoper Sykes. The firm is based in Los Angeles, CA.</p></div></div></div></div>

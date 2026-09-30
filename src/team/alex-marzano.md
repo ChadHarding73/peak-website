@@ -1,8 +1,7 @@
 ---
 title: Alex Marzano
 date: '2020-06-24'
-image: >-
-  /images/team/alex-marzano.jpg
+image: /images/team/alex-marzano.jpg
 categories:
   - Analyst
 sqsTags: []
@@ -15,45 +14,8 @@ seoDescription: >-
   Alex is an Analyst at Peak Technology Partners where he focuses on business
   development and the execution of M&amp;A and capital raising transactions for
   technology companies.
-ogImage: >-
-  /images/team/alex-marzano-2.jpg
+ogImage: /images/team/alex-marzano-2.jpg
 sqsId: 6a988c40b260bc01a15af677
 sqsOrder: 17
 ---
-<figure>
-          
-        
-        
-
-        
-          
-            
-          
-            
-                
-                
-                
-                
-                
-                
-                
-                <img src="/images/team/alex-marzano-3.jpg" alt="" />
-
-            
-          
-        
-          
-        
-
-        
-      
-        </figure>
-      
-
-    
-  
-
-  
-
-  
-  <p>Alex is an Analyst at Peak Technology Partners where he focuses on business development and the execution of M&amp;A and capital raising transactions for technology companies. </p><p>Prior to joining full-time, Alex worked as an Investment Analyst Co-op at Socratic Partners, a Raptor Group affiliated VC fund, and as a business development Intern at Rev.io, a back-office automation company. He also interned at PEAK before joining full-time, assisting in deal sourcing and the preparation of marketing materials.</p><p>Alex graduated with honors from Northeastern University with a Bachelor's of Science in Business Administration and Economics with a concentration in Finance and a minor in Computer Science.</p><p>Outside of work, Alex enjoys cooking for friends and family and exploring new places on foot.</p>
+<div class="row"><div class="col span-12"><div class="row"><div class="col span-5"><figure class="image"><img src="/images/team/alex-marzano.jpg" alt="" loading="lazy"></figure></div><div class="col span-7"><p>Alex is an Analyst at Peak Technology Partners where he focuses on business development and the execution of M&amp;A and capital raising transactions for technology companies. </p><p>Prior to joining full-time, Alex worked as an Investment Analyst Co-op at Socratic Partners, a Raptor Group affiliated VC fund, and as a business development Intern at Rev.io, a back-office automation company. He also interned at PEAK before joining full-time, assisting in deal sourcing and the preparation of marketing materials.</p><p>Alex graduated with honors from Northeastern University with a Bachelor's of Science in Business Administration and Economics with a concentration in Finance and a minor in Computer Science.</p><p>Outside of work, Alex enjoys cooking for friends and family and exploring new places on foot.</p></div></div></div></div>

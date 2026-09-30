@@ -19,26 +19,4 @@ ogImage: >-
 sqsId: 5ff5567ec0e43812a5f69080
 sqsOrder: 91
 ---
-<hr />
-  
-    
-
-    
-
-  
-
- 
-  
-  <h4>Deal Synopsis</h4><p>The company was acquired by Google (NASDAQ:GOOG) for $125 million on February 20, 2013.</p>
-
-  
-
- 
-  
-  <h4>Seller Details</h4><p>Channel Intelligence is a developer of patented optimization technology and data services for the online shopping industry. The company serves manufacturers, retailers, and publishers.</p>
-
-  
-
- 
-  
-  <h4>Buyer Details</h4><p>Alphabet is a holding company with Google, the internet media giant, as a wholly owned subsidiary. Google generates 99% of Alphabet revenue, of which more than 85% is from online ads.</p>
+<div class="row"><div class="col span-12"><hr class="rule"><div class="spacer vsize-1"></div><h4>Deal Synopsis</h4><p>The company was acquired by Google (NASDAQ:GOOG) for $125 million on February 20, 2013.</p><div class="spacer vsize-1"></div><div class="row"><div class="col span-5"><h4>Seller Details</h4><p>Channel Intelligence is a developer of patented optimization technology and data services for the online shopping industry. The company serves manufacturers, retailers, and publishers.</p></div><div class="col span-1"><div class="spacer vsize-1"></div></div><div class="col span-6"><h4>Buyer Details</h4><p>Alphabet is a holding company with Google, the internet media giant, as a wholly owned subsidiary. Google generates 99% of Alphabet revenue, of which more than 85% is from online ads.</p></div></div></div></div>

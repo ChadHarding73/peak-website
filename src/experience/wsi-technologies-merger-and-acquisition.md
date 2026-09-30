@@ -1,8 +1,7 @@
 ---
 title: WSI Technologies Becomes Valsoft’s Gateway into Public Safety Vertical
 date: '2025-09-09'
-image: >-
-  /images/experience/wsi-technologies-merger-and-acquisition.png
+image: /images/experience/wsi-technologies-merger-and-acquisition.png
 categories:
   - Merger & Acquisition
   - Financial
@@ -16,44 +15,8 @@ seoTitle: >-
   WSI Technologies Becomes Valsoft’s Gateway into Public Safety Vertical — Peak
   Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/wsi-technologies-merger-and-acquisition-2.png
+ogImage: /images/experience/wsi-technologies-merger-and-acquisition-2.png
 sqsId: 68bf845278c07f78dc64d63a
 sqsOrder: 3
 ---
-<p><strong>SAN FRANCISCO, CA – September 9, 2025</strong> – Peak Technology Partners  is proud to have served as the exclusive financial advisor to <strong>WSI Technologies</strong>, a pioneer in secure video recording solutions for public safety and child advocacy markets, on its acquisition by <strong>Valsoft Corporation Inc</strong>, a Canadian company specializing in the acquisition and development of vertical market software businesses.</p><p>Founded in 1977, WSI has built a strong reputation for delivering trusted, mission-critical solutions that help public safety agencies and child advocacy centers protect communities and improve outcomes for vulnerable populations. Its flagship platforms, iRecord and Nexus, support secure interview recording, remote viewing, and streamlined evidence-sharing across the law enforcement and judicial ecosystem.</p>
-
-  
-
-  
-
-<figure>
-  <blockquote>
-    “We’re seeing sustained consolidation and strong investor interest across our sell-side mandates within public safety technology, particularly in businesses serving attractive end markets—including law enforcement and courts,” said Andrew Stivers, Director at Peak Technology Partners. “WSI Technologies has differentiated itself from its peers as a high-performing company with deep relationships within the law enforcement and public safety end markets. It was a privilege to partner with the WSI team through a process that positions them for even greater impact and growth.”
-  </blockquote>
-  
-  
-
-</figure>
-
-  
-
-  
-
-  
-  <p><strong>Strategic Expansion into Public Safety</strong></p><p>This acquisition marks Valsoft’s strategic entry into the public safety technology vertical, an attractive and growing sector where cloud-based interoperability and AI-driven systems are driving modernization. With nearly five decades of market leadership, WSI adds both trusted products and deep customer relationships to Valsoft’s ecosystem of vertical market software businesses.</p><p><strong>Jim Hansen</strong>, an experienced executive in public safety and child advocacy technology, has been appointed President and CEO of WSI Technologies. Hansen succeeds <strong>Jim Halsmer</strong>, who guided the company’s growth in recent years. Hansen will lead WSI into its next phase of innovation and expansion, building on its strong history of customer trust and reliable solutions.</p><p><strong>Operating Under Valsoft</strong></p><p>WSI Technologies will continue to operate <strong>autonomously</strong> within Valsoft’s <strong>Fluent operating group</strong>, with its team remaining in place. The structure ensures continuity for customers while leveraging Valsoft’s shared expertise, resources, and operational support to accelerate sustainable product development and market impact.</p>
-
-  
-
-  
-
-  <hr />
-  
-    
-
-    
-
-  
-
-  
-  <p><strong>About WSI Technologies</strong></p><p>WSI Technologies is a trusted partner to public safety agencies and child advocacy organizations across North America. The company specializes in secure, compliant, and user-friendly solutions that support sensitive interview processes and digital evidence management. With a longstanding commitment to reliability and innovation, WSI enables law enforcement professionals and advocacy teams to focus on protecting communities while meeting the highest standards of evidence integrity.</p><p><strong>About Valsoft Corporation</strong></p><p>Valsoft Corporation acquires and develops vertical market software businesses, empowering them with the resources, expertise, and operational support to achieve long-term success. Based in Montreal, Canada, Valsoft follows a “buy and hold forever” philosophy, enabling companies to retain their entrepreneurial spirit while benefiting from a global ecosystem of best practices. Its portfolio spans multiple industries worldwide, with a focus on innovation, operational excellence, and sustainable growth. Read Valsoft’s own press release <a href="https://www.valsoftcorp.com/valsoft-enters-public-safety-vertical-with-the-acquisition-of-wsi-technologies/" target="_blank">here</a>. </p><p><strong>About Peak Technology Partners</strong> </p><p>Peak Technology Partners is a premier investment bank focused exclusively on advising high-growth and market-leading technology companies. With deep sector expertise and a proven track record across software, IT services, and vertical technology markets, PEAK provides strategic advisory and M&amp;A services to founder-owned businesses, private equity-backed companies, and global enterprises. PEAK’s senior team combines industry knowledge with hands-on transaction execution—helping clients achieve superior outcomes in transformative transactions.</p>
+<div class="row"><div class="col span-12"><p><strong>SAN FRANCISCO, CA – September 9, 2025</strong> – Peak Technology Partners  is proud to have served as the exclusive financial advisor to <strong>WSI Technologies</strong>, a pioneer in secure video recording solutions for public safety and child advocacy markets, on its acquisition by <strong>Valsoft Corporation Inc</strong>, a Canadian company specializing in the acquisition and development of vertical market software businesses.</p><p>Founded in 1977, WSI has built a strong reputation for delivering trusted, mission-critical solutions that help public safety agencies and child advocacy centers protect communities and improve outcomes for vulnerable populations. Its flagship platforms, iRecord and Nexus, support secure interview recording, remote viewing, and streamlined evidence-sharing across the law enforcement and judicial ecosystem.</p><blockquote class="quote"><p>“We’re seeing sustained consolidation and strong investor interest across our sell-side mandates within public safety technology, particularly in businesses serving attractive end markets—including law enforcement and courts,” said Andrew Stivers, Director at Peak Technology Partners. “WSI Technologies has differentiated itself from its peers as a high-performing company with deep relationships within the law enforcement and public safety end markets. It was a privilege to partner with the WSI team through a process that positions them for even greater impact and growth.”</p></blockquote><p><strong>Strategic Expansion into Public Safety</strong></p><p>This acquisition marks Valsoft’s strategic entry into the public safety technology vertical, an attractive and growing sector where cloud-based interoperability and AI-driven systems are driving modernization. With nearly five decades of market leadership, WSI adds both trusted products and deep customer relationships to Valsoft’s ecosystem of vertical market software businesses.</p><p><strong>Jim Hansen</strong>, an experienced executive in public safety and child advocacy technology, has been appointed President and CEO of WSI Technologies. Hansen succeeds <strong>Jim Halsmer</strong>, who guided the company’s growth in recent years. Hansen will lead WSI into its next phase of innovation and expansion, building on its strong history of customer trust and reliable solutions.</p><p><strong>Operating Under Valsoft</strong></p><p>WSI Technologies will continue to operate <strong>autonomously</strong> within Valsoft’s <strong>Fluent operating group</strong>, with its team remaining in place. The structure ensures continuity for customers while leveraging Valsoft’s shared expertise, resources, and operational support to accelerate sustainable product development and market impact.</p><hr class="rule"><p><strong>About WSI Technologies</strong></p><p>WSI Technologies is a trusted partner to public safety agencies and child advocacy organizations across North America. The company specializes in secure, compliant, and user-friendly solutions that support sensitive interview processes and digital evidence management. With a longstanding commitment to reliability and innovation, WSI enables law enforcement professionals and advocacy teams to focus on protecting communities while meeting the highest standards of evidence integrity.</p><p><strong>About Valsoft Corporation</strong></p><p>Valsoft Corporation acquires and develops vertical market software businesses, empowering them with the resources, expertise, and operational support to achieve long-term success. Based in Montreal, Canada, Valsoft follows a “buy and hold forever” philosophy, enabling companies to retain their entrepreneurial spirit while benefiting from a global ecosystem of best practices. Its portfolio spans multiple industries worldwide, with a focus on innovation, operational excellence, and sustainable growth. Read Valsoft’s own press release <a href="https://www.valsoftcorp.com/valsoft-enters-public-safety-vertical-with-the-acquisition-of-wsi-technologies/" target="_blank">here</a>. </p><p><strong>About Peak Technology Partners</strong> </p><p>Peak Technology Partners is a premier investment bank focused exclusively on advising high-growth and market-leading technology companies. With deep sector expertise and a proven track record across software, IT services, and vertical technology markets, PEAK provides strategic advisory and M&amp;A services to founder-owned businesses, private equity-backed companies, and global enterprises. PEAK’s senior team combines industry knowledge with hands-on transaction execution—helping clients achieve superior outcomes in transformative transactions.</p></div></div>

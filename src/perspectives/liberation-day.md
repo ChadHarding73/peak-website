@@ -1,8 +1,7 @@
 ---
 title: What Was “Liberation Day?”
 date: '2025-04-03'
-image: >-
-  /images/perspectives/liberation-day.jpg
+image: /images/perspectives/liberation-day.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -27,69 +26,8 @@ seoDescription: >-
   founders should proactively evaluate supply chain exposure, pricing
   strategies, and geographic dependencies as they navigate a landscape
   increasingly shaped by deglobalization and policy-driven volatility.
-ogImage: >-
-  /images/perspectives/liberation-day-2.jpg
+ogImage: /images/perspectives/liberation-day-2.jpg
 sqsId: 67eed8202c034941fdbcf491
 sqsOrder: 22
 ---
-<p>“Liberation Day” is the term used by Donald Trump and his campaign to describe the first day of his potential return to the White House—specifically focused on rapidly rolling back what he characterizes as “globalist” economic policies. It’s both a symbolic and practical commitment to aggressively reassert U.S. economic nationalism, setting the stage for a series of planned executive actions—including broad-based tariffs on imports, tightened immigration controls, and regulatory shifts.</p><p>Yesterday, Trump’s team outlined that on Liberation Day, the administration would push for:</p><ul><li><p><strong>Universal Baseline Tariff</strong>: A 10% tariff imposed on all imported goods from every country, effective April 5, 2025.</p></li><li><p><strong>Country-Specific Tariffs</strong>: Higher tariffs targeting approximately 60 nations deemed to have unfair trade policies. Notable examples include:</p><ul><li><p>China: 34%</p></li><li><p>European Union: 20%</p></li><li><p>Japan: 24%</p></li><li><p>Vietnam: 46%</p></li><li><p>Cambodia: 49%</p></li></ul></li><li><p><strong>Automobile Tariffs</strong>: An additional 25% tariff on all imported automobiles, effective April 3, 2025.</p></li><li><p>Fast-track actions to decouple from adversarial economies and re-shore manufacturing.</p></li><li><p>Immigration reforms that could impact the tech talent pipeline.</p></li><li><p>A reorientation of trade policy toward “America First” protectionism.</p></li></ul><p>While these headline policies appear aimed at manufacturing, the ripple effects will be felt throughout the economy—including in SaaS.</p>
-
-  
-
-  
-
-  <hr />
-  
-    
-
-    
-
-  
-
-  
-  <h4><strong>Tariff Policies Summary</strong></h4><p>The central economic lever is Trump’s proposed universal baseline tariff, which would apply a 10% duty on all imports. While that may sound like a manufacturing story, here’s where it intersects with software:</p><ul><li><p><strong>Hardware costs rise</strong>: Infrastructure for cloud computing, laptops, networking gear, and servers—all become more expensive if sourced from abroad.</p></li><li><p><strong>Global SaaS vendors get hit</strong>: Any reliance on offshore development, support, or data centers could become costlier.</p></li><li><p><strong>Supply chain unpredictability</strong>: Higher tariffs on trading partners may trigger retaliation, affecting global operations and partnerships.</p></li><li><p><strong>Cloud and hosting services</strong>: Those using global infrastructure (like AWS or Azure data centers abroad) may face downstream cost increases.</p></li></ul><p>Also notable: tariffs are taxes—and they ultimately pass through to businesses and consumers.</p>
-
-  
-
-  
-
-  <hr />
-  
-    
-
-    
-
-  
-
-  
-  <h4><strong>What Should Software Company Founders Be Thinking About?</strong></h4><p>Even if you're not shipping physical goods, these policies could still impact your bottom line and growth strategy. Here’s what to consider:</p><ol><li><p><strong>Global Supply Chain Exposure</strong><br /> Are your vendors, contractors, or tech partners exposed to global supply chains?<br /> Audit your hosting, DevOps, data storage, and customer support infrastructure—what portion is offshored?</p></li><li><p><strong>Talent Sourcing Risks</strong><br /> If immigration tightens, hiring top-tier engineers from abroad (or retaining them on work visas) becomes harder.<br /> Remote teams based in affected countries (India, China, Eastern Europe) may face new compliance or tax complexity.</p></li><li><p><strong>Enterprise Budgets Under Pressure</strong><br /> If your customers—especially those in manufacturing, retail, or global logistics—face higher input costs, their software budgets may shrink.<br /> Expect longer sales cycles or more intense procurement scrutiny as customers brace for macroeconomic shocks.</p></li><li><p><strong>Pricing Strategy Review</strong><br /> If you’re reliant on low-cost offshore support or development, revisit your margins and pricing—cost shocks can creep in quietly.<br /> Consider building in geographic flexibility in contracts or pricing (e.g., regional surcharges, multi-currency models).</p></li><li><p><strong>Market Positioning</strong><br /> Lean into messaging around resilience, compliance, and domestic security. SaaS products that emphasize “U.S.-based” or “data sovereignty” may benefit.<br /> If you're in a procurement-heavy vertical (govtech, healthcare, defense), Trump-era policies could lead to a buy-American tailwind.</p></li></ol>
-
-  
-
-  
-
-  <hr />
-  
-    
-
-    
-
-  
-
-  
-  <h4><strong>Potential Ramifications for the SaaS Ecosystem</strong></h4><p>The SaaS industry operates in a globalized ecosystem—even if products are digital, teams and infrastructure often aren’t. Here are some broader ecosystem impacts:</p><ul><li><p><strong>Higher cloud costs</strong>: If cloud providers pass on increased infrastructure costs, expect higher fees across the board.</p></li><li><p><strong>VC sentiment shift</strong>: Investors may prioritize companies with simpler, domestic cost structures. Offshore-heavy cap tables or operations could face more scrutiny.</p></li><li><p><strong>M&amp;A complexity</strong>: Cross-border deals or acquirer interest from non-U.S. companies may encounter new regulatory friction.</p></li><li><p><strong>Startup hubs shift</strong>: Areas reliant on immigrant tech workers or global outsourcing may lose competitiveness to hubs with more domestic infrastructure or talent.</p></li></ul>
-
-  
-
-  
-
-  <hr />
-  
-    
-
-    
-
-  
-
-  
-  <h4><strong>Thoughts to Contemplate</strong> </h4><p>“Liberation Day” isn’t just about factories—it’s a signal that the next few years may bring economic nationalism, deglobalization, and supply chain volatility. SaaS founders—even those who sell nothing physical—should be thinking about resilience, cost structure, and geographic dependencies.</p><p>You don’t need to panic, but you do need to plan.</p>
+<div class="row"><div class="col span-12"><p>“Liberation Day” is the term used by Donald Trump and his campaign to describe the first day of his potential return to the White House—specifically focused on rapidly rolling back what he characterizes as “globalist” economic policies. It’s both a symbolic and practical commitment to aggressively reassert U.S. economic nationalism, setting the stage for a series of planned executive actions—including broad-based tariffs on imports, tightened immigration controls, and regulatory shifts.</p><p>Yesterday, Trump’s team outlined that on Liberation Day, the administration would push for:</p><ul><li><p><strong>Universal Baseline Tariff</strong>: A 10% tariff imposed on all imported goods from every country, effective April 5, 2025.</p></li><li><p><strong>Country-Specific Tariffs</strong>: Higher tariffs targeting approximately 60 nations deemed to have unfair trade policies. Notable examples include:</p><ul><li><p>China: 34%</p></li><li><p>European Union: 20%</p></li><li><p>Japan: 24%</p></li><li><p>Vietnam: 46%</p></li><li><p>Cambodia: 49%</p></li></ul></li><li><p><strong>Automobile Tariffs</strong>: An additional 25% tariff on all imported automobiles, effective April 3, 2025.</p></li><li><p>Fast-track actions to decouple from adversarial economies and re-shore manufacturing.</p></li><li><p>Immigration reforms that could impact the tech talent pipeline.</p></li><li><p>A reorientation of trade policy toward “America First” protectionism.</p></li></ul><p>While these headline policies appear aimed at manufacturing, the ripple effects will be felt throughout the economy—including in SaaS.</p><hr class="rule"><h4><strong>Tariff Policies Summary</strong></h4><p>The central economic lever is Trump’s proposed universal baseline tariff, which would apply a 10% duty on all imports. While that may sound like a manufacturing story, here’s where it intersects with software:</p><ul><li><p><strong>Hardware costs rise</strong>: Infrastructure for cloud computing, laptops, networking gear, and servers—all become more expensive if sourced from abroad.</p></li><li><p><strong>Global SaaS vendors get hit</strong>: Any reliance on offshore development, support, or data centers could become costlier.</p></li><li><p><strong>Supply chain unpredictability</strong>: Higher tariffs on trading partners may trigger retaliation, affecting global operations and partnerships.</p></li><li><p><strong>Cloud and hosting services</strong>: Those using global infrastructure (like AWS or Azure data centers abroad) may face downstream cost increases.</p></li></ul><p>Also notable: tariffs are taxes—and they ultimately pass through to businesses and consumers.</p><hr class="rule"><h4><strong>What Should Software Company Founders Be Thinking About?</strong></h4><p>Even if you're not shipping physical goods, these policies could still impact your bottom line and growth strategy. Here’s what to consider:</p><ol><li><p><strong>Global Supply Chain Exposure</strong><br /> Are your vendors, contractors, or tech partners exposed to global supply chains?<br /> Audit your hosting, DevOps, data storage, and customer support infrastructure—what portion is offshored?</p></li><li><p><strong>Talent Sourcing Risks</strong><br /> If immigration tightens, hiring top-tier engineers from abroad (or retaining them on work visas) becomes harder.<br /> Remote teams based in affected countries (India, China, Eastern Europe) may face new compliance or tax complexity.</p></li><li><p><strong>Enterprise Budgets Under Pressure</strong><br /> If your customers—especially those in manufacturing, retail, or global logistics—face higher input costs, their software budgets may shrink.<br /> Expect longer sales cycles or more intense procurement scrutiny as customers brace for macroeconomic shocks.</p></li><li><p><strong>Pricing Strategy Review</strong><br /> If you’re reliant on low-cost offshore support or development, revisit your margins and pricing—cost shocks can creep in quietly.<br /> Consider building in geographic flexibility in contracts or pricing (e.g., regional surcharges, multi-currency models).</p></li><li><p><strong>Market Positioning</strong><br /> Lean into messaging around resilience, compliance, and domestic security. SaaS products that emphasize “U.S.-based” or “data sovereignty” may benefit.<br /> If you're in a procurement-heavy vertical (govtech, healthcare, defense), Trump-era policies could lead to a buy-American tailwind.</p></li></ol><hr class="rule"><h4><strong>Potential Ramifications for the SaaS Ecosystem</strong></h4><p>The SaaS industry operates in a globalized ecosystem—even if products are digital, teams and infrastructure often aren’t. Here are some broader ecosystem impacts:</p><ul><li><p><strong>Higher cloud costs</strong>: If cloud providers pass on increased infrastructure costs, expect higher fees across the board.</p></li><li><p><strong>VC sentiment shift</strong>: Investors may prioritize companies with simpler, domestic cost structures. Offshore-heavy cap tables or operations could face more scrutiny.</p></li><li><p><strong>M&amp;A complexity</strong>: Cross-border deals or acquirer interest from non-U.S. companies may encounter new regulatory friction.</p></li><li><p><strong>Startup hubs shift</strong>: Areas reliant on immigrant tech workers or global outsourcing may lose competitiveness to hubs with more domestic infrastructure or talent.</p></li></ul><hr class="rule"><h4><strong>Thoughts to Contemplate</strong> </h4><p>“Liberation Day” isn’t just about factories—it’s a signal that the next few years may bring economic nationalism, deglobalization, and supply chain volatility. SaaS founders—even those who sell nothing physical—should be thinking about resilience, cost structure, and geographic dependencies.</p><p>You don’t need to panic, but you do need to plan.</p></div></div>

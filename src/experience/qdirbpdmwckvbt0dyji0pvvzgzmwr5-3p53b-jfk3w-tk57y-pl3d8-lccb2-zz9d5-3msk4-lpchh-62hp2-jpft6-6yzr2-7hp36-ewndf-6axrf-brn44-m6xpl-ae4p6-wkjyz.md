@@ -18,26 +18,4 @@ ogImage: >-
 sqsId: 5ff6828bf225cd0bccefb075
 sqsOrder: 85
 ---
-<hr />
-  
-    
-
-    
-
-  
-
- 
-  
-  <h4>Deal Synopsis</h4><p>Consult A Doctor was acquired by Teladoc, a venture-backed company, on September 4, 2013 for $17.18 Million.</p>
-
-  
-
- 
-  
-  <h4>Seller Details</h4><p>Consult A Doctor provides consumer-driven health care services and offers 24/7 access to physicians for phone and secure email medical consultations. It provides specific answers to medical questions and advice regarding non-emergency and routine medical conditions.</p>
-
-  
-
- 
-  
-  <h4>Buyer Details</h4><p>Teladoc Health is a virtual health provider with a tele-health platform delivering 24-hour, on-demand healthcare via mobile devices, the internet, video, and phone. Its platform connects members with a network of physicians and behavioral health professionals. Most of the company's revenue is generated on a subscription basis (per member per month); the balance comes from visit fees. Since inception, Teladoc has primarily partnered with employers, health plans, and health systems to offer network access to their members; most recently, the company has also started to market directly to consumers while expanding its service portfolio. The cornerstone of Teladoc's business is to provide healthcare access to members in real-time to avoid excessive health plan costs.</p>
+<div class="row"><div class="col span-12"><hr class="rule"><div class="spacer vsize-1"></div><h4>Deal Synopsis</h4><p>Consult A Doctor was acquired by Teladoc, a venture-backed company, on September 4, 2013 for $17.18 Million.</p><div class="spacer vsize-1"></div><div class="row"><div class="col span-5"><h4>Seller Details</h4><p>Consult A Doctor provides consumer-driven health care services and offers 24/7 access to physicians for phone and secure email medical consultations. It provides specific answers to medical questions and advice regarding non-emergency and routine medical conditions.</p></div><div class="col span-1"><div class="spacer vsize-1"></div></div><div class="col span-6"><h4>Buyer Details</h4><p>Teladoc Health is a virtual health provider with a tele-health platform delivering 24-hour, on-demand healthcare via mobile devices, the internet, video, and phone. Its platform connects members with a network of physicians and behavioral health professionals. Most of the company's revenue is generated on a subscription basis (per member per month); the balance comes from visit fees. Since inception, Teladoc has primarily partnered with employers, health plans, and health systems to offer network access to their members; most recently, the company has also started to market directly to consumers while expanding its service portfolio. The cornerstone of Teladoc's business is to provide healthcare access to members in real-time to avoid excessive health plan costs.</p></div></div></div></div>

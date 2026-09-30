@@ -6,6 +6,7 @@ import { IMAGE_HOSTS, originalUrl, assignNames, rewriteRefs, ORIGINAL_ACCEPT, ty
 const DIRS = ['experience', 'perspectives', 'team', 'pages'];
 const files = [];
 for (const d of DIRS) for (const f of await readdir(`src/${d}`)) if (f.endsWith('.md')) files.push({ dir: d, path: `src/${d}/${f}`, slug: f.replace(/\.md$/, '') });
+for (const f of await readdir('src/_includes/partials')) if (f.endsWith('.njk')) files.push({ dir: 'site', path: `src/_includes/partials/${f}`, slug: f.replace(/\.njk$/, '') });
 
 const refs = [];
 for (const f of files) {
@@ -32,7 +33,8 @@ async function download(url, dest, tries = 3) {
   }
 }
 
-const manifest = {};
+let manifest = {};
+try { manifest = JSON.parse(await readFile('baseline/images.json', 'utf8')); } catch {}
 for (const [url, path] of localPath) {
   const { type, dest } = await download(url, `src${path}`);
   localPath.set(url, dest.slice(3));

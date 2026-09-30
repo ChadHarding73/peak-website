@@ -21,26 +21,4 @@ ogImage: >-
 sqsId: 600a10ecf28f30262d45ba97
 sqsOrder: 78
 ---
-<hr />
-  
-    
-
-    
-
-  
-
- 
-  
-  <h4>Deal Synopsis</h4><p>The company received an undisclosed amount of development capital from H.I.G Growth Partners on October 14, 2014.</p>
-
-  
-
- 
-  
-  <h4>Company Details</h4><p><a href="https://www.boostability.com">Boostability</a> provides digital marketing services, including search engine optimization (SEO), local online marketing, website creation, social and other digital marketing services to the international small and medium business (SMB) market.</p>
-
-  
-
- 
-  
-  <h4>Investor Details</h4><p>H.I.G. Capital is a growth capital firm headquartered in Miami, Florida. The firm seeks to make minority investments in growth-stage companies. The firm prefers to invest in software, healthcare technology, commercial services, manufacturing, internet of things, software-as-a-service, big data, cloud tech, e-commerce, and marketing technology sectors.</p>
+<div class="row"><div class="col span-12"><hr class="rule"><div class="spacer vsize-1"></div><h4>Deal Synopsis</h4><p>The company received an undisclosed amount of development capital from H.I.G Growth Partners on October 14, 2014.</p><div class="spacer vsize-1"></div><div class="row"><div class="col span-5"><h4>Company Details</h4><p><a href="https://www.boostability.com">Boostability</a> provides digital marketing services, including search engine optimization (SEO), local online marketing, website creation, social and other digital marketing services to the international small and medium business (SMB) market.</p></div><div class="col span-1"><div class="spacer vsize-1"></div></div><div class="col span-6"><h4>Investor Details</h4><p>H.I.G. Capital is a growth capital firm headquartered in Miami, Florida. The firm seeks to make minority investments in growth-stage companies. The firm prefers to invest in software, healthcare technology, commercial services, manufacturing, internet of things, software-as-a-service, big data, cloud tech, e-commerce, and marketing technology sectors.</p></div></div></div></div>

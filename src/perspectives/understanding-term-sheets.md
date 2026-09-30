@@ -1,8 +1,7 @@
 ---
 title: 'Understanding Term Sheets: A Guide for Software Company Founders'
 date: '2025-04-01'
-image: >-
-  /images/perspectives/understanding-term-sheets.png
+image: /images/perspectives/understanding-term-sheets.png
 categories: []
 sqsTags: []
 excerpt: >-
@@ -29,116 +28,8 @@ seoDescription: >-
   funding sources, management roles post-transaction, and the due diligence
   process.   A strong grasp of these elements empowers founders to negotiate
   better terms and avoid costly pitfalls in M&amp;A or fundraising scenarios.
-ogImage: >-
-  /images/perspectives/understanding-term-sheets-2.png
+ogImage: /images/perspectives/understanding-term-sheets-2.png
 sqsId: 67ec2211c4a28b34bd0e0a06
 sqsOrder: 23
 ---
-<h4><strong>What Is a Term Sheet?</strong></h4><p>A term sheet is a non-binding agreement that outlines the key terms and conditions of a potential investment or acquisition before the final legal documents are drafted. It serves as a blueprint for negotiations and provides clarity to both parties on the fundamental aspects of the deal.</p><p>A term sheet typically takes one of two forms: an <strong>Indication of Interest (IOI)</strong> or a <strong>Letter of Intent (LOI)</strong>:</p><ul><li><p><strong>Indication of Interest (IOI):</strong> A preliminary expression of interest from a buyer or investor, usually providing a general range of valuation and key deal terms.</p></li><li><p><strong>Letter of Intent (LOI):</strong> A more detailed agreement outlining specific provisions, setting the stage for due diligence and final negotiations. If the LOI is agreed to and signed by both the buyer and seller, the expectation is that its terms will be reflected in the final deal documents.</p></li></ul><p>While most provisions in a term sheet are non-binding, certain clauses are typically binding, including:</p><ul><li><p><strong>Confidentiality:</strong> Prohibits the disclosure of deal discussions and terms.</p></li><li><p><strong>Non-Solicitation:</strong> Prevents either party from hiring employees from the other.</p></li><li><p><strong>Exclusivity:</strong> Grants the buyer/investor a period to negotiate exclusively, without competition from other offers.</p></li></ul>
-
-  
-
-  
-
-  <hr />
-  
-    
-
-    
-
-  
-
-  
-  <h4><strong>What Are Typical Terms Within a Term Sheet?</strong></h4><p><strong>1.) Valuation</strong></p><p>Valuation in a term sheet can take several forms:</p><ul><li><p><strong>Enterprise Value (EV):</strong> Represents the total value of the business, including debt and excluding cash.</p></li><li><p><strong>Pre-Money Valuation:</strong> The company’s valuation before new investment.</p></li><li><p><strong>Post-Money Valuation:</strong> The valuation after new investment is added.</p></li></ul><p><strong>Example Calculation:</strong><br />If a company receives a $10M investment at a pre-money valuation of $40M:</p><p><em>Post-money valuation = Pre-money valuation + Investment</em></p><p>$50M = $40M + $10M</p><p>The investor now owns $10M / $50M = <strong>20%</strong> of the company.</p><p>Beyond the headline valuation, founders should scrutinize definitions around <strong>indebtedness</strong> and <strong>net working capital</strong>. For example, if deferred revenue is included in indebtedness, it could significantly reduce the seller’s final proceeds.</p>
-
-  
-
-  
-
-  <hr />
-  
-    
-
-    
-
-  
-
-  
-  <p><strong>2.) Transaction Structure</strong></p><p>The structure of the deal affects financial outcomes and risk. Key components include:</p><ul><li><p><strong>Investment Share Class (for minority investments):</strong> Includes terms such as:</p><ul><li><p><strong>Conversion Features:</strong> Participating (principal <em>plus</em> converted equity) vs. Non-Participating Preferred (principal <em>or</em> converted equity).</p></li><li><p><strong>Preferences:</strong> 1x or 2x liquidation preference.</p></li></ul></li><li><p><strong>Acquisition Type (for M&amp;A deals):</strong></p><ul><li><p><strong>Asset Purchase:</strong> Buyer selects which assets and liabilities to acquire.</p></li><li><p><strong>Stock Purchase:</strong> Buyer acquires all shares and assumes liabilities.</p></li></ul></li><li><p><strong>Consideration Type:</strong></p><ul><li><p><strong>Cash:</strong> Provides immediate liquidity for the seller.</p></li><li><p><strong>Stock:</strong> Seller receives equity in the buyer’s company (may include rollover equity).</p></li></ul></li><li><p><strong>Contingent Consideration:</strong></p><ul><li><p><strong>Earn-Outs:</strong> Additional payments based on future performance.</p></li><li><p><strong>Performance Bonuses:</strong> Similar to earn-outs but targeted to specific individuals.</p></li></ul></li></ul>
-
-  
-
-  
-
-  <hr />
-  
-    
-
-    
-
-  
-
-  
-  <p><strong>3.) Source of Funds</strong></p><p>Understanding where the buyer’s funding comes from is critical:</p><ul><li><p>Does the buyer have committed capital?</p></li><li><p>How much debt will be placed on the company as part of the deal?</p></li><li><p>Is there a financing contingency? If the buyer hasn’t secured funding, this can be a red flag.</p></li></ul>
-
-  
-
-  
-
-  <hr />
-  
-    
-
-    
-
-  
-
-  
-  <p><strong>4.) Management’s Role</strong></p><p>Buyers often clarify their intentions for the current management team:</p><ul><li><p>Will the founders remain post-transaction?</p></li><li><p>Will new leadership be introduced?</p></li><li><p>What incentives (e.g., equity, earn-outs) will be offered to retain key executives?</p></li></ul>
-
-  
-
-  
-
-  <hr />
-  
-    
-
-    
-
-  
-
-  
-  <p><strong>5.) Due Diligence Plan</strong></p><p>The term sheet usually outlines the due diligence process, including:</p><ul><li><p><strong>Legal:</strong> Contracts, IP, and liabilities.</p></li><li><p><strong>Commercial:</strong> Market analysis and customer relationships.</p></li><li><p><strong>Financial:</strong> Historical performance and forecasts.</p></li><li><p><strong>Tax:</strong> Identifying potential liabilities.</p></li><li><p><strong>Technology:</strong> Scalability, security, and infrastructure of the software.</p></li></ul>
-
-  
-
-  
-
-  <hr />
-  
-    
-
-    
-
-  
-
-  
-  <p><strong>6.) Exclusivity Period</strong></p><p>Exclusivity gives the buyer a defined period during which the seller cannot engage with other potential acquirers. While buyers often prefer longer periods, founders should aim to:</p><ul><li><p>Minimize or eliminate exclusivity altogether.</p></li><li><p>Set a short exclusivity period with clear milestones.</p></li></ul>
-
-  
-
-  
-
-  <hr />
-  
-    
-
-    
-
-  
-
-  
-    
-  
-  <h4><strong>Conclusion</strong></h4><p>A well-structured term sheet is critical to laying the foundation for a successful transaction. Founders should carefully evaluate each provision and seek expert guidance to ensure alignment with their goals. Understanding these key terms empowers founders to negotiate favorable outcomes and avoid common pitfalls in M&amp;A and investment deals.</p>
+<div class="row"><div class="col span-12"><h4><strong>What Is a Term Sheet?</strong></h4><p>A term sheet is a non-binding agreement that outlines the key terms and conditions of a potential investment or acquisition before the final legal documents are drafted. It serves as a blueprint for negotiations and provides clarity to both parties on the fundamental aspects of the deal.</p><p>A term sheet typically takes one of two forms: an <strong>Indication of Interest (IOI)</strong> or a <strong>Letter of Intent (LOI)</strong>:</p><ul><li><p><strong>Indication of Interest (IOI):</strong> A preliminary expression of interest from a buyer or investor, usually providing a general range of valuation and key deal terms.</p></li><li><p><strong>Letter of Intent (LOI):</strong> A more detailed agreement outlining specific provisions, setting the stage for due diligence and final negotiations. If the LOI is agreed to and signed by both the buyer and seller, the expectation is that its terms will be reflected in the final deal documents.</p></li></ul><p>While most provisions in a term sheet are non-binding, certain clauses are typically binding, including:</p><ul><li><p><strong>Confidentiality:</strong> Prohibits the disclosure of deal discussions and terms.</p></li><li><p><strong>Non-Solicitation:</strong> Prevents either party from hiring employees from the other.</p></li><li><p><strong>Exclusivity:</strong> Grants the buyer/investor a period to negotiate exclusively, without competition from other offers.</p></li></ul><hr class="rule"><h4><strong>What Are Typical Terms Within a Term Sheet?</strong></h4><p><strong>1.) Valuation</strong></p><p>Valuation in a term sheet can take several forms:</p><ul><li><p><strong>Enterprise Value (EV):</strong> Represents the total value of the business, including debt and excluding cash.</p></li><li><p><strong>Pre-Money Valuation:</strong> The company’s valuation before new investment.</p></li><li><p><strong>Post-Money Valuation:</strong> The valuation after new investment is added.</p></li></ul><p><strong>Example Calculation:</strong><br />If a company receives a $10M investment at a pre-money valuation of $40M:</p><p><em>Post-money valuation = Pre-money valuation + Investment</em></p><p>$50M = $40M + $10M</p><p>The investor now owns $10M / $50M = <strong>20%</strong> of the company.</p><p>Beyond the headline valuation, founders should scrutinize definitions around <strong>indebtedness</strong> and <strong>net working capital</strong>. For example, if deferred revenue is included in indebtedness, it could significantly reduce the seller’s final proceeds.</p><hr class="rule"><p><strong>2.) Transaction Structure</strong></p><p>The structure of the deal affects financial outcomes and risk. Key components include:</p><ul><li><p><strong>Investment Share Class (for minority investments):</strong> Includes terms such as:</p><ul><li><p><strong>Conversion Features:</strong> Participating (principal <em>plus</em> converted equity) vs. Non-Participating Preferred (principal <em>or</em> converted equity).</p></li><li><p><strong>Preferences:</strong> 1x or 2x liquidation preference.</p></li></ul></li><li><p><strong>Acquisition Type (for M&amp;A deals):</strong></p><ul><li><p><strong>Asset Purchase:</strong> Buyer selects which assets and liabilities to acquire.</p></li><li><p><strong>Stock Purchase:</strong> Buyer acquires all shares and assumes liabilities.</p></li></ul></li><li><p><strong>Consideration Type:</strong></p><ul><li><p><strong>Cash:</strong> Provides immediate liquidity for the seller.</p></li><li><p><strong>Stock:</strong> Seller receives equity in the buyer’s company (may include rollover equity).</p></li></ul></li><li><p><strong>Contingent Consideration:</strong></p><ul><li><p><strong>Earn-Outs:</strong> Additional payments based on future performance.</p></li><li><p><strong>Performance Bonuses:</strong> Similar to earn-outs but targeted to specific individuals.</p></li></ul></li></ul><hr class="rule"><p><strong>3.) Source of Funds</strong></p><p>Understanding where the buyer’s funding comes from is critical:</p><ul><li><p>Does the buyer have committed capital?</p></li><li><p>How much debt will be placed on the company as part of the deal?</p></li><li><p>Is there a financing contingency? If the buyer hasn’t secured funding, this can be a red flag.</p></li></ul><hr class="rule"><p><strong>4.) Management’s Role</strong></p><p>Buyers often clarify their intentions for the current management team:</p><ul><li><p>Will the founders remain post-transaction?</p></li><li><p>Will new leadership be introduced?</p></li><li><p>What incentives (e.g., equity, earn-outs) will be offered to retain key executives?</p></li></ul><hr class="rule"><p><strong>5.) Due Diligence Plan</strong></p><p>The term sheet usually outlines the due diligence process, including:</p><ul><li><p><strong>Legal:</strong> Contracts, IP, and liabilities.</p></li><li><p><strong>Commercial:</strong> Market analysis and customer relationships.</p></li><li><p><strong>Financial:</strong> Historical performance and forecasts.</p></li><li><p><strong>Tax:</strong> Identifying potential liabilities.</p></li><li><p><strong>Technology:</strong> Scalability, security, and infrastructure of the software.</p></li></ul><hr class="rule"><p><strong>6.) Exclusivity Period</strong></p><p>Exclusivity gives the buyer a defined period during which the seller cannot engage with other potential acquirers. While buyers often prefer longer periods, founders should aim to:</p><ul><li><p>Minimize or eliminate exclusivity altogether.</p></li><li><p>Set a short exclusivity period with clear milestones.</p></li></ul><hr class="rule"><h4><strong>Conclusion</strong></h4><p>A well-structured term sheet is critical to laying the foundation for a successful transaction. Founders should carefully evaluate each provision and seek expert guidance to ensure alignment with their goals. Understanding these key terms empowers founders to negotiate favorable outcomes and avoid common pitfalls in M&amp;A and investment deals.</p></div></div>

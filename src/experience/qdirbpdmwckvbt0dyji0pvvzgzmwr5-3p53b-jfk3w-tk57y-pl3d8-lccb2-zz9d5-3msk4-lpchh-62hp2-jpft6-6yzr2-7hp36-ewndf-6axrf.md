@@ -20,26 +20,4 @@ ogImage: >-
 sqsId: 5ff66a1b5775ac1350ea3e1c
 sqsOrder: 89
 ---
-<hr />
-  
-    
-
-    
-
-  
-
- 
-  
-  <h4>Deal Synopsis</h4><p>Simpleview was acquired by Ridgemont Equity Partners through an LBO on April 9, 2013 for an undisclosed sum.</p>
-
-  
-
- 
-  
-  <h4>Seller Details</h4><p>Simpleview is a developer and provider of digital marketing software and related services. The company's software simplifies marketing and sales operations and integrates content management, customer relationship management, and interactive marketing services into a modular software suite for destination management, travel and leisure, association management, real estate, government and private corporations, and destination marketing organizations, enabling clients to centralize data, streamline processes, and improve internal efficiencies.</p>
-
-  
-
- 
-  
-  <h4>Buyer Details</h4><p>Ridgemont Equity Partners is a middle-market private equity firm based in Charlotte, North Carolina. The firm seeks to invest in the business and industrial services, energy, healthcare and tech, and telecom sectors based in North America.</p>
+<div class="row"><div class="col span-12"><hr class="rule"><div class="spacer vsize-1"></div><h4>Deal Synopsis</h4><p>Simpleview was acquired by Ridgemont Equity Partners through an LBO on April 9, 2013 for an undisclosed sum.</p><div class="spacer vsize-1"></div><div class="row"><div class="col span-5"><h4>Seller Details</h4><p>Simpleview is a developer and provider of digital marketing software and related services. The company's software simplifies marketing and sales operations and integrates content management, customer relationship management, and interactive marketing services into a modular software suite for destination management, travel and leisure, association management, real estate, government and private corporations, and destination marketing organizations, enabling clients to centralize data, streamline processes, and improve internal efficiencies.</p></div><div class="col span-1"><div class="spacer vsize-1"></div></div><div class="col span-6"><h4>Buyer Details</h4><p>Ridgemont Equity Partners is a middle-market private equity firm based in Charlotte, North Carolina. The firm seeks to invest in the business and industrial services, energy, healthcare and tech, and telecom sectors based in North America.</p></div></div></div></div>

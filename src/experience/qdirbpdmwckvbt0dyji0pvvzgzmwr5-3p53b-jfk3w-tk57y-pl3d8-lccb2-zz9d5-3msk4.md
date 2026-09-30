@@ -22,26 +22,4 @@ ogImage: >-
 sqsId: 5ff53df810b8ec33bb8eeb5d
 sqsOrder: 96
 ---
-<hr />
-  
-    
-
-    
-
-  
-
- 
-  
-  <h4>Deal Synopsis</h4><p>Solutionreach received an undisclosed amount of development capital from Summit Partners on May 10, 2012.</p>
-
-  
-
- 
-  
-  <h4>Company Details</h4><p>Solutionreach, a developer of patient relationship-management software designed to improve patient engagement and education provides a cloud-based platform that includes every type of personalized communication and utilizes text, email, voice, video, web, and social media tools for automated appointment reminders and confirmations, intuitive patient recall notifications, automated birthday and holiday wishes, automated and on-demand patient satisfaction surveys, customizable newsletters, and marketing promotions activities, enabling healthcare providers to improve their online reputation and customer satisfaction.</p>
-
-  
-
- 
-  
-  <h4>Investor Details</h4><p>Summit Partners is a private equity firm based in Boston, Massachusetts. The firm seeks to invest in companies operating in the business services, technology, healthcare, life science, consumer products and services, education, energy, financial technology and services, semiconductors, electronics, industrial, and software sectors.<br /></p>
+<div class="row"><div class="col span-12"><hr class="rule"><div class="spacer vsize-1"></div><h4>Deal Synopsis</h4><p>Solutionreach received an undisclosed amount of development capital from Summit Partners on May 10, 2012.</p><div class="spacer vsize-1"></div><div class="row"><div class="col span-5"><h4>Company Details</h4><p>Solutionreach, a developer of patient relationship-management software designed to improve patient engagement and education provides a cloud-based platform that includes every type of personalized communication and utilizes text, email, voice, video, web, and social media tools for automated appointment reminders and confirmations, intuitive patient recall notifications, automated birthday and holiday wishes, automated and on-demand patient satisfaction surveys, customizable newsletters, and marketing promotions activities, enabling healthcare providers to improve their online reputation and customer satisfaction.</p></div><div class="col span-1"><div class="spacer vsize-1"></div></div><div class="col span-6"><h4>Investor Details</h4><p>Summit Partners is a private equity firm based in Boston, Massachusetts. The firm seeks to invest in companies operating in the business services, technology, healthcare, life science, consumer products and services, education, energy, financial technology and services, semiconductors, electronics, industrial, and software sectors.<br /></p></div></div></div></div>

@@ -19,26 +19,4 @@ ogImage: >-
 sqsId: 600a166a019393013fe00d91
 sqsOrder: 77
 ---
-<hr />
-  
-    
-
-    
-
-  
-
- 
-  
-  <h4>Deal Synopsis</h4><p>Infotrieve was acquired by Copyright Clearance Center for $21.13 million on November 6, 2014.</p>
-
-  
-
- 
-  
-  <h4>Seller Details</h4><p>Infotrieve provides information management services and consulting for information centers in large and middle-market corporations. The company offers enterprise software and business services for published scientific, technical, and medical content. Its flagship Mobile Library service offers a sophisticated rights-driven content access and management feature set on an advanced mobile-ready platform, augmented by document delivery and an array of additional library services.</p>
-
-  
-
- 
-  
-  <h4>Buyer Details</h4><p>Copyright Clearance Center (CCC) builds unique solutions that connect content and rights in contextually relevant ways through software and professional services. CCC helps people navigate vast amounts of data to discover actionable insights, enabling them to innovate and make informed decisions. CCC, with its subsidiaries RightsDirect and Ixxus, collaborates with customers to advance how data and information is integrated, accessed, and shared while setting the standard for effective copyright solutions that accelerate knowledge and power innovation. CCC is headquartered in Danvers, Mass. and has offices across North America, Europe and Asia.</p>
+<div class="row"><div class="col span-12"><hr class="rule"><div class="spacer vsize-1"></div><h4>Deal Synopsis</h4><p>Infotrieve was acquired by Copyright Clearance Center for $21.13 million on November 6, 2014.</p><div class="spacer vsize-1"></div><div class="row"><div class="col span-5"><h4>Seller Details</h4><p>Infotrieve provides information management services and consulting for information centers in large and middle-market corporations. The company offers enterprise software and business services for published scientific, technical, and medical content. Its flagship Mobile Library service offers a sophisticated rights-driven content access and management feature set on an advanced mobile-ready platform, augmented by document delivery and an array of additional library services.</p></div><div class="col span-1"><div class="spacer vsize-1"></div></div><div class="col span-6"><h4>Buyer Details</h4><p>Copyright Clearance Center (CCC) builds unique solutions that connect content and rights in contextually relevant ways through software and professional services. CCC helps people navigate vast amounts of data to discover actionable insights, enabling them to innovate and make informed decisions. CCC, with its subsidiaries RightsDirect and Ixxus, collaborates with customers to advance how data and information is integrated, accessed, and shared while setting the standard for effective copyright solutions that accelerate knowledge and power innovation. CCC is headquartered in Danvers, Mass. and has offices across North America, Europe and Asia.</p></div></div></div></div>

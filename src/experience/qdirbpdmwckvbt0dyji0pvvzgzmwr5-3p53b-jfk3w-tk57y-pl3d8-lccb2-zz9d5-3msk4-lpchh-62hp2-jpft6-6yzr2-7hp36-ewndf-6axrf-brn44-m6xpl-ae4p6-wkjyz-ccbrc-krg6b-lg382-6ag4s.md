@@ -22,26 +22,4 @@ ogImage: >-
 sqsId: 5ff6a7509b1bb001407945f6
 sqsOrder: 81
 ---
-<hr />
-  
-    
-
-    
-
-  
-
- 
-  
-  <h4>Deal Synopsis</h4><p>The company was acquired by Clarabridge, a venture backed company on April 08, 2014. Clarabridge is backed by several investors.</p>
-
-  
-
- 
-  
-  <h4>Seller Details</h4><p>Provider of an Enterprise Feedback Management (EFM) platform. The company is a provider of customer and employee-feedback technology for hospitality companies internationally. The company's platform offers global benchmarking, enabling clients to spot gaps and opportunities in the context of key competitors.</p>
-
-  
-
- 
-  
-  <h4>Buyer Details</h4><p>Provider of customer experience management software. The company provides software which specializes in analyzing contact center messages, comments, reviews, and other customer feedback in the context of transactions. It also offers Clarabridge Enterprise software for the deployment of text mining for customer feedback applications.</p>
+<div class="row"><div class="col span-12"><hr class="rule"><div class="spacer vsize-1"></div><h4>Deal Synopsis</h4><p>The company was acquired by Clarabridge, a venture backed company on April 08, 2014. Clarabridge is backed by several investors.</p><div class="spacer vsize-1"></div><div class="row"><div class="col span-5"><h4>Seller Details</h4><p>Provider of an Enterprise Feedback Management (EFM) platform. The company is a provider of customer and employee-feedback technology for hospitality companies internationally. The company's platform offers global benchmarking, enabling clients to spot gaps and opportunities in the context of key competitors.</p></div><div class="col span-1"><div class="spacer vsize-1"></div></div><div class="col span-6"><h4>Buyer Details</h4><p>Provider of customer experience management software. The company provides software which specializes in analyzing contact center messages, comments, reviews, and other customer feedback in the context of transactions. It also offers Clarabridge Enterprise software for the deployment of text mining for customer feedback applications.</p></div></div></div></div>

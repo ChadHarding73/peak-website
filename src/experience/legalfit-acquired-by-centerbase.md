@@ -1,8 +1,7 @@
 ---
 title: Legalfit acquired by Centerbase via its financial sponsor Mainsail Partners
 date: '2022-04-19'
-image: >-
-  /images/experience/legalfit-acquired-by-centerbase.png
+image: /images/experience/legalfit-acquired-by-centerbase.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -14,31 +13,8 @@ seoTitle: >-
   Legalfit acquired by Centerbase via its financial sponsor Mainsail Partners —
   Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/legalfit-acquired-by-centerbase-2.png
+ogImage: /images/experience/legalfit-acquired-by-centerbase-2.png
 sqsId: 625f031d397f145375e43bdb
 sqsOrder: 29
 ---
-<hr />
-  
-    
-
-    
-
-  
-
- 
-  
-  <h4>Deal Synopsis</h4><p>The company was acquired by Centerbase, via its financial sponsor Mainsail Partners, through an LBO on April 7, 2022 for an undisclosed amount.  The acquisition will enable Centerbase to offer end-to-end client and matter lifecycle management, bolstering the company's mission to power the growth of law firms.  See the <a href="https://www.prweb.com/releases/2022/4/prweb18607173.htm">first</a> and <a href="https://centerbase.com/blog/centerbase-acquires-legal-website-content-management-system-and-marketing-platform-legalfit/">second</a> press release.  </p>
-
-  
-
- 
-  
-  <h4>Seller Details</h4><p>Legalfit is a provider of web marketing services and content management system (CMS) intended to serve law firms. The company develops a website and offers media marketing through its search engine optimization, enabling law firms to drive engagement, increase traffic, boost visibility, and improve conversions.</p>
-
-  
-
- 
-  
-  <h4>Buyer Details</h4><p>Centerbase is a developer of legal practice management software designed for law firms. The company's cloud-based platform includes native accounting, billing, timekeeping, matter management, document management, client communication tools and reporting ordering them by date or priority, enabling mid-sized law firms to streamline daily tasks and manage firm operations efficiently.</p>
+<div class="row"><div class="col span-12"><hr class="rule"><div class="spacer vsize-1"></div><h4>Deal Synopsis</h4><p>The company was acquired by Centerbase, via its financial sponsor Mainsail Partners, through an LBO on April 7, 2022 for an undisclosed amount.  The acquisition will enable Centerbase to offer end-to-end client and matter lifecycle management, bolstering the company's mission to power the growth of law firms.  See the <a href="https://www.prweb.com/releases/2022/4/prweb18607173.htm">first</a> and <a href="https://centerbase.com/blog/centerbase-acquires-legal-website-content-management-system-and-marketing-platform-legalfit/">second</a> press release.  </p><div class="spacer vsize-1"></div><div class="row"><div class="col span-5"><h4>Seller Details</h4><p>Legalfit is a provider of web marketing services and content management system (CMS) intended to serve law firms. The company develops a website and offers media marketing through its search engine optimization, enabling law firms to drive engagement, increase traffic, boost visibility, and improve conversions.</p></div><div class="col span-2"><div class="spacer vsize-1"></div></div><div class="col span-5"><h4>Buyer Details</h4><p>Centerbase is a developer of legal practice management software designed for law firms. The company's cloud-based platform includes native accounting, billing, timekeeping, matter management, document management, client communication tools and reporting ordering them by date or priority, enabling mid-sized law firms to streamline daily tasks and manage firm operations efficiently.</p></div></div></div></div>

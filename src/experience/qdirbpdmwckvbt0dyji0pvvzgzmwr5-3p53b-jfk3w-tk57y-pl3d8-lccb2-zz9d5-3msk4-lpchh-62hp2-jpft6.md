@@ -17,26 +17,4 @@ ogImage: >-
 sqsId: 5ff54ce7c0e43812a5f5a3fb
 sqsOrder: 93
 ---
-<hr />
-  
-    
-
-    
-
-  
-
- 
-  
-  <h4>Deal Synopsis</h4><p>MediServe was acquired by Mediware, via its financial sponsor Thoma Bravo for an undisclosed amount.</p>
-
-  
-
- 
-  
-  <h4>Seller Details</h4><p>MediServe is a provider of electronic documentation solutions for inpatient and acute care rehabilitation, outpatient rehabilitation, and respiratory care facilities.</p>
-
-  
-
- 
-  
-  <h4>Buyer Details</h4><p>Mediware is a provider and supplier of software for healthcare and human service providers. The company is a supplier of performance management and information software systems for acute, non-acute, community-based care, healthcare providers, accountable care organizations and governments across the globe, helping them improve cost controls, productivity, and quality while meeting the challenges of their rapidly changing industries.<br /><br />Thoma Bravo is a private equity firm based in Chicago, Illinois. The firm seeks to invest in companies operating in the software and technology sectors.</p>
+<div class="row"><div class="col span-12"><hr class="rule"><div class="spacer vsize-1"></div><h4>Deal Synopsis</h4><p>MediServe was acquired by Mediware, via its financial sponsor Thoma Bravo for an undisclosed amount.</p><div class="spacer vsize-1"></div><div class="row"><div class="col span-5"><h4>Seller Details</h4><p>MediServe is a provider of electronic documentation solutions for inpatient and acute care rehabilitation, outpatient rehabilitation, and respiratory care facilities.</p></div><div class="col span-1"><div class="spacer vsize-1"></div></div><div class="col span-6"><h4>Buyer Details</h4><p>Mediware is a provider and supplier of software for healthcare and human service providers. The company is a supplier of performance management and information software systems for acute, non-acute, community-based care, healthcare providers, accountable care organizations and governments across the globe, helping them improve cost controls, productivity, and quality while meeting the challenges of their rapidly changing industries.<br /><br />Thoma Bravo is a private equity firm based in Chicago, Illinois. The firm seeks to invest in companies operating in the software and technology sectors.</p></div></div></div></div>

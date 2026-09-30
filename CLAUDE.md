@@ -22,6 +22,11 @@ Static Eleventy site, deployed by Netlify (project `thriving-moxie-406412`, PEAK
 4. Only on Chad's OK: `git switch main && git merge --ff-only edit/<topic> && git push`.
 5. Verify the live page, then delete the branch.
 
+## Netlify credits (Free plan: 300 per month, hard limit)
+- Every push to `main` is a production deploy and costs **15 credits**. Branch previews are free. At 0 credits Netlify **takes the site offline** ("Site not available") until the monthly reset on the 29th.
+- So batch edits: preview as many times as needed on a branch, then merge once. Commits that don't change the site (docs, tests) must include `[skip ci]` in the message so Netlify doesn't build.
+- Check the balance at app.netlify.com → PEAK team → Usage & billing before a busy editing day.
+
 ## Adding a tombstone
 Chad supplies the PNG. Add `src/images/experience/<slug>.png` and `src/experience/<slug>.md` with front matter `title`, `date` (YYYY-MM-DD), `image`, `categories` (from `src/_data/filters.json`), `sqsOrder`, `seoTitle`, and the press-release body as HTML (`<div class="b b--html"><p>…</p></div>`). The home page's Recent Transactions updates on its own.
 

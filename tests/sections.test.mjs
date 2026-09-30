@@ -36,8 +36,8 @@ test('convertPage emits one band per Squarespace section, with theme, layout cla
   assert.match(bands[0], /band--light/);
   assert.match(bands[0], /w-medium ha-left va-bottom/);
   assert.match(bands[0], /--bg: url\('https:\/\/images\.squarespace-cdn\.com\//);
-  assert.match(bands[0], /padding-top: calc\(10vmax \/ 5\)/);
-  assert.match(html, /<div class="row"><div class="col span-6">/);
+  assert.match(bands[0], /--pt: calc\(10vmax \/ 5\)/);
+  assert.match(html, /<div class="row"><div class="col" style="--span: 6; --of: 12">/);
 });
 
 test('convertPage strips Squarespace wrappers and ids from the output', () => {
@@ -71,7 +71,7 @@ test('summaryArgs uses "latest N" when items are the newest N, else the exact sl
 
 test('a fluid-engine section becomes a grid whose cells keep their mobile and desktop placement', () => {
   const { html } = convertPage(fx('home-main.html'), ORDER);
-  const grid = html.match(/<div class="fe-grid">([\s\S]*?)<\/section>/)[1];
+  const grid = html.match(/<div class="fe-grid"[^>]*>([\s\S]*?)<\/section>/)[1];
   const cells = grid.match(/<div class="fe-cell" style="[^"]*">/g);
   assert.equal(cells.length, 3);
   assert.match(cells[0], /--m: 1\/2\/3\/10; --d: 4\/5\/8\/17/);
@@ -89,7 +89,7 @@ test('convertLayout keeps an item body\'s columns and all of its text', () => {
     assert.deepEqual(warnings.filter(w => w.startsWith('unknown')), [], f);
   }
   const bio = convertLayout(JSON.parse(readFileSync('tests/fixtures/team-item.json', 'utf8')).body).html;
-  assert.match(bio, /<div class="col span-\d+"><figure class="image"><img src="https:\/\/images\.squarespace-cdn\.com/);
+  assert.match(bio, /<div class="col" style="--span: \d+; --of: 12"><div class="b b--image"><figure class="image"><img src="https:\/\/images\.squarespace-cdn\.com/);
 });
 
 test('convertPage keeps ids for blocks that the custom CSS targets', () => {
@@ -116,4 +116,35 @@ test('the footer keeps the Finalis disclosure preformatted, exactly as authored'
   const { html } = convertPage(fx('footer.html'), ORDER);
   assert.match(html, /<pre><code>Securities are offered through <a href="https:\/\/www\.finalis\.com\/" target="_blank">Finalis Securities LLC<\/a>/);
   assert.match(html, /Finalis Business Continuity Plan[\s\S]*FINRA BrokerCheck[\s\S]*Form CRS/);
+});
+
+test('nested columns are sized relative to their parent column, as Squarespace does', () => {
+  const { html } = convertPage(fx('home-main.html'), ORDER);
+  assert.match(html, /<div class="col" style="--span: 12; --of: 12"><div class="row"><div class="col" style="--span: 6; --of: 12">/);
+  const { html: err } = convertPage(fx('error-page-main.html'), ORDER);
+  assert.match(err, /<div class="col" style="--span: 6; --of: 12"><div class="row"><div class="col" style="--span: 4; --of: 6">/);
+});
+
+test('every block keeps its own padded wrapper, as Squarespace blocks do (no collapsing gaps)', () => {
+  const { html } = convertPage(fx('home-main.html'), ORDER, { keepIds: new Set(['yui_3_17_2_1_1607119205190_12427']) });
+  assert.match(html, /<div class="b b--html"><h1>/);
+  assert.match(html, /<div class="b b--spacer"><div class="spacer vsize-1"><\/div><\/div>/);
+  assert.match(html, /<div class="b b--summary-v2" id="b-yui_3_17_2_1_1607119205190_12427">\{% summary /);
+});
+
+test('a custom section height N (padding calc(Nvmax / 10)) also sets min-height: Nvh', () => {
+  const bands = convertPage(fx('home-main.html'), ORDER).html.match(/<section class="band [^"]*"[^>]*>/g);
+  assert.match(bands[1], /--pt: calc\(65vmax \/ 10\); --pb: calc\(65vmax \/ 10\); min-height: 65vh;/);
+  assert.doesNotMatch(bands[0], /min-height/);
+});
+
+test('a fluid-engine grid carries its mobile and desktop row counts', () => {
+  const { html } = convertPage(fx('home-main.html'), ORDER);
+  assert.match(html, /<div class="fe-grid" style="--rows-m: 15; --rows-d: 16">/);
+});
+
+test('text alignment survives sanitizing (only text-align; other inline styles still dropped)', () => {
+  const { html } = convertPage(fx('experience-list-main.html'), ORDER);
+  assert.match(html, /<h2 style="text-align:center"><strong>Transactions<\/strong><\/h2>|<h2 style="text-align:center">[^<]*Transactions/);
+  assert.doesNotMatch(html.replace(/<section[^>]*>/g, ''), /white-space/);
 });

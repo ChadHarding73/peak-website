@@ -14,7 +14,7 @@ test('latest N renders the first N items in collection order with lowercase cano
   assert.match(html, /M&amp;A &lt;deal&gt;/);
   assert.match(html, /href="\/experience\/a"/);
   assert.match(html, /<time class="card__meta" datetime="2026-08-24">August 24, 2026<\/time>/);
-  assert.match(html, /class="summary summary--autogrid" style="--per-row: 3; --gutter: 60px"/);
+  assert.match(html, /class="summary summary--autogrid summary--experience" style="--per-row: 3; --gutter: 60px"/);
 });
 
 test('explicit slugs render in the given order and skip unknown slugs', () => {

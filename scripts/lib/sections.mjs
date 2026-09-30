@@ -15,7 +15,8 @@ const esc = s => String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replac
 
 const RICH = {
   allowedTags: ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'ul', 'ol', 'li', 'a', 'strong', 'em', 'b', 'i', 'u', 'br', 'blockquote', 'sup', 'sub', 'span', 'pre', 'code'],
-  allowedAttributes: { a: ['href', 'target', 'rel'], '*': ['class'] },
+  allowedAttributes: { a: ['href', 'target', 'rel'], '*': ['class', 'style'] },
+  allowedStyles: { '*': { 'text-align': [/^(left|right|center|justify)$/] } },
   allowedClasses: { '*': ['sqsrte-*'] },
   nonTextTags: ['script', 'style', 'textarea', 'option', 'noscript'],
 };
@@ -109,19 +110,26 @@ function convertBlock(el, ctx) {
   }
 }
 
-// Blocks the Custom CSS targets by id keep a stable hook: #block-X becomes #b-X.
+// Each block gets its own wrapper so its padding matches Squarespace's (block padding never collapses).
+// Blocks the Custom CSS targets by id keep a stable hook on the wrapper: #block-X becomes #b-X.
 function keepId(el, html, ctx) {
+  if (!html) return '';
   const id = (el.attribs.id || '').replace(/^block-/, '');
-  return id && ctx.keepIds.has(id) ? `<div id="b-${id}">${html}</div>` : html;
+  const idAttr = id && ctx.keepIds.has(id) ? ` id="b-${id}"` : '';
+  return `<div class="b b--${blockType(el) || 'other'}"${idAttr}>${html}</div>`;
 }
 
-function convertNode(el, ctx) {
+// A Squarespace col's span counts within its parent col's span (12 at the top level).
+function convertNode(el, ctx, of = 12) {
   if (el.type !== 'tag') return '';
   if (hasClass(el, 'sqs-block')) return keepId(el, convertBlock(el, ctx), ctx);
-  if (hasClass(el, 'row')) return `<div class="row">${el.children.map(c => convertNode(c, ctx)).join('')}</div>`;
+  if (hasClass(el, 'row')) return `<div class="row">${el.children.map(c => convertNode(c, ctx, of)).join('')}</div>`;
   const span = classes(el).find(c => /^span-\d+$/.test(c));
-  if (hasClass(el, 'col') && span) return `<div class="col ${span}">${el.children.map(c => convertNode(c, ctx)).join('')}</div>`;
-  return el.children.map(c => convertNode(c, ctx)).join('');
+  if (hasClass(el, 'col') && span) {
+    const n = Number(span.slice(5));
+    return `<div class="col" style="--span: ${n}; --of: ${of}">${el.children.map(c => convertNode(c, ctx, n)).join('')}</div>`;
+  }
+  return el.children.map(c => convertNode(c, ctx, of)).join('');
 }
 
 // Fluid-engine placement: a base (mobile) grid-area and one inside @media (min-width: 768px).
@@ -146,7 +154,10 @@ function convertSection(section, ctx) {
   const wrapper = find(e => hasClass(e, 'content-wrapper'), section);
   const styles = [];
   if (bgImg && imgSrc(bgImg)) styles.push(`--bg: url('${imgSrc(bgImg)}')`);
-  for (const m of (wrapper?.attribs.style || '').matchAll(/(padding-(?:top|bottom)):\s*([^;]+);?/g)) styles.push(`${m[1]}: ${m[2].trim()}`);
+  const wstyle = wrapper?.attribs.style || '';
+  for (const m of wstyle.matchAll(/padding-(top|bottom):\s*([^;]+);?/g)) styles.push(`--p${m[1][0]}: ${m[2].trim()}`);
+  const custom = wstyle.match(/padding-top:\s*calc\((\d+(?:\.\d+)?)vmax\s*\/\s*10\)/);
+  if (custom) styles.push(`min-height: ${custom[1]}vh`);
   const cls = ['band', `band--${section.attribs['data-section-theme']}`, ...layout, bgImg ? 'has-bg' : ''].filter(Boolean).join(' ');
   const fluid = find(e => hasClass(e, 'fluid-engine'), section);
   let inner;
@@ -158,7 +169,8 @@ function convertSection(section, ctx) {
       const { m, d } = gridAreas(css, classes(fe).find(c => c.startsWith('fe-block-')));
       return `<div class="fe-cell" style="--m: ${m}; --d: ${d}">${keepId(block, convertBlock(block, ctx), ctx)}</div>`;
     });
-    inner = `<div class="fe-grid">${cells.join('')}</div>`;
+    const rows = [...css.matchAll(/grid-template-rows: repeat\((\d+),/g)].map(m => m[1]);
+    inner = `<div class="fe-grid" style="--rows-m: ${rows[0] || 1}; --rows-d: ${rows[1] || rows[0] || 1}">${cells.join('')}</div>`;
   } else {
     const content = find(e => hasClass(e, 'sqs-layout'), section) || section;
     inner = content.children.map(c => convertNode(c, ctx)).join('');

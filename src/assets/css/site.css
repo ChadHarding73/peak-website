@@ -1,0 +1,207 @@
+/* peak-tech.com — replica of the Squarespace 7.1 design. Values measured from the live site
+   (baseline/styles*.json); Custom CSS carried over from baseline/squarespace-custom.css. */
+
+:root {
+  --font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --accent: #f95624;
+  --accent-hover: #f95826;
+  --ink: #1e1e24;
+  --light: #f4f4f4;
+  --light-bold: #f2f2f2;
+  --black: #373636;
+  --gutter: 6vw;
+  --col-pad: 11px;
+  --fs-body: 18.16px;
+  --fs-large: 17.08px;
+  --fs-small: 14.92px;
+  --fs-h1: 34.36px;
+  --fs-h2: 37.6px;
+  --fs-h3: 28.96px;
+  --fs-h4: 22.48px;
+  --header-h: 84px;
+}
+@media (min-width: 768px) {
+  :root {
+    --gutter: 4vw;
+    --col-pad: 17px;
+    --fs-body: 19.456px;
+    --fs-large: 17.728px;
+    --fs-small: 14.272px;
+    --fs-h1: 45.376px;
+    --fs-h2: 50.56px;
+    --fs-h3: 36.736px;
+    --fs-h4: 26.368px;
+    --header-h: 122px;
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; font-family: var(--font); font-size: var(--fs-body); line-height: 1.5; color: var(--ink); background: #fff; }
+img { max-width: 100%; height: auto; display: block; }
+a { color: inherit; }
+h1, h2, h3, h4 { font-weight: 400; margin: 0 0 .6em; }
+h1 { font-size: var(--fs-h1); line-height: 1.118; }
+h2 { font-size: var(--fs-h2); line-height: 1.104; }
+h3 { font-size: var(--fs-h3); line-height: 1.142; }
+h4 { font-size: var(--fs-h4); line-height: 1.171; }
+p { margin: 1rem 0; white-space: pre-wrap; }
+:is(p, h1, h2, h3, h4):first-child { margin-top: 0; }
+:is(p, h1, h2, h3, h4):last-child { margin-bottom: 0; }
+strong { font-weight: 700; }
+.sqsrte-large { font-size: var(--fs-large); line-height: 1.5; }
+.sqsrte-small { font-size: var(--fs-small); line-height: 1.5; }
+.sqsrte-text-color--accent { color: var(--accent); }
+.sqsrte-text-color--black { color: #000; }
+.sqsrte-text-color--darkAccent { color: var(--ink); }
+.sqsrte-text-highlight { background: #ffe9a8; }
+
+/* ---------- Header (transparent, over the first band) ---------- */
+.site-header { position: absolute; z-index: 10; top: 0; left: 0; right: 0; height: var(--header-h); display: flex; align-items: center; justify-content: space-between; padding: 0 var(--gutter); color: var(--ink); }
+.site-logo { display: block; }
+.site-logo__full { width: 223px; height: auto; }
+.site-logo__mark { width: 44px; height: auto; filter: invert(1); }
+.site-header--white .site-logo__mark { filter: none; }
+.site-nav { display: flex; gap: 0 1.2em; font-size: var(--fs-body); }
+.site-nav a { text-decoration: none; color: inherit; }
+.site-nav a:hover, .site-nav a[aria-current] { color: var(--accent-hover); }
+.site-header--bright, .site-header--black { color: #fff; }
+.site-header--bright .site-nav a[aria-current] { color: var(--ink); }
+.nav-toggle, .nav-burger { display: none; }
+@media (max-width: 767px) {
+  .site-logo__full { width: 90px; }
+  .site-logo__mark { width: 32px; }
+  .nav-burger { display: flex; flex-direction: column; gap: 7px; cursor: pointer; padding: 10px 0; }
+  .nav-burger span { display: block; width: 28px; height: 1px; background: currentColor; }
+  .site-nav { display: none; position: fixed; inset: 0; z-index: -1; background: #fff; color: var(--ink); flex-direction: column; align-items: center; justify-content: center; gap: .6em; font-size: 28px; }
+  .nav-toggle:checked ~ .site-nav { display: flex; }
+}
+
+/* ---------- Bands (Squarespace page sections) ---------- */
+.band { position: relative; display: flex; flex-direction: column; justify-content: center; background: #fff; padding: var(--pt, 3.3vmax) var(--gutter) var(--pb, 3.3vmax); background-size: cover; background-position: center; }
+.band.has-bg { background-image: var(--bg); }
+.band--light { background-color: var(--light); }
+.band--light-bold { background-color: var(--light-bold); }
+.band--white { background-color: #fff; }
+.band--black { background-color: var(--black); color: #fff; }
+.band--bright { background-color: var(--accent); color: #fff; }
+/* Squarespace adds the header's height to the first section's top padding. */
+main > .band:first-child { padding-top: calc(var(--header-h) + var(--pt, 3.3vmax)); }
+.band.h-custom { padding-top: var(--pt, 0); padding-bottom: var(--pb, 0); }
+main > .band.h-custom:first-child { padding-top: calc(var(--header-h) + var(--pt, 0px)); }
+.band.h-small { min-height: 33vh; }
+.band.h-medium { min-height: 66vh; }
+.band.h-large { min-height: 100vh; }
+.band.va-top { justify-content: flex-start; }
+.band.va-bottom { justify-content: flex-end; }
+.band__content { width: 100%; max-width: 1500px; margin: 0 auto; }
+.band:not(.w-wide):not(.w-medium) .band__content { width: 85%; }
+.band.w-medium .band__content { width: 75%; }
+@media (max-width: 767px) { .band .band__content { width: 100% !important; } }
+
+/* 12-column rows (sqs-row / sqs-col-N) */
+.row { display: flex; flex-wrap: wrap; margin: 0 calc(-1 * var(--col-pad)); }
+.col { padding: 0 var(--col-pad); width: 100%; }
+@media (min-width: 768px) { .col { width: calc(var(--span, 12) / var(--of, 12) * 100%); } }
+/* Squarespace blocks: 17px padding each (11px mobile), never collapsing. */
+.b { padding: 17px 0; }
+.fe-cell > .b { padding: 0; }
+.spacer { min-height: 34px; }
+
+/* Fluid-engine sections: 8 columns on mobile, 24 on desktop, plus outer gutter columns. */
+.fe-grid { display: grid; grid-template-columns: minmax(0, 1fr) repeat(8, minmax(0, 1fr)) minmax(0, 1fr); grid-template-rows: repeat(var(--rows-m), minmax(24px, auto)); gap: 11px; margin: 0 calc(-1 * var(--gutter)); }
+.fe-cell { grid-area: var(--m); }
+@media (min-width: 768px) {
+  .fe-grid { grid-template-columns: minmax(0, 1fr) repeat(24, minmax(0, 1fr)) minmax(0, 1fr); grid-template-rows: repeat(var(--rows-d), minmax(calc(min(1500px, 100vw - 8vw) * 0.0215), auto)); }
+  .fe-cell { grid-area: var(--d); }
+}
+
+/* Blocks */
+hr.rule { border: 0; height: 8px; background: var(--accent); margin: 9.7px 0; }
+.btn-wrap--center { text-align: center; } .btn-wrap--right { text-align: right; }
+.btn { display: inline-block; font-size: 16px; line-height: 1.6; padding: 16px 20.8px; background: var(--accent); color: #fff; text-decoration: none; }
+.btn:hover { opacity: .85; }
+figure { margin: 0; }
+figure.image img { width: 100%; }
+blockquote { margin: 1rem 0; padding-left: 2rem; font-size: var(--fs-large); }
+blockquote.quote { padding: 0; font-size: var(--fs-h4); line-height: 1.4; }
+blockquote.quote cite { display: block; margin-top: .5em; font-size: var(--fs-small); font-style: normal; }
+.gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 20px; }
+.gallery--slider { grid-template-columns: 1fr; }
+.gallery figcaption { text-align: center; font-size: var(--fs-small); margin-top: .4em; }
+.code > :first-child { margin-top: 0; }
+.code h3, .code h4 { margin-top: 0; }
+pre { margin: 0; white-space: pre-wrap; font: inherit; }
+pre code { font-family: var(--font); font-size: 16px; line-height: 24px; }
+#b-yui_3_17_2_1_1607366489882_10497 { line-height: .9em; }
+
+/* Social icons */
+.social { display: flex; gap: 10px; white-space: normal; }
+.social__link svg { width: 25px; height: 25px; fill: none; stroke: currentColor; stroke-width: 1.4; }
+
+/* ---------- Summary blocks (home carousels, People grid) ---------- */
+.summary { position: relative; }
+.summary__items { display: grid; gap: 40px var(--gutter-px, 60px); grid-template-columns: repeat(auto-fill, minmax(min(100%, 220px), 1fr)); }
+.summary[style*="--gutter"] .summary__items { column-gap: var(--gutter); }
+.summary--carousel .summary__items { grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: calc((100% - 2 * var(--gutter)) / 3); overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; }
+.summary--carousel .summary__items::-webkit-scrollbar { display: none; }
+.summary--carousel .card { scroll-snap-align: start; }
+@media (max-width: 767px) { .summary--carousel .summary__items { grid-auto-columns: calc((100% - 20px) / 2); column-gap: 20px; } }
+.summary__nav { position: absolute; right: 0; top: -48px; display: flex; gap: 12px; }
+.summary__nav button { background: none; border: 0; font-size: 28px; line-height: 1; cursor: pointer; color: inherit; padding: 0 4px; }
+.card__image { display: block; margin-bottom: 15px; overflow: hidden; }
+.card__image img { width: 100%; aspect-ratio: 1; object-fit: cover; }
+.summary--team .card__image img { aspect-ratio: 3 / 2; }
+.summary--perspectives .card__image img, .grid__item img, .sbs__image img { filter: grayscale(100%); transition: filter .5s ease-in-out; }
+.summary--perspectives .card__image:hover img, .grid__item:hover img, .sbs__image:hover img { filter: grayscale(0%); }
+.card__title { font-size: 20px; line-height: 1.2; font-weight: 400; margin: 0 0 10px; }
+.card__title a { text-decoration: none; }
+/* Custom CSS carried over: per-block summary title styles. */
+#b-yui_3_17_2_1_1607119205190_12427 .card__title { font-weight: 600; margin-bottom: .8em; font-size: 1.9vw; }
+@media (max-width: 767px) { #b-yui_3_17_2_1_1607119205190_12427 .card__title { font-size: 20px; } }
+#b-yui_3_17_2_1_1606937281091_6157 .card__title { font-weight: 600; margin-bottom: .2em; }
+.card__meta { display: block; font-size: 13px; line-height: 1.4; color: var(--accent); margin: 0; }
+.card__excerpt { font-size: 14px; line-height: 1.5; margin-bottom: 10px; }
+.card__excerpt p { margin: 0 0 .8em; }
+.card__more { font-size: 14px; text-decoration: none; }
+
+/* ---------- Collection lists ---------- */
+.collection { padding: 4vmax var(--gutter); }
+.collection--grid.has-filters { display: grid; grid-template-columns: 1fr; gap: 30px; }
+@media (min-width: 768px) { .collection--grid.has-filters { grid-template-columns: 20% 1fr; } }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); gap: 60px 11px; max-width: 1000px; }
+.collection--grid:not(.has-filters) .grid { margin: 0 auto; }
+.grid__item { display: block; }
+.grid__item img { width: 100%; aspect-ratio: 1; object-fit: cover; }
+.grid__item.is-hidden { display: none; }
+.filters { align-self: start; font-size: 13px; }
+@media (min-width: 768px) { .filters { position: sticky; top: 10%; max-height: 98vh; overflow-y: auto; } }
+.filter { background: #22222a; color: #fff; margin-bottom: 12px; }
+.filter summary { padding: 8px 12px; cursor: pointer; font-weight: 500; font-size: 11px; list-style-position: inside; }
+.filter ul { list-style: none; margin: 0; padding: 4px 12px 12px; }
+.filter button { background: none; border: 0; color: inherit; font: inherit; padding: 3px 0; cursor: pointer; text-align: left; }
+.filter button[aria-pressed="true"] { color: var(--accent); }
+.collection--side-by-side { background: var(--ink); color: #fff; padding: 4vmax var(--gutter); }
+.sbs { display: grid; gap: 30px; margin-bottom: 191px; }
+@media (min-width: 768px) { .sbs { grid-template-columns: 30% 45.5%; column-gap: 5%; } }
+.sbs__image img { width: 100%; aspect-ratio: 1; object-fit: cover; }
+.sbs__title { font-size: var(--fs-h2); line-height: 1.2; margin: 0 0 12px; }
+.sbs__title a { text-decoration: none; }
+.sbs__excerpt p { margin: 0 0 1em; }
+
+/* ---------- Item pages (tombstones, posts, bios) ---------- */
+.item { padding: calc(var(--header-h) + 3vmax) var(--gutter) 3vmax; }
+.item__inner { max-width: 808px; margin: 0 auto; }
+.item__title { font-size: var(--fs-h1); line-height: 1.2; margin-bottom: 1em; }
+.item-pagination { display: flex; justify-content: space-between; gap: 20px; max-width: 1325px; margin: 6vmax auto 0; }
+.item-pagination a { text-decoration: none; display: flex; flex-direction: column; max-width: 45%; }
+.item-pagination__next { margin-left: auto; text-align: right; }
+.item-pagination__label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.item-pagination__title { font-size: 18px; line-height: 1.2; font-weight: 450; }
+@media (max-width: 767px) { .item-pagination__title { font-size: 12.5px; } }
+
+/* ---------- Footer ---------- */
+.site-footer img { max-width: 420px; }
+.site-footer .band .band__content { width: 100%; }
+/* Bio pages use the light theme (header theme "light"); tombstones and posts are white. */
+.item-page--bio { background: var(--light); }

@@ -18,7 +18,7 @@ Full before/after snapshots: `baseline/dns-before.txt`, `baseline/dns-after.txt`
 
 ## Netlify
 - Custom domains added: peak-tech.com and www.peak-tech.com. Both are DNS-verified.
-- Let's Encrypt certificate: issued 2026-09-30 17:35 UTC (10:35 AM PT) for peak-tech.com and www.peak-tech.com, valid to 2026-12-29 and auto-renewed. It went live about 30 minutes after the DNS change.
+- Let's Encrypt certificate: issued about 11:34 AM PT on 2026-09-30 (its notBefore reads 17:35 UTC because Let's Encrypt backdates by an hour) for peak-tech.com and www.peak-tech.com, valid to 2026-12-29 and auto-renewed. It went live about 30 minutes after the DNS change.
 - Primary domain: www.peak-tech.com (switched once the certificate existed; before that Netlify refused with "you cannot change custom domains until that process completes"). HTTPS is forced.
 
 ## Post-cutover checks (2026-09-30, about 11:35 AM PT)

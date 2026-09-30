@@ -17,7 +17,7 @@ Static Eleventy site, deployed by Netlify (project `thriving-moxie-406412`, PEAK
 
 ## Every change
 1. `git switch -c edit/<topic>`, make the edit, then `npm run build && npm test`.
-2. `git push -u origin edit/<topic>`. Netlify builds a branch preview at `https://edit-<topic>--thriving-moxie-406412.netlify.app`. Previews are private: open them in the in-app Browser pane, where Chad is signed in to Netlify (anonymous requests get a 401).
+2. `git push -u origin edit/<topic>`. Netlify builds a branch preview at `https://edit-<topic>--thriving-moxie-406412.netlify.app`. Previews are private: open them in the in-app Browser pane, where Chad is signed in to Netlify (anonymous requests get a 401). The branch address can show "Site not found" for a few minutes after the deploy reports Completed; meanwhile use the deploy's permalink (`https://<deploy-id>--thriving-moxie-406412.netlify.app`, linked from the Deploys page).
 3. Screenshot the changed page at 1440 and 390 widths, and show Chad.
 4. Only on Chad's OK: `git switch main && git merge --ff-only edit/<topic> && git push`.
 5. Verify the live page, then delete the branch.

@@ -1,8 +1,10 @@
-{% set isHome = page.url == '/' %}
-<header class="site-header site-header--{{ headerTheme or 'light' }}{% if isHome %} site-header--home{% endif %}">
-  <a class="site-logo" href="/">
-    {% if isHome %}<img class="site-logo__full" src="/images/brand/peak-logo-header.png" alt="{{ site.name }}" width="223" height="70">
-    {% else %}<img class="site-logo__mark" src="/images/brand/peak-mark.png" alt="{{ site.name }}" width="44" height="38">{% endif %}
+{# Logo per Squarespace's per-page code injection: full wordmark, or a white or black square mark. #}
+{% if logo %}{% set lg = logo %}{% elif collectionName %}{% set lg = logos['item:' + collectionName] %}{% elif listCollection %}{% set lg = logos['list:' + listCollection] %}{% else %}{% set lg = 'full' %}{% endif %}
+<header class="site-header site-header--{{ headerTheme or 'light' }}">
+  <a class="site-logo site-logo--{{ lg }}" href="/">
+    {% if lg == 'mark-white' %}<img src="/images/brand/210128_PEAK-square-01.png" alt="{{ site.name }}" width="70" height="70">
+    {% elif lg == 'mark-black' %}<img src="/images/brand/210128-PEAK-square-black-01.png" alt="{{ site.name }}" width="70" height="70">
+    {% else %}<img src="/images/brand/peak-logo-header.png" alt="{{ site.name }}" width="223" height="70">{% endif %}
   </a>
   <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Menu">
   <label for="nav-toggle" class="nav-burger" aria-hidden="true"><span></span><span></span></label>

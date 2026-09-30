@@ -1,8 +1,7 @@
 ---
 title: 'Choose a Banker You Trust: Swoogo Acquired by Eagle Rock Capital'
 date: '2019-08-14'
-image: >-
-  /images/perspectives/swoogo.png
+image: /images/perspectives/swoogo.png
 categories:
   - Case Study
 sqsTags: []
@@ -19,8 +18,7 @@ seoDescription: >-
   itself has inherent volatility. It can be a challenge to ‘stay steady’ day-in
   and day-out, but a strong relationship built on trust helps ensure ideal
   outcomes—and a better experience—for all parties.
-ogImage: >-
-  /images/perspectives/swoogo-2.png
+ogImage: /images/perspectives/swoogo-2.png
 sqsId: 601c066c9914941f93ad91d9
 sqsOrder: 50
 ---

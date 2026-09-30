@@ -1,8 +1,7 @@
 ---
 title: The Due Diligence Guide for SaaS Founders
 date: '2025-11-17'
-image: >-
-  /images/perspectives/the-due-diligence-guide-for-saas-founders.jpg
+image: /images/perspectives/the-due-diligence-guide-for-saas-founders.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -32,8 +31,7 @@ seoDescription: >-
   With disciplined preparation, founders can present a cohesive, defensible
   story, build buyer confidence from day one, and ultimately create competitive
   tension that drives higher enterprise value.
-ogImage: >-
-  /images/perspectives/the-due-diligence-guide-for-saas-founders-2.jpg
+ogImage: /images/perspectives/the-due-diligence-guide-for-saas-founders-2.jpg
 sqsId: 691bc7279e2d923f533fa114
 sqsOrder: 11
 ---

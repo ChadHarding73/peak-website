@@ -1,8 +1,7 @@
 ---
 title: Swarm64 Acquisition Expands ServiceNow’s Workflow and Data Potential
 date: '2021-08-05'
-image: >-
-  /images/experience/swarm64-acquired-by-servicenow.png
+image: /images/experience/swarm64-acquired-by-servicenow.png
 categories:
   - Infrastructure
   - Analytics
@@ -15,8 +14,7 @@ seoTitle: >-
   Swarm64 Acquisition Expands ServiceNow’s Workflow and Data Potential — Peak
   Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/swarm64-acquired-by-servicenow-2.png
+ogImage: /images/experience/swarm64-acquired-by-servicenow-2.png
 sqsId: 68dffda65fd5871b000a194c
 sqsOrder: 43
 ---

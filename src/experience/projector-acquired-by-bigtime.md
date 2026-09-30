@@ -1,8 +1,7 @@
 ---
 title: Projector PSA acquired by BigTime Software
 date: '2022-07-12'
-image: >-
-  /images/experience/projector-acquired-by-bigtime.png
+image: /images/experience/projector-acquired-by-bigtime.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -15,8 +14,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Projector PSA acquired by BigTime Software — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/projector-acquired-by-bigtime-2.png
+ogImage: /images/experience/projector-acquired-by-bigtime-2.png
 sqsId: 62d070d6075e115db81ce8df
 sqsOrder: 26
 ---

@@ -1,8 +1,7 @@
 ---
 title: Rypple acquired by Salesforce
 date: '2021-01-05'
-image: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8.jpg
+image: /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8.jpg
 categories:
   - Strategic
   - Merger & Acquisition

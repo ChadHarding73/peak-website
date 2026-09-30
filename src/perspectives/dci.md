@@ -1,8 +1,7 @@
 ---
 title: 'Thinking Outside the Box: DCI Acquired by Marlin Equity Partners'
 date: '2021-02-01'
-image: >-
-  /images/perspectives/dci.jpg
+image: /images/perspectives/dci.jpg
 categories:
   - Case Study
 sqsTags: []
@@ -17,8 +16,7 @@ seoDescription: >-
   Competitive tension ensures ideal outcomes. Even when we think we know the
   right option, we challenge ourselves to think creatively and explore
   unexpected scenarios—you never know what you’ll discover along the way.
-ogImage: >-
-  /images/perspectives/dci-2.jpg
+ogImage: /images/perspectives/dci-2.jpg
 sqsId: 601c0403bdac1a7d9b8c10e2
 sqsOrder: 47
 ---

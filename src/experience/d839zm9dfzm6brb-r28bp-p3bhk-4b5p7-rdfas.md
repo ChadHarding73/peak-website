@@ -1,8 +1,7 @@
 ---
 title: Fit Pay acquired by Nxt-ID
 date: '2021-01-25'
-image: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas.jpg
+image: /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -13,8 +12,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Fit Pay acquired by Nxt-ID — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-2.jpg
+ogImage: /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-2.jpg
 sqsId: 600f9d440709c0722494206e
 sqsOrder: 69
 ---

@@ -1,8 +1,7 @@
 ---
 title: More PE Funds Than McDonald’s—Why That is Bullish for Founder Exits and Raises
 date: '2025-10-15'
-image: >-
-  /images/perspectives/more-private-equity-than-fast-food.jpg
+image: /images/perspectives/more-private-equity-than-fast-food.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -37,8 +36,7 @@ seoDescription: >-
   founders: process quality—how you craft your story, target buyers, and manage
   sequencing—has never mattered more. In a market where not all capital is
   equal, a disciplined, competitive process converts abundance into advantage.
-ogImage: >-
-  /images/perspectives/more-private-equity-than-fast-food-2.jpg
+ogImage: /images/perspectives/more-private-equity-than-fast-food-2.jpg
 sqsId: 68efd10e9efbe135d7a96365
 sqsOrder: 15
 ---

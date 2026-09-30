@@ -1,8 +1,7 @@
 ---
 title: 'Foundations of Investment Banking: Rollover Equity'
 date: '2025-02-18'
-image: >-
-  /images/perspectives/rollover-equity.jpg
+image: /images/perspectives/rollover-equity.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -24,8 +23,7 @@ seoDescription: >-
   helps retain founders and lower upfront cash needs, though it can complicate
   deal structures. Successful outcomes depend on proper negotiation and tax
   planning.
-ogImage: >-
-  /images/perspectives/rollover-equity-2.jpg
+ogImage: /images/perspectives/rollover-equity-2.jpg
 sqsId: 67a696b1cd5d3c52c207c458
 sqsOrder: 30
 ---

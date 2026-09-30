@@ -1,8 +1,7 @@
 ---
 title: Ryan Deuitch
 date: '2020-06-24'
-image: >-
-  /images/team/ryan-deuitch.jpg
+image: /images/team/ryan-deuitch.jpg
 categories:
   - Analyst
 sqsTags: []
@@ -15,8 +14,7 @@ seoDescription: >-
   Ryan is an Analyst at Peak Technology Partners where he focuses on the
   execution of M&amp;A and capital raising transactions for technology
   companies.
-ogImage: >-
-  /images/team/ryan-deuitch-2.jpg
+ogImage: /images/team/ryan-deuitch-2.jpg
 sqsId: 69fbc3834a4fb5359bf0ed66
 sqsOrder: 16
 ---

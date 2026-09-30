@@ -1,8 +1,7 @@
 ---
 title: 'Foundations of Investment Banking: Leveraged Buyout (LBO)'
 date: '2025-02-25'
-image: >-
-  /images/perspectives/leveraged-buy-out.jpg
+image: /images/perspectives/leveraged-buy-out.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -30,8 +29,7 @@ seoDescription: >-
   equity retention and higher potential valuations, but come with risks like
   high debt burdens and reduced control. The right structure, guided by
   investment and legal advisors, is key to optimizing the deal.
-ogImage: >-
-  /images/perspectives/leveraged-buy-out-2.jpg
+ogImage: /images/perspectives/leveraged-buy-out-2.jpg
 sqsId: 67bd0b3f9f33e06b3f556a43
 sqsOrder: 29
 ---

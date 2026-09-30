@@ -5,10 +5,10 @@ seoDescription: >-
   Talk to PEAK about selling your technology company or raising capital. An
   early conversation costs nothing and shows how a buyer sees your business
   today.
-ogImage: >-
-  /images/pages/the-impact-of-doge-on-government-software-companies-2.png
+ogImage: /images/pages/the-impact-of-doge-on-government-software-companies-2.png
 sqsId: 6a644897283836610136df2b
 headerTheme: white
+logo: mark-black
 ---
 <section class="band band--white ha-center va-middle" style="--pt: calc(42vmax / 10); --pb: calc(42vmax / 10); min-height: 42vh;">
 <div class="band__content"><div class="row"><div class="col" style="--span: 12; --of: 12"><div class="b b--spacer"><div class="spacer vsize-1"></div></div><div class="b b--code"><div class="code"><h1>

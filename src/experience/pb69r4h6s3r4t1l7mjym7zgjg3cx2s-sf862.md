@@ -3,8 +3,7 @@ title: >-
   Chime Solutions receives investment from Brown Brothers Harriman Capital
   Partners
 date: '2021-01-30'
-image: >-
-  /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862.jpg
+image: /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862.jpg
 categories:
   - Capital Raise
   - Financial
@@ -17,8 +16,7 @@ seoTitle: >-
   Chime Solutions receives investment from Brown Brothers Harriman Capital
   Partners — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862-2.jpg
+ogImage: /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862-2.jpg
 sqsId: 5fda741f8708523ef2c58e20
 sqsOrder: 50
 ---

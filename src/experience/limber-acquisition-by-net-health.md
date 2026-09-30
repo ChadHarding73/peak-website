@@ -3,8 +3,7 @@ title: >-
   Peak Technology Partners Advises Limber Health on its Acquisition by Net
   Health
 date: '2025-06-04'
-image: >-
-  /images/experience/limber-acquisition-by-net-health.png
+image: /images/experience/limber-acquisition-by-net-health.png
 categories:
   - Healthcare
   - Merger & Acquisition
@@ -18,8 +17,7 @@ seoTitle: >-
   Peak Technology Partners Advises Limber Health on its Acquisition by Net
   Health — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/limber-acquisition-by-net-health-2.png
+ogImage: /images/experience/limber-acquisition-by-net-health-2.png
 sqsId: 6840a609375926732bae1e65
 sqsOrder: 5
 ---

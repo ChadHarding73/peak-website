@@ -1,8 +1,7 @@
 ---
 title: What Was “Liberation Day?”
 date: '2025-04-03'
-image: >-
-  /images/perspectives/liberation-day.jpg
+image: /images/perspectives/liberation-day.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -27,8 +26,7 @@ seoDescription: >-
   founders should proactively evaluate supply chain exposure, pricing
   strategies, and geographic dependencies as they navigate a landscape
   increasingly shaped by deglobalization and policy-driven volatility.
-ogImage: >-
-  /images/perspectives/liberation-day-2.jpg
+ogImage: /images/perspectives/liberation-day-2.jpg
 sqsId: 67eed8202c034941fdbcf491
 sqsOrder: 22
 ---

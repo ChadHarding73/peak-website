@@ -3,8 +3,7 @@ title: >-
   Peak Technology Partners Serves as Exclusive Financial Advisor to Guardhouse
   on Strategic Investment from Sundance Growth
 date: '2026-03-16'
-image: >-
-  /images/experience/guardhouse-backed-by-sundance-growth.png
+image: /images/experience/guardhouse-backed-by-sundance-growth.png
 categories:
   - SaaS
   - Productivity
@@ -19,8 +18,7 @@ seoTitle: >-
   Peak Technology Partners Serves as Exclusive Financial Advisor to Guardhouse
   on Strategic Investment from Sundance Growth — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/guardhouse-backed-by-sundance-growth-2.png
+ogImage: /images/experience/guardhouse-backed-by-sundance-growth-2.png
 sqsId: 69b8a3825dc2625ac4ddd601
 sqsOrder: 2
 ---

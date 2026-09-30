@@ -1,8 +1,7 @@
 ---
 title: The Impact on Valuation When AI Is Part of the Tech Stack
 date: '2025-09-15'
-image: >-
-  /images/perspectives/artificial-intelligence-impact-on-valuation.jpg
+image: /images/perspectives/artificial-intelligence-impact-on-valuation.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -35,8 +34,7 @@ seoDescription: >-
   through an AI lens is no longer optional. Companies that do so are positioning
   themselves for outsized returns, while those who don’t risk being priced as
   laggards.
-ogImage: >-
-  /images/perspectives/artificial-intelligence-impact-on-valuation-2.jpg
+ogImage: /images/perspectives/artificial-intelligence-impact-on-valuation-2.jpg
 sqsId: 68c34e8dd87e0b4ab16f51f1
 sqsOrder: 20
 ---

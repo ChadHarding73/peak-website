@@ -1,8 +1,7 @@
 ---
 title: House of Design acquired by THL
 date: '2021-09-13'
-image: >-
-  /images/experience/hod-acquired-by-thl.png
+image: /images/experience/hod-acquired-by-thl.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -13,8 +12,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: House of Design acquired by THL — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/hod-acquired-by-thl-2.png
+ogImage: /images/experience/hod-acquired-by-thl-2.png
 sqsId: 613ffea6b987c96f000a55f4
 sqsOrder: 37
 ---

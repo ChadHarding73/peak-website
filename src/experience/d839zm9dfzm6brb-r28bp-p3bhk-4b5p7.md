@@ -1,8 +1,7 @@
 ---
 title: HomeStars acquired by IAC
 date: '2021-01-25'
-image: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7.jpg
+image: /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -12,8 +11,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: HomeStars acquired by IAC — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-2.jpg
+ogImage: /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-2.jpg
 sqsId: 600f98a11162a24d6e365cc8
 sqsOrder: 70
 ---

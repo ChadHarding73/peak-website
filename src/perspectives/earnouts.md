@@ -1,8 +1,7 @@
 ---
 title: Earnouts. How They Work and How Founders Can Structure Them to Their Advantage
 date: '2025-12-02'
-image: >-
-  /images/perspectives/earnouts.jpg
+image: /images/perspectives/earnouts.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -24,8 +23,7 @@ seoDescription: >-
   future performance, an earnout provides a structured way to share risk and
   reward. This article offers a clear and practical explanation of what earnouts
   are, how they function, and why they matter in today’s market.
-ogImage: >-
-  /images/perspectives/earnouts-2.jpg
+ogImage: /images/perspectives/earnouts-2.jpg
 sqsId: 692f29eb9a95275e6e040431
 sqsOrder: 10
 ---

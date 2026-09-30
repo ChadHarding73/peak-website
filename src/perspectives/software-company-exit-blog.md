@@ -1,8 +1,7 @@
 ---
 title: Preparing Your Software Company for an Exit
 date: '2024-11-08'
-image: >-
-  /images/perspectives/software-company-exit-blog.png
+image: /images/perspectives/software-company-exit-blog.png
 categories:
   - Thoughts
 sqsTags: []
@@ -19,8 +18,7 @@ seoDescription: >-
   outcome, the PEAK team has developed a list of steps to prepare you and your
   company for an M&amp;A exit. With these steps and a PEAK advisor by your side,
   you will be the most prepared of all.
-ogImage: >-
-  /images/perspectives/software-company-exit-blog-2.png
+ogImage: /images/perspectives/software-company-exit-blog-2.png
 sqsId: 672a7ca056dfc27f389998c5
 sqsOrder: 38
 ---

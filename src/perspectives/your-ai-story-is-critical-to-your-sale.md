@@ -1,8 +1,7 @@
 ---
 title: Your AI Story Is Critical to Your Sale.
 date: '2026-04-09'
-image: >-
-  /images/perspectives/your-ai-story-is-critical-to-your-sale.jpg
+image: /images/perspectives/your-ai-story-is-critical-to-your-sale.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -26,8 +25,7 @@ seoDescription: >-
   1 in 5 strategic acquirers walked away from a deal last year specifically
   because of AI disruption risk. It's no longer a diligence footnote. It's a
   deal-kill criterion.
-ogImage: >-
-  /images/perspectives/your-ai-story-is-critical-to-your-sale-2.jpg
+ogImage: /images/perspectives/your-ai-story-is-critical-to-your-sale-2.jpg
 sqsId: 69d8544089ebd53488ed035f
 sqsOrder: 1
 ---

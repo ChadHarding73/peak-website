@@ -1,8 +1,7 @@
 ---
 title: Worksuite acquired by H.I.G. Capital
 date: '2023-09-18'
-image: >-
-  /images/experience/worksuite-acquired-by-hig-capital.png
+image: /images/experience/worksuite-acquired-by-hig-capital.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -15,8 +14,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Worksuite acquired by H.I.G. Capital — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/worksuite-acquired-by-hig-capital-2.png
+ogImage: /images/experience/worksuite-acquired-by-hig-capital-2.png
 sqsId: 6508cd01624eb622b0534cf9
 sqsOrder: 17
 ---

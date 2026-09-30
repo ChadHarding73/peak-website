@@ -1,8 +1,7 @@
 ---
 title: 'SaaS M&A: Full Sale vs. Majority Recapitalization'
 date: '2025-03-25'
-image: >-
-  /images/perspectives/full-sale-vs-majority-recapitalization.png
+image: /images/perspectives/full-sale-vs-majority-recapitalization.png
 categories: []
 sqsTags: []
 excerpt: >-
@@ -27,8 +26,7 @@ seoDescription: >-
   cultural fit, tax implications, and long-term goals play a crucial role in
   choosing the right strategy.   This guide breaks down the nuances of both
   options, helping SaaS founders navigate their M&amp;A journey with confidence.
-ogImage: >-
-  /images/perspectives/full-sale-vs-majority-recapitalization-2.png
+ogImage: /images/perspectives/full-sale-vs-majority-recapitalization-2.png
 sqsId: 67e1eb571717533166b9ed35
 sqsOrder: 24
 ---

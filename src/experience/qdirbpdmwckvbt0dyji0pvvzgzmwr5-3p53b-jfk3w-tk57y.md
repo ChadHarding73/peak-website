@@ -1,8 +1,7 @@
 ---
 title: Bold Software acquired by LogMeIn
 date: '2021-01-05'
-image: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y.jpg
+image: /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y.jpg
 categories:
   - Strategic
   - Merger & Acquisition
@@ -12,8 +11,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Bold Software acquired by LogMeIn — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-2.jpg
+ogImage: /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-2.jpg
 sqsId: 5ff52d5201d6f66bdbef515d
 sqsOrder: 100
 ---

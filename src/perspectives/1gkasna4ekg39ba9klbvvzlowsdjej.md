@@ -3,8 +3,7 @@ title: >-
   DeepSeek: How Will This Innovative Chinese Startup Change US-based AI
   Companies?
 date: '2025-01-27'
-image: >-
-  /images/perspectives/1gkasna4ekg39ba9klbvvzlowsdjej.jpg
+image: /images/perspectives/1gkasna4ekg39ba9klbvvzlowsdjej.jpg
 categories: []
 sqsTags: []
 excerpt: "<p>DeepSeek represents a growing force in AI, particularly with its open-weight models. While American AI companies still lead in innovation, DeepSeek’s rise could challenge their dominance by increasing competition, influencing pricing, and reshaping global AI geopolitics. These developments underscore the dynamic and competitive nature of the global AI industry, with DeepSeek's innovations prompting significant considerations for American AI companies.\_</p>"
@@ -19,8 +18,7 @@ seoDescription: >-
   the dynamic and competitive nature of the global AI industry, with DeepSeek's
   innovations prompting significant considerations for American AI
   companies.&nbsp;
-ogImage: >-
-  /images/perspectives/1gkasna4ekg39ba9klbvvzlowsdjej-2.jpg
+ogImage: /images/perspectives/1gkasna4ekg39ba9klbvvzlowsdjej-2.jpg
 sqsId: 6797d1ce88002c3f155d59f4
 sqsOrder: 34
 ---

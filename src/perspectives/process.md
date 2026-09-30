@@ -1,8 +1,7 @@
 ---
 title: 'Partnering with PEAK: The Process'
 date: '2019-03-11'
-image: >-
-  /images/perspectives/process.jpg
+image: /images/perspectives/process.jpg
 categories:
   - Thoughts
 sqsTags: []
@@ -17,8 +16,7 @@ seoDescription: >-
   business? Will you give up control? How much work will you have to do? PEAK
   Co-founder David Stevenson breaks down the process and shares some stories
   about what to expect.
-ogImage: >-
-  /images/perspectives/process-2.jpg
+ogImage: /images/perspectives/process-2.jpg
 sqsId: 5fc6966a173fb5383b8ab311
 sqsOrder: 53
 ---

@@ -1,8 +1,7 @@
 ---
 title: Cold Bore Technology Closes $14M Growth Financing Round
 date: '2021-07-14'
-image: >-
-  /images/experience/cold-bore-technology-closes-financing-round.png
+image: /images/experience/cold-bore-technology-closes-financing-round.png
 categories:
   - SaaS
   - Strategic
@@ -16,8 +15,7 @@ seoTitle: >-
   Cold Bore Technology Closes $14M Growth Financing Round — Peak Technology
   Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/cold-bore-technology-closes-financing-round-2.png
+ogImage: /images/experience/cold-bore-technology-closes-financing-round-2.png
 sqsId: 6a596c7a82744a6f8bfee41d
 sqsOrder: 44
 ---

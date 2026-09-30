@@ -1,8 +1,7 @@
 ---
 title: DOGE and the Future of GovTech
 date: '2025-02-04'
-image: >-
-  /images/perspectives/the-impact-of-doge-on-government-software-companies.png
+image: /images/perspectives/the-impact-of-doge-on-government-software-companies.png
 categories: []
 sqsTags: []
 excerpt: >-
@@ -26,8 +25,7 @@ seoDescription: >-
   complexities and ethical questions that companies must navigate. Additionally,
   small businesses may benefit from the increased opportunities for government
   contracting.
-ogImage: >-
-  /images/pages/the-impact-of-doge-on-government-software-companies-2.png
+ogImage: /images/pages/the-impact-of-doge-on-government-software-companies-2.png
 sqsId: 67a252c63d94712c85ac9603
 sqsOrder: 33
 ---

@@ -3,8 +3,7 @@ title: >-
   Flight to Quality: SaaS Valuations Are Splitting in Two. Which Side Are You
   On?
 date: '2026-03-17'
-image: >-
-  /images/perspectives/flight-to-quality.jpg
+image: /images/perspectives/flight-to-quality.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -39,8 +38,7 @@ seoTitle: >-
 seoDescription: >-
   SaaS M&A is splitting in two. One company sold at 11x. Another at 3x. Same
   market. Flight to quality is real — here's which side you're on.
-ogImage: >-
-  /images/perspectives/flight-to-quality-2.jpg
+ogImage: /images/perspectives/flight-to-quality-2.jpg
 sqsId: 69b9e0910674a5027e6329dc
 sqsOrder: 6
 ---

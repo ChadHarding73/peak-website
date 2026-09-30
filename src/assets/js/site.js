@@ -25,3 +25,14 @@ document.querySelectorAll('[data-filters]').forEach(panel => {
     apply();
   });
 });
+
+// Gallery sliders auto-advance like Squarespace's (autoplay), unless the visitor prefers reduced motion.
+if (!matchMedia('(prefers-reduced-motion: reduce)').matches) {
+  document.querySelectorAll('.gallery--slider').forEach(track => {
+    if (track.children.length < 2) return;
+    setInterval(() => {
+      const atEnd = track.scrollLeft + track.clientWidth >= track.scrollWidth - 2;
+      track.scrollTo({ left: atEnd ? 0 : track.scrollLeft + track.clientWidth, behavior: 'smooth' });
+    }, 3000);
+  });
+}

@@ -2,7 +2,7 @@
 // Needs baseline/raw/{pages,lists,<collection>} from `npm run scrape`; run `npm run images` afterwards.
 import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
 import matter from 'gray-matter';
-import { convertPage, convertLayout } from './lib/sections.mjs';
+import { convertPage, convertLayout, headerLogo } from './lib/sections.mjs';
 
 const COLLECTIONS = ['experience', 'perspectives', 'team'];
 const order = {};
@@ -25,22 +25,27 @@ for (const f of (await readdir('baseline/raw/pages')).filter(f => f.endsWith('.h
   const raw = await readFile(`baseline/raw/pages/${f}`, 'utf8');
   const { html, warnings: w } = convertPage(slice(raw, '<main', '</main>'), order, { keepIds });
   const md = matter(await readFile(`src/pages/${slug}.md`, 'utf8'));
-  await writeFile(`src/pages/${slug}.md`, matter.stringify(html, { ...md.data, headerTheme: headerTheme(raw) }));
+  await writeFile(`src/pages/${slug}.md`, matter.stringify(html, { ...md.data, headerTheme: headerTheme(raw), logo: headerLogo(raw) }));
   note(slug, w);
   footer ??= convertPage(slice(raw, '<footer', '</footer>'), order, { keepIds });
 }
 
 await mkdir('src/_includes/lists', { recursive: true });
 const listThemes = {};
+const logos = {};
 for (const c of COLLECTIONS) {
   const raw = await readFile(`baseline/raw/lists/${c}.html`, 'utf8');
   const { html, warnings: w } = convertPage(slice(raw, '<main', '</main>'), order, { keepIds });
   await writeFile(`src/_includes/lists/${c}.njk`, html);
   listThemes[c] = headerTheme(raw);
+  logos[`list:${c}`] = headerLogo(raw);
+  // One saved item page per collection (from scrape) tells us the collection-level logo override.
+  logos[`item:${c}`] = headerLogo(await readFile(`baseline/raw/lists/_item_${c}.html`, 'utf8'));
   note(`list:${c}`, w);
 }
 await mkdir('src/_data', { recursive: true });
 await writeFile('src/_data/listThemes.json', JSON.stringify(listThemes, null, 2) + '\n');
+await writeFile('src/_data/logos.json', JSON.stringify(logos, null, 2) + '\n');
 
 for (const c of COLLECTIONS) {
   for (const slug of order[c]) {

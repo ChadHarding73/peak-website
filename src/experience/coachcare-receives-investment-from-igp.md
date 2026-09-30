@@ -1,8 +1,7 @@
 ---
 title: CoachCare receives investment from Integrity Growth Partners
 date: '2024-07-22'
-image: >-
-  /images/experience/coachcare-receives-investment-from-igp.png
+image: /images/experience/coachcare-receives-investment-from-igp.png
 categories:
   - Capital Raise
   - Healthcare
@@ -16,8 +15,7 @@ seoTitle: >-
   CoachCare receives investment from Integrity Growth Partners — Peak Technology
   Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/coachcare-receives-investment-from-igp-2.png
+ogImage: /images/experience/coachcare-receives-investment-from-igp-2.png
 sqsId: 669ec03bf61d9732f1fc7604
 sqsOrder: 11
 ---

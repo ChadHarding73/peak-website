@@ -1,8 +1,7 @@
 ---
 title: 'The “SaaS Crash” Story Misses the Real Risk: Budget Reallocation'
 date: '2026-02-11'
-image: >-
-  /images/perspectives/saas-crash-analysis.webp
+image: /images/perspectives/saas-crash-analysis.webp
 categories: []
 sqsTags: []
 excerpt: >-
@@ -26,8 +25,7 @@ seoDescription: >-
   from “nice-to-have” tools and concentrated into a smaller set of top
   priorities.  In this environment, every product that isn’t essential is being
   forced to prove its value or risk getting cut.
-ogImage: >-
-  /images/perspectives/saas-crash-analysis-2.webp
+ogImage: /images/perspectives/saas-crash-analysis-2.webp
 sqsId: 698ce715d880783a68186747
 sqsOrder: 8
 ---

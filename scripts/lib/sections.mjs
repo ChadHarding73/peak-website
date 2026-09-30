@@ -145,7 +145,9 @@ function gridAreas(css, id) {
 }
 
 function convertSection(section, ctx) {
-  if (classes(section).some(c => c.startsWith('collection-type-blog-'))) return '{% include "partials/collection-list.njk" %}';
+  // Squarespace renders a section with an empty theme in the bright (orange) palette.
+  const theme = section.attribs['data-section-theme'] || 'bright';
+  if (classes(section).some(c => c.startsWith('collection-type-blog-'))) return `{% set collectionTheme = "${theme}" %}{% include "partials/collection-list.njk" %}`;
   const layout = classes(section).map(c => c
     .replace(/^section-height--/, 'h-').replace(/^content-width--/, 'w-')
     .replace(/^horizontal-alignment--/, 'ha-').replace(/^vertical-alignment--/, 'va-'))
@@ -158,7 +160,7 @@ function convertSection(section, ctx) {
   for (const m of wstyle.matchAll(/padding-(top|bottom):\s*([^;]+);?/g)) styles.push(`--p${m[1][0]}: ${m[2].trim()}`);
   const custom = wstyle.match(/padding-top:\s*calc\((\d+(?:\.\d+)?)vmax\s*\/\s*10\)/);
   if (custom) styles.push(`min-height: ${custom[1]}vh`);
-  const cls = ['band', `band--${section.attribs['data-section-theme']}`, ...layout, bgImg ? 'has-bg' : ''].filter(Boolean).join(' ');
+  const cls = ['band', `band--${theme}`, ...layout, bgImg ? 'has-bg' : ''].filter(Boolean).join(' ');
   const fluid = find(e => hasClass(e, 'fluid-engine'), section);
   let inner;
   if (fluid) {
@@ -193,4 +195,12 @@ export function convertPage(mainHtml, order = {}, { keepIds = new Set() } = {}) 
   const sections = findAll(e => e.name === 'section' && e.attribs['data-section-theme'] !== undefined, doc.children);
   const top = sections.filter(s => !sections.some(o => o !== s && DU.findOne(e => e === s, o.children, true)));
   return { html: top.map(s => convertSection(s, ctx)).join('\n\n') + '\n', warnings: ctx.warnings };
+}
+
+// Squarespace per-page code injection swaps the header logo with `div.header-title-logo a { content:url(...) }`.
+export function headerLogo(pageHtml) {
+  const urls = [...pageHtml.matchAll(/header-title-logo a\s*\{[^}]*content:\s*url\("([^"]+)"\)/g)].map(m => m[1]);
+  const last = urls.at(-1);
+  if (!last) return 'full';
+  return /square-black/.test(last) ? 'mark-black' : 'mark-white';
 }

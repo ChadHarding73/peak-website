@@ -14,7 +14,7 @@
   {% endfor %}
 </section>
 {% else %}
-<section class="collection collection--grid{% if filters[listCollection] %} has-filters{% endif %}">
+<section class="collection collection--grid collection--{{ listCollection }} band--{{ collectionTheme or 'white' }}{% if filters[listCollection] %} has-filters{% endif %}">
   {% if filters[listCollection] %}
   <aside class="filters" data-filters>
     {% for group in filters[listCollection] %}

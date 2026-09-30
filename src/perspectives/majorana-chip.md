@@ -1,8 +1,7 @@
 ---
 title: 'Microsoft’s Majorana Chip: The Quantum Leap'
 date: '2025-02-27'
-image: >-
-  /images/perspectives/majorana-chip.jpg
+image: /images/perspectives/majorana-chip.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -30,8 +29,7 @@ seoDescription: >-
   real-world applications, businesses must prepare for a future where
   quantum-powered solutions redefine how industries operate and compete.  Is
   your business ready for the quantum leap?
-ogImage: >-
-  /images/perspectives/majorana-chip-2.jpg
+ogImage: /images/perspectives/majorana-chip-2.jpg
 sqsId: 67bfae90b9323b021f32f3d5
 sqsOrder: 28
 ---

@@ -1,8 +1,7 @@
 ---
 title: Resi acquired by Pushpay
 date: '2021-09-01'
-image: >-
-  /images/experience/resi-acquired-by-pushpay.png
+image: /images/experience/resi-acquired-by-pushpay.png
 categories:
   - Merger & Acquisition
   - Strategic
@@ -15,8 +14,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Resi acquired by Pushpay — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/resi-acquired-by-pushpay-2.png
+ogImage: /images/experience/resi-acquired-by-pushpay-2.png
 sqsId: 613025d2b1f7d967e450789c
 sqsOrder: 39
 ---

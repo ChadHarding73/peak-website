@@ -1,8 +1,7 @@
 ---
 title: SelectShops receives investment from Hunter Douglas
 date: '2021-01-25'
-image: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3.jpg
+image: /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3.jpg
 categories:
   - Capital Raise
   - Strategic
@@ -11,8 +10,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: SelectShops receives investment from Hunter Douglas — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-2.jpg
+ogImage: /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-2.jpg
 sqsId: 600fabbc61f612642b208c2c
 sqsOrder: 67
 ---

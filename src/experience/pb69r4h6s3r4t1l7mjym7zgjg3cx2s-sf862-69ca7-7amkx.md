@@ -1,8 +1,7 @@
 ---
 title: Airwide Solutions acquired by Mavenir
 date: '2020-12-16'
-image: >-
-  /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862-69ca7-7amkx.jpg
+image: /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862-69ca7-7amkx.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -12,8 +11,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Airwide Solutions acquired by Mavenir — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862-69ca7-7amkx-2.jpg
+ogImage: /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862-69ca7-7amkx-2.jpg
 sqsId: 5fdaa24295b05957b5622c17
 sqsOrder: 104
 ---

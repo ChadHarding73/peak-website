@@ -1,8 +1,7 @@
 ---
 title: Alliance Corporation acquired by Lee Equity and Twin Point Capital
 date: '2021-08-31'
-image: >-
-  /images/experience/alliance-acquired-by-lee-equity-and-twin-point.png
+image: /images/experience/alliance-acquired-by-lee-equity-and-twin-point.png
 categories:
   - Merger & Acquisition
   - IT Services
@@ -13,8 +12,7 @@ seoTitle: >-
   Alliance Corporation acquired by Lee Equity and Twin Point Capital — Peak
   Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/alliance-acquired-by-lee-equity-and-twin-point-2.png
+ogImage: /images/experience/alliance-acquired-by-lee-equity-and-twin-point-2.png
 sqsId: 641208a990dd1a370fc89bcb
 sqsOrder: 40
 ---

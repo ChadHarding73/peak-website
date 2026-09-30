@@ -148,3 +148,20 @@ test('text alignment survives sanitizing (only text-align; other inline styles s
   assert.match(html, /<h2 style="text-align:center"><strong>Transactions<\/strong><\/h2>|<h2 style="text-align:center">[^<]*Transactions/);
   assert.doesNotMatch(html.replace(/<section[^>]*>/g, ''), /white-space/);
 });
+
+import { headerLogo } from '../scripts/lib/sections.mjs';
+
+test('headerLogo reads the per-page logo override; the last override wins; none means the full logo', () => {
+  const white = '<style>/* load white logo image */ div.header-title-logo a { content:url("https://x/210128_PEAK-square-01.png") !important; }</style>';
+  const black = '<style>div.header-title-logo a { content:url("https://x/210128-PEAK-square-black-01.png") !important; }</style>';
+  assert.equal(headerLogo('<html><body>no override</body></html>'), 'full');
+  assert.equal(headerLogo(white), 'mark-white');
+  assert.equal(headerLogo(black), 'mark-black');
+  assert.equal(headerLogo(white + black), 'mark-black');
+});
+
+test('an empty section theme renders as bright (orange), and a collection section passes its theme to the list', () => {
+  const { html } = convertPage(fx('team-list-main.html'), ORDER);
+  assert.match(html, /<section class="band band--bright /);
+  assert.match(html, /\{% set collectionTheme = "light" %\}\{% include "partials\/collection-list\.njk" %\}/);
+});

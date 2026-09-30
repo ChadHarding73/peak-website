@@ -1,7 +1,8 @@
 ---
 title: 'Selling the Future: apilayer Acquired by Idera'
 date: '2021-02-01'
-image: /images/perspectives/apilayer.jpg
+image: >-
+  /images/perspectives/apilayer.jpg
 categories:
   - Case Study
 sqsTags: []
@@ -16,7 +17,8 @@ seoDescription: >-
   crafting the right story for each unique buyer, we were able to secure a
   premium outcome in an expedited fashion using competitive tension and process
   expertise.
-ogImage: /images/perspectives/apilayer-2.jpg
+ogImage: >-
+  /images/perspectives/apilayer-2.jpg
 sqsId: 60186f3a519cc03c6fa03b93
 sqsOrder: 44
 ---

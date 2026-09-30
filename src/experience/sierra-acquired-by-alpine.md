@@ -1,7 +1,8 @@
 ---
 title: Sierra Interactive acquired by Alpine  Software Group
-date: '2022-10-18'
-image: /images/experience/sierra-acquired-by-alpine.png
+date: '2022-10-17'
+image: >-
+  /images/experience/sierra-acquired-by-alpine.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -16,7 +17,8 @@ seoTitle: >-
   Sierra Interactive acquired by Alpine  Software Group — Peak Technology
   Partners
 seoDescription: ''
-ogImage: /images/experience/sierra-acquired-by-alpine-2.png
+ogImage: >-
+  /images/experience/sierra-acquired-by-alpine-2.png
 sqsId: 634e19377486f50d9ba01ad1
 sqsOrder: 23
 ---

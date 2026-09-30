@@ -1,7 +1,8 @@
 ---
 title: Efficient Forms acquired by Housatonic Partners
-date: '2021-01-26'
-image: /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz.jpg
+date: '2021-01-25'
+image: >-
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz.jpg
 categories:
   - Merger & Acquisition
   - Financial
@@ -12,7 +13,8 @@ sqsTags: []
 excerpt: ''
 seoTitle: Efficient Forms acquired by Housatonic Partners — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-2.jpg
+ogImage: >-
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-2.jpg
 sqsId: 600fa7055c129e5b3cba8cf9
 sqsOrder: 68
 ---

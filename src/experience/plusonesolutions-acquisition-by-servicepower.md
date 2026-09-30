@@ -2,22 +2,24 @@
 title: >-
   Peak Technology Partners Advises PlusOne Solutions on Strategic Acquisition by
   ServicePower
-date: '2025-06-07'
-image: /images/experience/plusonesolutions-acquisition-by-servicepower.png
+date: '2025-06-06'
+image: >-
+  /images/experience/plusonesolutions-acquisition-by-servicepower.png
 categories:
   - Merger & Acquisition
   - Strategic
   - B2B Software
   - Communications
   - Analytics
-  - AI
+  - HR
 sqsTags: []
 excerpt: ''
 seoTitle: >-
   Peak Technology Partners Advises PlusOne Solutions on Strategic Acquisition by
   ServicePower — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/plusonesolutions-acquisition-by-servicepower-2.png
+ogImage: >-
+  /images/experience/plusonesolutions-acquisition-by-servicepower-2.png
 sqsId: 69153f4a22ab50191edfe365
 sqsOrder: 4
 ---

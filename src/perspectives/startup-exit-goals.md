@@ -1,7 +1,8 @@
 ---
 title: 'The Expectation Gap: How to Perceive Your Company’s Valuation'
 date: '2025-10-13'
-image: /images/perspectives/startup-exit-goals.jpg
+image: >-
+  /images/perspectives/startup-exit-goals.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -28,7 +29,8 @@ seoDescription: >-
   mindset, focusing on building a GAAP-compliant infrastructur e  and tracking
   measurable KPIs. By de-risking the business and focusing on verifiable EBITDA,
   you can ensure the final offer meets your personal minimum
-ogImage: /images/perspectives/startup-exit-goals-2.jpg
+ogImage: >-
+  /images/perspectives/startup-exit-goals-2.jpg
 sqsId: 68ed74c36dd4cc18d092cc23
 sqsOrder: 16
 ---

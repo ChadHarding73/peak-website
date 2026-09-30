@@ -1,8 +1,9 @@
+import { fetchRetry } from './lib/net.mjs';
 import { mkdir, writeFile } from 'node:fs/promises';
 import { ORIGIN, parseSitemap, extractLinks, addUnique, pathKey } from './lib/inventory.mjs';
 
 const found = new Map();
-const xml = await (await fetch(`${ORIGIN}/sitemap.xml`)).text();
+const xml = await (await fetchRetry(`${ORIGIN}/sitemap.xml`)).text();
 for (const p of parseSitemap(xml)) addUnique(found, p, 'sitemap');
 addUnique(found, '/', 'root');
 
@@ -13,7 +14,7 @@ while (queue.length) {
   const k = pathKey(p);
   if (crawled.has(k)) continue;
   crawled.add(k);
-  const res = await fetch(ORIGIN + p, { redirect: 'manual' });
+  const res = await fetchRetry(ORIGIN + p, { redirect: 'manual' });
   const entry = found.get(k);
   entry.status = res.status;
   entry.type = (res.headers.get('content-type') || '').split(';')[0];

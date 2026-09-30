@@ -1,8 +1,9 @@
+import { fetchRetry } from './lib/net.mjs';
 import { readFile, readdir } from 'node:fs/promises';
 import { ORIGIN } from './lib/inventory.mjs';
 import { COLLECTIONS, splitFullUrl } from './lib/convert.mjs';
 
-const json = async p => (await fetch(`${ORIGIN}${p}${p.includes('?') ? '&' : '?'}format=json`)).json();
+const json = async p => (await fetchRetry(`${ORIGIN}${p}${p.includes('?') ? '&' : '?'}format=json`)).json();
 const changes = [];
 for (const c of COLLECTIONS) {
   const seen = new Set();

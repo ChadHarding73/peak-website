@@ -13,8 +13,10 @@ export function splitFullUrl(fullUrl) {
   return { collection: m[1], slug: m[2] };
 }
 
-export function isoDate(ms) {
-  return new Date(ms).toISOString().slice(0, 10);
+// Squarespace shows dates in the site's time zone (website.timeZone = America/Los_Angeles).
+export const SITE_TZ = 'America/Los_Angeles';
+export function isoDate(ms, tz = SITE_TZ) {
+  return new Intl.DateTimeFormat('en-CA', { timeZone: tz, year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date(ms));
 }
 
 export function cleanBody(html) {

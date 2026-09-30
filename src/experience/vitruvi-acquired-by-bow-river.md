@@ -1,19 +1,20 @@
 ---
 title: Vitruvi acquired by Bow River Capital
 date: '2023-08-31'
-image: /images/experience/vitruvi-acquired-by-bow-river.png
+image: >-
+  /images/experience/vitruvi-acquired-by-bow-river.png
 categories:
   - Merger & Acquisition
   - SaaS
-  - FinTech
-  - Strategic
-  - B2C Software
   - Infrastructure
+  - Financial
+  - B2B Software
 sqsTags: []
 excerpt: ''
 seoTitle: Vitruvi acquired by Bow River Capital — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/vitruvi-acquired-by-bow-river-2.png
+ogImage: >-
+  /images/experience/vitruvi-acquired-by-bow-river-2.png
 sqsId: 64f0e5f4227b583b2c65b110
 sqsOrder: 18
 ---

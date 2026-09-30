@@ -1,7 +1,8 @@
 ---
 title: The Psychology Behind M&A Success
 date: '2025-09-11'
-image: /images/perspectives/the-psychology-behind-m-and-a-success.jpg
+image: >-
+  /images/perspectives/the-psychology-behind-m-and-a-success.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -19,7 +20,8 @@ seoDescription: >-
   valuation is shaped by perception, how experienced advisors help craft
   compelling narratives, and why balancing numbers with human dynamics is the
   key to achieving the best outcomes.
-ogImage: /images/perspectives/the-psychology-behind-m-and-a-success-2.jpg
+ogImage: >-
+  /images/perspectives/the-psychology-behind-m-and-a-success-2.jpg
 sqsId: 68bb2977808fdf0ef7f12e14
 sqsOrder: 21
 ---

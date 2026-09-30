@@ -1,15 +1,19 @@
 ---
 title: Partek acquired by Illumina
 date: '2024-05-03'
-image: /images/experience/partek-acquired-by-illumina-86xay-tzmkb.png
+image: >-
+  /images/experience/partek-acquired-by-illumina-86xay-tzmkb.png
 categories:
   - Merger & Acquisition
-  - AI
+  - Healthcare
+  - Analytics
+  - Strategic
 sqsTags: []
 excerpt: ''
 seoTitle: Partek acquired by Illumina — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/partek-acquired-by-illumina-86xay-tzmkb-2.png
+ogImage: >-
+  /images/experience/partek-acquired-by-illumina-86xay-tzmkb-2.png
 sqsId: 663543f36083727ccd6f5d1d
 sqsOrder: 12
 ---

@@ -1,7 +1,8 @@
 ---
 title: ZeroSSL acquired by HID Global
 date: '2024-01-24'
-image: /images/experience/zerossl-acquired-by-hid-global.png
+image: >-
+  /images/experience/zerossl-acquired-by-hid-global.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -12,7 +13,8 @@ sqsTags: []
 excerpt: ''
 seoTitle: ZeroSSL acquired by HID Global — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/zerossl-acquired-by-hid-global-2.png
+ogImage: >-
+  /images/experience/zerossl-acquired-by-hid-global-2.png
 sqsId: 65b14b2799ca3b2ff7852d9e
 sqsOrder: 14
 ---

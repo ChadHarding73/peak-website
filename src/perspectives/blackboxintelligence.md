@@ -1,7 +1,8 @@
 ---
 title: 'Long-term Thinking: Black Box Intelligence Acquired by Diversis Capital'
 date: '2021-02-01'
-image: /images/perspectives/blackboxintelligence.jpg
+image: >-
+  /images/perspectives/blackboxintelligence.jpg
 categories:
   - Case Study
 sqsTags: []
@@ -16,7 +17,8 @@ seoDescription: >-
   Sometimes the highest cash offer isn’t the best deal. Other factors like team,
   equity, and the long-term survival of a company play a part in our decision
   making as well.
-ogImage: /images/perspectives/blackboxintelligence-2.jpg
+ogImage: >-
+  /images/perspectives/blackboxintelligence-2.jpg
 sqsId: 6018437a3746da11cdde3279
 sqsOrder: 43
 ---

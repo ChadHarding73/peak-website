@@ -1,7 +1,8 @@
 ---
 title: CyberShift acquired by SumTotal
-date: '2020-12-17'
-image: /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5.jpg
+date: '2020-12-16'
+image: >-
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5.jpg
 categories:
   - Strategic
   - Merger & Acquisition
@@ -15,7 +16,8 @@ sqsTags: []
 excerpt: ''
 seoTitle: CyberShift acquired by SumTotal — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-2.jpg
+ogImage: >-
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-2.jpg
 sqsId: 5fdabfc240dfbf21cfe8e3cb
 sqsOrder: 103
 ---

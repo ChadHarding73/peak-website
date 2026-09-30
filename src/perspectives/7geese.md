@@ -1,7 +1,8 @@
 ---
 title: 'Build Competition & Be Willing to Walk Away: 7Geese Acquired by Paycor'
 date: '2019-07-10'
-image: /images/perspectives/7geese.jpg
+image: >-
+  /images/perspectives/7geese.jpg
 categories:
   - Case Study
 sqsTags: []
@@ -16,7 +17,8 @@ seoDescription: >-
   Generate interest from multiple buyers, know where the synergy and scarcity
   value is between all the buyers and sellers, and be willing to walk away if
   you don’t get compelling terms, including valuation.
-ogImage: /images/perspectives/7geese-2.jpg
+ogImage: >-
+  /images/perspectives/7geese-2.jpg
 sqsId: 601c0670a13c23157a8774b9
 sqsOrder: 52
 ---

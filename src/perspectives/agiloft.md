@@ -1,7 +1,8 @@
 ---
 title: 'Competition Drives Results: Agiloft Secures Investment from FTV Capital'
 date: '2019-08-07'
-image: /images/perspectives/agiloft.jpg
+image: >-
+  /images/perspectives/agiloft.jpg
 categories:
   - Case Study
 sqsTags: []
@@ -14,7 +15,8 @@ seoTitle: >-
 seoDescription: >-
   How leveraging interest from multiple parties allowed us to close a deal with
   the right investor, on the founder’s terms.
-ogImage: /images/perspectives/agiloft-2.jpg
+ogImage: >-
+  /images/perspectives/agiloft-2.jpg
 sqsId: 601843739ad010251d5bcf35
 sqsOrder: 51
 ---

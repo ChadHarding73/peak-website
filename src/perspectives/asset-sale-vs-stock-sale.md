@@ -1,7 +1,8 @@
 ---
 title: 'Asset Sale vs. Stock Sale: Structuring the Best Exit for Your Software Company'
 date: '2025-03-04'
-image: /images/perspectives/asset-sale-vs-stock-sale.jpg
+image: >-
+  /images/perspectives/asset-sale-vs-stock-sale.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -40,7 +41,8 @@ seoDescription: >-
   financial, legal, and operational considerations of an acquisition.
   Understanding these key differences will enable sellers to make informed
   decisions and optimize their post-sale outcomes.
-ogImage: /images/perspectives/asset-sale-vs-stock-sale-2.jpg
+ogImage: >-
+  /images/perspectives/asset-sale-vs-stock-sale-2.jpg
 sqsId: 67c641a5f2c6666a9e1fc323
 sqsOrder: 27
 ---

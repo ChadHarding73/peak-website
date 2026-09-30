@@ -1,7 +1,8 @@
 ---
 title: 'The Power of Story: Typhoon Data Acquired by Appriss'
 date: '2021-01-29'
-image: /images/perspectives/typhoondata.jpg
+image: >-
+  /images/perspectives/typhoondata.jpg
 categories:
   - Case Study
 sqsTags: []
@@ -16,7 +17,8 @@ seoDescription: >-
   Don’t take shortcuts. By spending time getting to know the business and
   understanding its value, we wrote a story that appealed to potential buyers,
   while also ensuring an ideal outcome for the Typhoon Data team.
-ogImage: /images/perspectives/typhoondata-2.jpg
+ogImage: >-
+  /images/perspectives/typhoondata-2.jpg
 sqsId: 6014186bd982e931659c35c2
 sqsOrder: 48
 ---

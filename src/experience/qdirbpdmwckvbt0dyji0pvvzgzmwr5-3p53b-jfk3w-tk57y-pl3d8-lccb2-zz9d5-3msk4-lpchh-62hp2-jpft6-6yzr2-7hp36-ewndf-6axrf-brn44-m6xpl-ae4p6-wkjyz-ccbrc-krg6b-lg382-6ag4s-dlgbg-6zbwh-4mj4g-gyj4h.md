@@ -1,6 +1,6 @@
 ---
 title: Infotrieve acquired by Copyright Clearance Center
-date: '2021-01-22'
+date: '2021-01-21'
 image: >-
   /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s-dlgbg-6zbwh-4mj4g-gyj4h.jpg
 categories:

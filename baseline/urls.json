@@ -103,7 +103,7 @@
   },
   {
     "path": "/experience/category/AI",
-    "source": "crawl:/experience",
+    "source": "crawl:/experience/revenuegrid-investment-from-w3capital",
     "status": 200,
     "type": "text/html"
   },

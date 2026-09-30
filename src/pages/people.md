@@ -7,11 +7,12 @@ seoDescription: >-
   We fight for every deal, determined to deliver the best results to hardworking
   founders. Even as we grow, we maintain our scrappy roots and hunger to win.
   Learn about our team of bankers and financial analysts.
-ogImage: /images/pages/the-impact-of-doge-on-government-software-companies-2.png
+ogImage: >-
+  /images/pages/the-impact-of-doge-on-government-software-companies-2.png
 sqsId: 5fc696282dd96f5918d3b89c
 headerTheme: light
 ---
-<section class="band band--light h-medium w-medium ha-center va-middle has-bg" style="--bg: url('/images/pages/people.jpg');">
+<section class="band band--light h-medium w-medium ha-center va-middle has-bg" style="--bg: url('/images/pages/people-2.jpg');">
 <div class="band__content"><div class="row"><div class="col" style="--span: 12; --of: 12"><div class="row"><div class="col" style="--span: 9; --of: 12"><div class="b b--html"><h2><strong>Banking on your side of the table.</strong> </h2><p class="sqsrte-large"></p></div></div><div class="col" style="--span: 3; --of: 12"><div class="b b--spacer"><div class="spacer vsize-1"></div></div></div></div></div></div></div>
 </section>
 

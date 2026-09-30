@@ -1,7 +1,8 @@
 ---
 title: 'How-To Guide: Leveraging Variation in Valuation'
 date: '2025-09-22'
-image: /images/perspectives/variation-in-valuation.jpg
+image: >-
+  /images/perspectives/variation-in-valuation.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -21,7 +22,8 @@ seoDescription: >-
   story, you can significantly elevate your company’s value. With the right
   strategy—and the right advisor—you’ll be positioned to secure the best
   possible outcome for your sale and your legacy.
-ogImage: /images/perspectives/variation-in-valuation-2.jpg
+ogImage: >-
+  /images/perspectives/variation-in-valuation-2.jpg
 sqsId: 68d1a0a3ce2e233df7f7a355
 sqsOrder: 19
 ---

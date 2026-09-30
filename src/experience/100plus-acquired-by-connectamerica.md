@@ -1,7 +1,8 @@
 ---
 title: 100Plus acquired by Connect America
 date: '2021-08-25'
-image: /images/experience/100plus-acquired-by-connectamerica.png
+image: >-
+  /images/experience/100plus-acquired-by-connectamerica.png
 categories:
   - Merger & Acquisition
   - Strategic
@@ -15,7 +16,8 @@ sqsTags: []
 excerpt: ''
 seoTitle: 100Plus acquired by Connect America — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/100plus-acquired-by-connectamerica-2.png
+ogImage: >-
+  /images/experience/100plus-acquired-by-connectamerica-2.png
 sqsId: 612683808aadb00843e929e6
 sqsOrder: 42
 ---

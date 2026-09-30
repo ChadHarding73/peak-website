@@ -1,7 +1,8 @@
 ---
 title: Peak Technology Partners Advises StrataPT
 date: '2024-10-09'
-image: /images/experience/peak-technology-partners-advises-stratapt.png
+image: >-
+  /images/experience/peak-technology-partners-advises-stratapt.png
 categories:
   - Capital Raise
   - Healthcare
@@ -12,7 +13,8 @@ sqsTags: []
 excerpt: ''
 seoTitle: Peak Technology Partners Advises StrataPT — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/peak-technology-partners-advises-stratapt-2.png
+ogImage: >-
+  /images/experience/peak-technology-partners-advises-stratapt-2.png
 sqsId: 6705850842b65758af8d2c76
 sqsOrder: 9
 ---

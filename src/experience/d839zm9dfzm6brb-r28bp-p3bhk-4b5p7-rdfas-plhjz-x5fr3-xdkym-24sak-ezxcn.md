@@ -1,6 +1,6 @@
 ---
 title: Proposify receives investment from Innovacorp
-date: '2021-01-26'
+date: '2021-01-25'
 image: >-
   /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn.jpg
 categories:

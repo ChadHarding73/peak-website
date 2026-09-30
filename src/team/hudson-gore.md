@@ -1,7 +1,8 @@
 ---
 title: Hudson Gore
 date: '2020-06-25'
-image: /images/team/hudson-gore.jpg
+image: >-
+  /images/team/hudson-gore.jpg
 categories:
   - Analyst
 sqsTags: []
@@ -14,7 +15,8 @@ seoDescription: >-
   Hudson is an Analyst at Peak Technology Partners where he focuses on business
   development and the execution of M&amp;A and capital raising transactions for
   technology companies.
-ogImage: /images/team/hudson-gore-2.jpg
+ogImage: >-
+  /images/team/hudson-gore-2.jpg
 sqsId: 689523fa298f9e7c2560a892
 sqsOrder: 15
 ---

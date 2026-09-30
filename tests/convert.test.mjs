@@ -13,8 +13,9 @@ test('splitFullUrl parses collection and slug, rejects unknown collections', () 
   assert.throws(() => splitFullUrl('/blog/x'), /unexpected fullUrl/);
 });
 
-test('isoDate converts epoch ms to UTC date', () => {
+test('isoDate gives the calendar date in the site time zone (America/Los_Angeles), as Squarespace displays it', () => {
   assert.equal(isoDate(1787592365954), '2026-08-24');
+  assert.equal(isoDate(1773803160938), '2026-03-17'); // 2026-03-18T03:06Z is the evening of March 17 in Los Angeles
 });
 
 test('cleanBody removes wrappers, classes, scripts and noscript duplicates', () => {

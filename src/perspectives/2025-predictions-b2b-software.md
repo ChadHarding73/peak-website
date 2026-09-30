@@ -1,7 +1,8 @@
 ---
 title: 'Forecasting 2025: The State of B2B Software'
 date: '2025-01-14'
-image: /images/perspectives/2025-predictions-b2b-software.png
+image: >-
+  /images/perspectives/2025-predictions-b2b-software.png
 categories: []
 sqsTags: []
 excerpt: >-
@@ -17,7 +18,8 @@ seoDescription: >-
   customer needs, embrace emerging technologies, and prioritize both security
   and exceptional customer experiences will be strategically positioned for
   long-term success.
-ogImage: /images/perspectives/2025-predictions-b2b-software-2.png
+ogImage: >-
+  /images/perspectives/2025-predictions-b2b-software-2.png
 sqsId: 6786e3f70112bb7ac9923bdb
 sqsOrder: 37
 ---

@@ -1,17 +1,20 @@
 ---
 title: Optiv Security acquired by KKR
 date: '2021-01-23'
-image: /images/experience/optiv-acquired-by-kkr.png
+image: >-
+  /images/experience/optiv-acquired-by-kkr.png
 categories:
   - Merger & Acquisition
   - SaaS
   - IT Services
   - CyberSecurity
+  - Financial
 sqsTags: []
 excerpt: ''
 seoTitle: Optiv Security acquired by KKR — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/optiv-acquired-by-kkr-2.png
+ogImage: >-
+  /images/experience/optiv-acquired-by-kkr-2.png
 sqsId: 641213edf0489f127607ba16
 sqsOrder: 71
 ---

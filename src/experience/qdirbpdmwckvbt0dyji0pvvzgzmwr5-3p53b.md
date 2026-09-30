@@ -1,7 +1,8 @@
 ---
 title: SolArc acquired by OpenLink
-date: '2021-01-06'
-image: /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b.png
+date: '2021-01-05'
+image: >-
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b.png
 categories:
   - Strategic
   - Merger & Acquisition
@@ -13,7 +14,8 @@ sqsTags: []
 excerpt: ''
 seoTitle: SolArc acquired by OpenLink — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-2.png
+ogImage: >-
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-2.png
 sqsId: 5ff51d745513902cd31e99b4
 sqsOrder: 102
 ---

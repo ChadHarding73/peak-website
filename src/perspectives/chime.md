@@ -3,7 +3,8 @@ title: >-
   Impactful Capital: Chime Solutions Receives Investment from BBH Capital
   Partners
 date: '2021-02-01'
-image: /images/perspectives/chime.jpg
+image: >-
+  /images/perspectives/chime.jpg
 categories:
   - Case Study
 sqsTags: []
@@ -16,7 +17,8 @@ seoTitle: >-
 seoDescription: >-
   A strong mission matters. When it comes to finding the ideal investor for an
   impact-driven company, it’s all about the story.
-ogImage: /images/perspectives/chime-2.jpg
+ogImage: >-
+  /images/perspectives/chime-2.jpg
 sqsId: 601c066e17909115676895ea
 sqsOrder: 45
 ---

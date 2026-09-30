@@ -1,20 +1,22 @@
 ---
 title: Alleva receives investment from Ankona Capital Partners
 date: '2022-11-16'
-image: /images/experience/alleva-receives-investment-from-ankona.png
+image: >-
+  /images/experience/alleva-receives-investment-from-ankona.png
 categories:
-  - Merger & Acquisition
   - SaaS
   - Healthcare
   - Financial
   - B2B Software
+  - Capital Raise
 sqsTags: []
 excerpt: ''
 seoTitle: >-
   Alleva receives investment from Ankona Capital Partners — Peak Technology
   Partners
 seoDescription: ''
-ogImage: /images/experience/alleva-receives-investment-from-ankona-2.png
+ogImage: >-
+  /images/experience/alleva-receives-investment-from-ankona-2.png
 sqsId: 637569dc61cac64f930b526b
 sqsOrder: 20
 ---

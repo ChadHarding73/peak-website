@@ -1,15 +1,18 @@
 ---
 title: Catch Co. acquired by Gordon Brothers
 date: '2024-04-01'
-image: /images/experience/catchco-acquired-by-gordon-brothers-86xay.png
+image: >-
+  /images/experience/catchco-acquired-by-gordon-brothers-86xay.png
 categories:
   - Merger & Acquisition
   - Consumer
+  - Financial
 sqsTags: []
 excerpt: ''
 seoTitle: Catch Co. acquired by Gordon Brothers — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/catchco-acquired-by-gordon-brothers-86xay-2.png
+ogImage: >-
+  /images/experience/catchco-acquired-by-gordon-brothers-86xay-2.png
 sqsId: 660b4333661eb94488ec7cb4
 sqsOrder: 13
 ---

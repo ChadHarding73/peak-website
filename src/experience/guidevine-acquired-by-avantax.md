@@ -1,7 +1,8 @@
 ---
 title: GuideVine acquired by Avantax
 date: '2021-04-30'
-image: /images/experience/guidevine-acquired-by-avantax.png
+image: >-
+  /images/experience/guidevine-acquired-by-avantax.png
 categories:
   - Merger & Acquisition
   - Strategic
@@ -12,7 +13,8 @@ sqsTags: []
 excerpt: ''
 seoTitle: GuideVine acquired by Avantax — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/guidevine-acquired-by-avantax-2.png
+ogImage: >-
+  /images/experience/guidevine-acquired-by-avantax-2.png
 sqsId: 608c927308c90d54213f41d5
 sqsOrder: 45
 ---

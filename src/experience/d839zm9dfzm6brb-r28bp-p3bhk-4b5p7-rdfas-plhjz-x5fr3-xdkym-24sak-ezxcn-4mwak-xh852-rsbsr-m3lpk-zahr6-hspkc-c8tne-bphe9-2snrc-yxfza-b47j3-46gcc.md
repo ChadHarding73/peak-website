@@ -1,6 +1,6 @@
 ---
 title: Agiloft investment from FTV Capital
-date: '2021-01-30'
+date: '2021-01-29'
 image: >-
   /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne-bphe9-2snrc-yxfza-b47j3-46gcc.jpg
 categories:
@@ -9,7 +9,6 @@ categories:
   - SaaS
   - Capital Raise
   - B2B Software
-  - AI
 sqsTags: []
 excerpt: ''
 seoTitle: Agiloft investment from FTV Capital — Peak Technology Partners

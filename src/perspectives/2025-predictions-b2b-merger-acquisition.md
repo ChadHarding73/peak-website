@@ -1,7 +1,8 @@
 ---
 title: How Will B2B Software M&A Evolve in 2025?
 date: '2025-01-22'
-image: /images/perspectives/2025-predictions-b2b-merger-acquisition.jpg
+image: >-
+  /images/perspectives/2025-predictions-b2b-merger-acquisition.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -21,7 +22,8 @@ seoDescription: >-
   capabilities, expand market share, and adapt to the evolving regulatory
   landscape. The convergence of these factors suggests a dynamic year ahead for
   M&amp;A activities in the B2B software industry.
-ogImage: /images/perspectives/2025-predictions-b2b-merger-acquisition-2.jpg
+ogImage: >-
+  /images/perspectives/2025-predictions-b2b-merger-acquisition-2.jpg
 sqsId: 678802d209776e0267946c10
 sqsOrder: 36
 ---

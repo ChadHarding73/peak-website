@@ -1,7 +1,8 @@
 ---
 title: GovPath acquired by Seaside Equity Partners
 date: '2023-10-31'
-image: /images/experience/truepoint-acquired-by-seaside-equity-partners.png
+image: >-
+  /images/experience/truepoint-acquired-by-seaside-equity-partners.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -11,7 +12,8 @@ sqsTags: []
 excerpt: ''
 seoTitle: GovPath acquired by Seaside Equity Partners — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/truepoint-acquired-by-seaside-equity-partners-2.png
+ogImage: >-
+  /images/experience/truepoint-acquired-by-seaside-equity-partners-2.png
 sqsId: 654152a13c77153677712f4b
 sqsOrder: 15
 ---

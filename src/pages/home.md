@@ -6,11 +6,12 @@ seoDescription: >-
   or raise capital. We believe competition drives results, and work on the
   sell-side to maximize outcomes in capital raise, and merger and acquisition
   (M&A) transactions for tech companies.
-ogImage: /images/pages/the-impact-of-doge-on-government-software-companies-2.png
+ogImage: >-
+  /images/pages/the-impact-of-doge-on-government-software-companies-2.png
 sqsId: 5fc80db5ed5bab3bcc8ff1b8
 headerTheme: light
 ---
-<section class="band band--light h-custom w-medium ha-left va-bottom has-bg" style="--bg: url('/images/pages/demo.jpg'); --pt: calc(10vmax / 5);">
+<section class="band band--light h-custom w-medium ha-left va-bottom has-bg" style="--bg: url('/images/pages/demo-2.jpg'); --pt: calc(10vmax / 5);">
 <div class="band__content"><div class="row"><div class="col" style="--span: 12; --of: 12"></div></div></div>
 </section>
 
@@ -18,7 +19,7 @@ headerTheme: light
 <div class="band__content"><div class="row"><div class="col" style="--span: 12; --of: 12"><div class="row"><div class="col" style="--span: 6; --of: 12"><div class="b b--html"><h1><strong>Founder Focused.</strong></h1></div><div class="row"><div class="col" style="--span: 5; --of: 6"><div class="b b--horizontalrule"><hr class="rule"></div></div><div class="col" style="--span: 1; --of: 6"><div class="b b--spacer"><div class="spacer vsize-1"></div></div></div></div></div><div class="col" style="--span: 6; --of: 12"><div class="b b--html"><p>Investment banking for <strong>AI</strong>, <strong>software</strong>, and <strong>tech-enabled services companies</strong>. Partnering with founders to sell or raise capital. Your success is our singular focus.</p></div></div></div></div></div></div>
 </section>
 
-<section class="band band--white ha-center va-middle has-bg" style="--bg: url('/images/pages/demo-2.jpg'); --pt: calc(60vmax / 10); --pb: calc(60vmax / 10); min-height: 60vh;">
+<section class="band band--white ha-center va-middle has-bg" style="--bg: url('/images/pages/demo-3.jpg'); --pt: calc(60vmax / 10); --pb: calc(60vmax / 10); min-height: 60vh;">
 <div class="band__content"><div class="row"><div class="col" style="--span: 12; --of: 12"><div class="row"><div class="col" style="--span: 4; --of: 12"><div class="b b--html"><h3><strong>Entrepreneurial</strong></h3><p class="sqsrte-large">Bootstrapping, managing growth, or prepping for an exit? We’ve been there. Many PEAK team members have operated companies themselves. </p></div><div class="row"><div class="col" style="--span: 2; --of: 4"><div class="b b--horizontalrule"><hr class="rule"></div></div><div class="col" style="--span: 2; --of: 4"><div class="b b--spacer"><div class="spacer vsize-1"></div></div></div></div></div><div class="col" style="--span: 4; --of: 12"><div class="b b--html"><h3><strong>Dedicated</strong></h3><p class="sqsrte-large">When we partner with you, we become a part of your team. We’ll channel our grit and determination to ensure we achieve a favorable outcome, together.</p></div><div class="row"><div class="col" style="--span: 2; --of: 4"><div class="b b--horizontalrule"><hr class="rule"></div></div><div class="col" style="--span: 2; --of: 4"><div class="b b--spacer"><div class="spacer vsize-1"></div></div></div></div></div><div class="col" style="--span: 4; --of: 12"><div class="b b--html"><h3><strong>Aligned </strong></h3><p class="sqsrte-large">We’re on your side. We only ever serve sellers, and we structure our incentives to focus on successful outcomes with maximized valuations. </p></div><div class="row"><div class="col" style="--span: 2; --of: 4"><div class="b b--horizontalrule"><hr class="rule"></div></div><div class="col" style="--span: 2; --of: 4"><div class="b b--spacer"><div class="spacer vsize-1"></div></div></div></div></div></div></div></div></div>
 </section>
 
@@ -31,5 +32,5 @@ headerTheme: light
 </section>
 
 <section class="band band--light h-medium w-medium ha-center va-middle">
-<div class="band__content"><div class="row"><div class="col" style="--span: 6; --of: 12"><div class="b b--html"><h2><strong>Access</strong></h2><p>In over five decades of sell-side banking, we’ve built strong relationships with buyers and investors across the global technology ecosystem.</p></div></div><div class="col" style="--span: 6; --of: 12"><div class="b b--spacer"><div class="spacer vsize-1"></div></div></div></div><div class="row"><div class="col" style="--span: 12; --of: 12"><div class="b b--spacer"><div class="spacer vsize-1"></div></div><div class="b b--image"><figure class="image"><img src="/images/pages/demo-3.png" alt="Logos of buyers and investors in PEAK's network, including Accel, Adobe, Amazon, Apple, General Catalyst, Google, IBM, Insight Partners, Microsoft, Oracle, Salesforce, SAP, Tesla, Thoma Bravo and Vista" loading="lazy"></figure></div><div class="b b--spacer"><div class="spacer vsize-1"></div></div></div></div></div>
+<div class="band__content"><div class="row"><div class="col" style="--span: 6; --of: 12"><div class="b b--html"><h2><strong>Access</strong></h2><p>In over five decades of sell-side banking, we’ve built strong relationships with buyers and investors across the global technology ecosystem.</p></div></div><div class="col" style="--span: 6; --of: 12"><div class="b b--spacer"><div class="spacer vsize-1"></div></div></div></div><div class="row"><div class="col" style="--span: 12; --of: 12"><div class="b b--spacer"><div class="spacer vsize-1"></div></div><div class="b b--image"><figure class="image"><img src="/images/pages/demo-4.png" alt="Logos of buyers and investors in PEAK's network, including Accel, Adobe, Amazon, Apple, General Catalyst, Google, IBM, Insight Partners, Microsoft, Oracle, Salesforce, SAP, Tesla, Thoma Bravo and Vista" loading="lazy"></figure></div><div class="b b--spacer"><div class="spacer vsize-1"></div></div></div></div></div>
 </section>

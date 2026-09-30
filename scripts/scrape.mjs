@@ -1,15 +1,16 @@
+import { fetchRetry } from './lib/net.mjs';
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import { dirname } from 'node:path';
 import { ORIGIN } from './lib/inventory.mjs';
 import { COLLECTIONS, itemToFile, pageToFile, parseSeo, droppedTags } from './lib/convert.mjs';
 
 async function getJson(path) {
-  const res = await fetch(`${ORIGIN}${path}${path.includes('?') ? '&' : '?'}format=json`);
+  const res = await fetchRetry(`${ORIGIN}${path}${path.includes('?') ? '&' : '?'}format=json`);
   if (!res.ok) throw new Error(`${res.status} ${path}`);
   return res.json();
 }
 async function getHtml(path) {
-  const res = await fetch(ORIGIN + path);
+  const res = await fetchRetry(ORIGIN + path);
   if (!res.ok) throw new Error(`${res.status} ${path}`);
   return res.text();
 }

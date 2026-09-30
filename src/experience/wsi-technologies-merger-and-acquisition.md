@@ -1,21 +1,23 @@
 ---
 title: WSI Technologies Becomes Valsoft’s Gateway into Public Safety Vertical
 date: '2025-09-09'
-image: /images/experience/wsi-technologies-merger-and-acquisition.png
+image: >-
+  /images/experience/wsi-technologies-merger-and-acquisition.png
 categories:
   - Merger & Acquisition
-  - Financial
   - Analytics
   - B2B Software
   - Media
   - IT Services
+  - Strategic
 sqsTags: []
 excerpt: ''
 seoTitle: >-
   WSI Technologies Becomes Valsoft’s Gateway into Public Safety Vertical — Peak
   Technology Partners
 seoDescription: ''
-ogImage: /images/experience/wsi-technologies-merger-and-acquisition-2.png
+ogImage: >-
+  /images/experience/wsi-technologies-merger-and-acquisition-2.png
 sqsId: 68bf845278c07f78dc64d63a
 sqsOrder: 3
 ---

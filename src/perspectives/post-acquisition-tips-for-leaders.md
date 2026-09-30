@@ -1,7 +1,8 @@
 ---
 title: 'Post-Acquisition Integration: Preparing Your Leadership for Success'
-date: '2025-10-06'
-image: /images/perspectives/post-acquisition-tips-for-leaders.jpg
+date: '2025-10-05'
+image: >-
+  /images/perspectives/post-acquisition-tips-for-leaders.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -28,7 +29,8 @@ seoDescription: >-
   decision-making matrices  and processes to ensure accountability.   Read on to
   learn how to empower your leaders to preserve value and drive the strategic
   success of the acquisition.
-ogImage: /images/perspectives/post-acquisition-tips-for-leaders-2.jpg
+ogImage: >-
+  /images/perspectives/post-acquisition-tips-for-leaders-2.jpg
 sqsId: 68e3268a61c5ca6192ae5cfb
 sqsOrder: 17
 ---

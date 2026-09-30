@@ -1,7 +1,8 @@
 ---
 title: 'The Fragile Side of Hypergrowth: Building SaaS That Lasts'
-date: '2025-09-29'
-image: /images/perspectives/sustainable-scale-in-saas.jpg
+date: '2025-09-28'
+image: >-
+  /images/perspectives/sustainable-scale-in-saas.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -29,7 +30,8 @@ seoDescription: >-
   fastest in the short term — they’re the ones that  compound strength over
   time  through credibility, loyal customers, and a product that continues to
   deliver value.
-ogImage: /images/perspectives/sustainable-scale-in-saas-2.jpg
+ogImage: >-
+  /images/perspectives/sustainable-scale-in-saas-2.jpg
 sqsId: 68d9c115a307e74d52bd4cd3
 sqsOrder: 18
 ---

@@ -1,6 +1,6 @@
 ---
 title: Black Box Intelligence secures investment from Level Equity
-date: '2021-01-29'
+date: '2021-01-28'
 image: >-
   /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne.jpg
 categories:

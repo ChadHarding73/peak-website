@@ -1,7 +1,8 @@
 ---
 title: The February Selloff Was a Gift. Here's Who's Collecting.
 date: '2026-03-11'
-image: /images/perspectives/the-february-selloff-was-a-gift.webp
+image: >-
+  /images/perspectives/the-february-selloff-was-a-gift.webp
 categories: []
 sqsTags: []
 excerpt: >-
@@ -41,7 +42,8 @@ seoDescription: >-
   embedded workflows, and predictable ARR, this market is not a warning—it's a
   window. But only if you enter it with a process designed to create
   competition—not respond to inbound.
-ogImage: /images/perspectives/the-february-selloff-was-a-gift-2.webp
+ogImage: >-
+  /images/perspectives/the-february-selloff-was-a-gift-2.webp
 sqsId: 69b1cda3b96e7d7df06b68d1
 sqsOrder: 7
 ---

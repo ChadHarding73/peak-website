@@ -14,8 +14,9 @@
   {% include "partials/head-injection.njk" ignore missing %}
 </head>
 <body class="{{ bodyClass or 'page' }}">
+  <a class="skip-link" href="#page">Skip to Content</a>
   {% include "partials/header.njk" %}
-  <main>{{ content | safe }}</main>
+  <main id="page">{{ content | safe }}</main>
   {% include "partials/footer.njk" %}
   <script src="/assets/js/site.js" defer></script>
 </body>

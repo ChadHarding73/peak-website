@@ -45,7 +45,7 @@ test('canonical links use the lowercase path Netlify serves', () => {
 test('every standalone page has real body content (guards the empty-body extraction bug)', () => {
   for (const slug of ['index', 'people', 'contact', 'careers', 'indemnification', 'arbitration', 'demo', 'error-page', 'investment-banking-analyst', 'investment-banking-associate']) {
     const file = slug === 'index' ? '_site/index.html' : `_site/${slug}/index.html`;
-    const main = read(file).split('<main>')[1].split('</main>')[0];
+    const main = read(file).split(/<main[^>]*>/)[1].split('</main>')[0];
     assert.ok(main.replace(/<[^>]+>/g, '').trim().length > 40, `${file} main is empty`);
   }
 });
@@ -90,4 +90,15 @@ test('the contact form carries the live form\'s fields, options and required fla
   assert.equal((body.match(/\srequired(?=[\s>])/g) || []).length, 5);
   assert.match(body, /<button type="submit"[^>]*>Submit<\/button>/);
   assert.ok(existsSync('_site/contact-thanks/index.html'));
+});
+
+test('each category page lists exactly the items carrying that category (guards the &amp; escaping bug)', () => {
+  const byCat = {};
+  for (const f of readdirSync('src/experience').filter(f => f.endsWith('.md'))) {
+    for (const c of matter(read(`src/experience/${f}`)).data.categories || []) byCat[c] = (byCat[c] || 0) + 1;
+  }
+  for (const [cat, n] of Object.entries(byCat)) {
+    const h = read(`_site/experience/category/${cat.replace(/ /g, '+')}/index.html`);
+    assert.equal((h.match(/class="grid__item"/g) || []).length, n, cat);
+  }
 });

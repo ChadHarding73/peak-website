@@ -107,6 +107,8 @@ main > .band.h-custom:first-child { padding-top: calc(var(--header-h) + var(--pt
 .b { padding: 17px 0; }
 .fe-cell > .b { padding: 0; }
 .spacer { min-height: 34px; }
+/* Squarespace hides spacer blocks on phones. */
+@media (max-width: 767px) { .b--spacer { display: none; } }
 
 /* Fluid-engine sections: 8 columns on mobile, 24 on desktop, plus outer gutter columns. */
 .fe-grid { display: grid; grid-template-columns: minmax(0, 1fr) repeat(8, minmax(0, 1fr)) minmax(0, 1fr); grid-template-rows: repeat(var(--rows-m), minmax(24px, auto)); gap: 11px; margin: 0 calc(-1 * var(--gutter)); }
@@ -167,14 +169,14 @@ pre code { font-family: var(--font); font-size: 16px; line-height: 24px; }
 
 /* ---------- Collection lists ---------- */
 .collection { padding: 4vmax var(--gutter); }
-.collection--grid.has-filters { display: grid; grid-template-columns: 1fr; gap: 30px; }
-@media (min-width: 768px) { .collection--grid.has-filters { grid-template-columns: 20% 1fr; } }
+.collection--grid.has-filters { display: grid; grid-template-columns: minmax(0, 1fr); gap: 30px; }
+@media (min-width: 768px) { .collection--grid.has-filters { grid-template-columns: 20% minmax(0, 1fr); } }
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); gap: 60px 11px; max-width: 1000px; }
 .collection--grid:not(.has-filters) .grid { margin: 0 auto; }
 .grid__item { display: block; }
 .grid__item img { width: 100%; aspect-ratio: 1; object-fit: cover; }
 .grid__item.is-hidden { display: none; }
-.filters { align-self: start; font-size: 13px; }
+.filters { align-self: start; font-size: 13px; min-width: 0; }
 @media (min-width: 768px) { .filters { position: sticky; top: 10%; max-height: 98vh; overflow-y: auto; } }
 .filter { background: #22222a; color: #fff; margin-bottom: 12px; }
 .filter summary { padding: 8px 12px; cursor: pointer; font-weight: 500; font-size: 11px; list-style-position: inside; }
@@ -190,10 +192,10 @@ pre code { font-family: var(--font); font-size: 16px; line-height: 24px; }
 .sbs__excerpt p { margin: 0 0 1em; }
 
 /* ---------- Item pages (tombstones, posts, bios) ---------- */
-.item { padding: calc(var(--header-h) + 3vmax) var(--gutter) 3vmax; }
+.item { padding: calc(var(--header-h) + 4vw) var(--gutter) 0; }
 .item__inner { max-width: 808px; margin: 0 auto; }
-.item__title { font-size: var(--fs-h1); line-height: 1.2; margin-bottom: 1em; }
-.item-pagination { display: flex; justify-content: space-between; gap: 20px; max-width: 1325px; margin: 6vmax auto 0; }
+.item__title { font-size: var(--fs-h1); line-height: 1.2; margin-bottom: 1.1em; }
+.item-pagination { display: flex; justify-content: space-between; align-items: center; gap: 20px; max-width: 1325px; margin: 100px auto 0; padding: 48px 0; }
 .item-pagination a { text-decoration: none; display: flex; flex-direction: column; max-width: 45%; }
 .item-pagination__next { margin-left: auto; text-align: right; }
 .item-pagination__label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
@@ -202,7 +204,10 @@ pre code { font-family: var(--font); font-size: 16px; line-height: 24px; }
 
 /* ---------- Footer ---------- */
 .site-footer img { max-width: 420px; }
-.site-footer .band .band__content { width: 100%; }
+/* Footer sections span nearly the full width (41px gutters at 1440, 6px on phones). */
+.site-footer .band { padding-left: 2.85vw; padding-right: 2.85vw; }
+.site-footer .band.band .band__content { width: 100%; max-width: none; }
+@media (max-width: 767px) { .site-footer .band { padding-left: 1.6vw; padding-right: 1.6vw; } }
 /* Bio pages use the light theme (header theme "light"); tombstones and posts are white. */
 .item-page--bio { background: var(--light); }
 
@@ -221,3 +226,11 @@ pre code { font-family: var(--font); font-size: 16px; line-height: 24px; }
 .contact-form textarea { border: 1px solid #a8a8a8; min-height: 90px; }
 .contact-form :is(input, select, textarea):focus { outline: none; border-color: var(--ink); }
 .contact-form .btn { justify-self: start; border: 0; cursor: pointer; font: inherit; font-size: 16px; }
+
+/* Accessibility: skip link, visible only when focused (as on the Squarespace site). */
+.skip-link { position: absolute; left: -9999px; top: 8px; z-index: 100; background: #fff; color: var(--ink); padding: 8px 12px; }
+.skip-link:focus { left: 8px; }
+.summary__nav svg { width: 10px; height: 16px; fill: none; stroke: currentColor; stroke-width: 1.5; }
+
+/* Squarespace keeps empty paragraphs as a blank line. */
+p:empty::before { content: "\200b"; }

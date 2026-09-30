@@ -7,6 +7,8 @@ document.querySelectorAll('.summary--carousel').forEach(block => {
 });
 
 document.querySelectorAll('[data-filters]').forEach(panel => {
+  // Phones: start with the groups collapsed, like the old site's compact Filter panel.
+  if (matchMedia('(max-width: 767px)').matches) panel.querySelectorAll('details').forEach(d => { d.open = false; });
   const items = [...panel.parentElement.querySelectorAll('.grid__item')];
   const groups = [...panel.querySelectorAll('.filter')];
   const apply = () => {

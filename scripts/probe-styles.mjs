@@ -7,7 +7,8 @@ export const REVEAL_CSS = '.preFade,.preScale,.preSlide,.preClip,.preFlex,[data-
 export async function settle(page) {
   await page.addStyleTag({ content: REVEAL_CSS });
   await page.evaluate(async () => { for (let y = 0; y < document.body.scrollHeight; y += 500) { window.scrollTo(0, y); await new Promise(r => setTimeout(r, 120)); } window.scrollTo(0, 0); });
-  await page.waitForLoadState('networkidle');
+  // Embeds like Calendly keep polling, so network idle is best-effort.
+  await page.waitForLoadState('networkidle', { timeout: 8000 }).catch(() => {});
   await page.waitForTimeout(500);
 }
 

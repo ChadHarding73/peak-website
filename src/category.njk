@@ -6,9 +6,9 @@ pagination:
 permalink: "/{{ entry.collection }}/category/{{ entry.category | categoryPath | safe }}/"
 layout: layouts/list.njk
 eleventyComputed:
-  title: "{{ entry.category }}"
+  title: "{{ entry.category | safe }}"
   listCollection: "{{ entry.collection }}"
-  listCategory: "{{ entry.category }}"
-  seoTitle: "{{ entry.category }} — {{ collectionTitles[entry.collection] }} — Peak Technology Partners"
+  listCategory: "{{ entry.category | safe }}"
+  seoTitle: "{{ entry.category | safe }} — {{ collectionTitles[entry.collection] }} — Peak Technology Partners"
   headerTheme: "{{ listThemes[entry.collection] }}"
 ---

@@ -31,6 +31,6 @@ export function renderSummary(collections, json) {
   const bySlug = new Map(all.map(i => [href(i.url).split('/').pop(), i]));
   const items = a.latest ? all.slice(0, a.latest) : (a.slugs || []).map(s => bySlug.get(s.toLowerCase())).filter(Boolean);
   const style = a.perRow ? ` style="--per-row: ${a.perRow}; --gutter: ${a.gutter || 0}px"` : '';
-  const nav = a.design === 'carousel' ? '<div class="summary__nav"><button type="button" class="summary__prev" aria-label="Previous">‹</button><button type="button" class="summary__next" aria-label="Next">›</button></div>' : '';
+  const nav = a.design === 'carousel' ? '<div class="summary__nav"><button type="button" class="summary__prev" aria-label="Previous"><svg viewBox="0 0 10 16" aria-hidden="true"><path d="M8 1L1 8l7 7"/></svg></button><button type="button" class="summary__next" aria-label="Next"><svg viewBox="0 0 10 16" aria-hidden="true"><path d="M2 1l7 7-7 7"/></svg></button></div>' : '';
   return `<div class="summary summary--${esc(a.design)} summary--${esc(a.collection)}"${style}>${nav}<div class="summary__items">${items.map(i => card(i, a)).join('')}</div></div>`;
 }

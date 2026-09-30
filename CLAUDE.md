@@ -1,6 +1,6 @@
 # peak-tech.com — Claude editing guide
 
-Static Eleventy site, deployed by Netlify from GitHub. `main` is the live site. Netlify projects are private by default, so previews are only visible to the PEAK Netlify team.
+Static Eleventy site, deployed by Netlify (project `thriving-moxie-406412`, PEAK team) from github.com/ChadHarding73/peak-website. `main` is the live site at https://www.peak-tech.com; production is public, previews are private to the PEAK Netlify team.
 
 ## Where things live
 - **Tombstones:** `src/experience/<slug>.md`. **Perspectives posts:** `src/perspectives/<slug>.md`. **Team bios:** `src/team/<slug>.md`. The filename IS the URL (`/experience/<slug>`). Never rename a file.
@@ -17,7 +17,7 @@ Static Eleventy site, deployed by Netlify from GitHub. `main` is the live site. 
 
 ## Every change
 1. `git switch -c edit/<topic>`, make the edit, then `npm run build && npm test`.
-2. `git push -u origin edit/<topic>`. Netlify builds a branch preview at `https://edit-<topic>--<site>.netlify.app`, visible to the PEAK Netlify team.
+2. `git push -u origin edit/<topic>`. Netlify builds a branch preview at `https://edit-<topic>--thriving-moxie-406412.netlify.app`. Previews are private: open them in the in-app Browser pane, where Chad is signed in to Netlify (anonymous requests get a 401).
 3. Screenshot the changed page at 1440 and 390 widths, and show Chad.
 4. Only on Chad's OK: `git switch main && git merge --ff-only edit/<topic> && git push`.
 5. Verify the live page, then delete the branch.

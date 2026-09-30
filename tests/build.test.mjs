@@ -113,3 +113,9 @@ test('sitemap.xml lists every page by its canonical URL, and robots.txt points t
   assert.ok(!locs.some(l => l.includes('404') || l.includes('contact-thanks')), 'no 404/thank-you in sitemap');
   assert.match(read('_site/robots.txt'), /Sitemap: https:\/\/www\.peak-tech\.com\/sitemap\.xml/);
 });
+
+test('every image a built page references exists in the build', () => {
+  const missing = [];
+  for (const p of pages) for (const m of read(p).matchAll(/(?:src="|url\(')(\/images\/[^"')]+)/g)) if (!existsSync('_site' + decodeURIComponent(m[1]))) missing.push(`${m[1]} in ${p}`);
+  assert.deepEqual(missing, []);
+});

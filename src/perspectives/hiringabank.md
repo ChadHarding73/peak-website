@@ -1,7 +1,8 @@
 ---
 title: 'Already Have Interested Parties Wanting to Buy or Invest in Your Company? '
 date: '2022-08-30'
-image: /images/perspectives/hiringabank.jpg
+image: >-
+  /images/perspectives/hiringabank-ee546b05.jpg
 categories:
   - Thoughts
 sqsTags: []
@@ -10,7 +11,7 @@ seoTitle: >-
   Already Have Interested Parties Wanting to Buy or Invest in Your Company?  —
   Peak Technology Partners
 seoDescription: You should still hire an investment bank.
-ogImage: /images/perspectives/hiringabank-2.jpg
+ogImage: ''
 sqsId: 630e7eb5d57b626edebba640
 sqsOrder: 40
 ---

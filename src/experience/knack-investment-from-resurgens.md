@@ -1,7 +1,8 @@
 ---
 title: Knack receives investment from Resurgens Technology Partners
 date: '2022-08-31'
-image: /images/experience/knack-investment-from-resurgens.png
+image: >-
+  /images/experience/knack-investment-from-resurgens-642af250.png
 categories:
   - SaaS
   - Productivity
@@ -15,7 +16,7 @@ seoTitle: >-
   Knack receives investment from Resurgens Technology Partners — Peak Technology
   Partners
 seoDescription: ''
-ogImage: /images/experience/knack-investment-from-resurgens-2.png
+ogImage: ''
 sqsId: 6310014582d2335bd5ddd2ad
 sqsOrder: 25
 ---

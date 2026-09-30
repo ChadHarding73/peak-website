@@ -1,7 +1,8 @@
 ---
 title: The Importance of Customer Retention in SaaS M&A
 date: '2025-03-17'
-image: /images/perspectives/customer-retention.jpg
+image: >-
+  /images/perspectives/customer-retention-4b8e207f.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -28,7 +29,7 @@ seoDescription: >-
   minimize churn, and maximize customer lifetime value position their companies
   for sustainable growth and lucrative exits. In the competitive SaaS landscape,
   retention isn’t just a growth metric—it’s a strategic advantage.
-ogImage: /images/perspectives/customer-retention-2.jpg
+ogImage: ''
 sqsId: 67d46d62a240b25998c77029
 sqsOrder: 25
 ---

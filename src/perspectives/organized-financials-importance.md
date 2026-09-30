@@ -1,7 +1,8 @@
 ---
 title: 'Why Disorganized Financials Kill Deals: The Hidden Cost of Messy Books'
 date: '2025-10-27'
-image: /images/perspectives/organized-financials-importance.jpg
+image: >-
+  /images/perspectives/organized-financials-importance-951c1f27.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -23,7 +24,7 @@ seoDescription: >-
   valuation discounts, and extend deal timelines, and how founders can turn
   financial clarity into  defensible, bankable value  that holds up under
   scrutiny.
-ogImage: /images/perspectives/organized-financials-importance-2.jpg
+ogImage: ''
 sqsId: 68fef66099424c05f2acdf92
 sqsOrder: 13
 ---

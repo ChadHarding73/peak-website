@@ -3,7 +3,8 @@ title: >-
   Should Business Founders Raise Capital? Key Considerations Behind a Critical
   Decision
 date: '2025-12-11'
-image: /images/perspectives/raising-capital.webp
+image: >-
+  /images/perspectives/raising-capital-799606b5.webp
 categories: []
 sqsTags: []
 excerpt: >-
@@ -33,7 +34,7 @@ seoDescription: >-
   ownership considerations that influence this decision. The result is a
   practical framework that helps founders evaluate which capital strategy aligns
   best with their goals, capabilities, and long-term vision.
-ogImage: /images/perspectives/raising-capital-2.webp
+ogImage: ''
 sqsId: 693b388ad38fe456068f84ba
 sqsOrder: 9
 ---

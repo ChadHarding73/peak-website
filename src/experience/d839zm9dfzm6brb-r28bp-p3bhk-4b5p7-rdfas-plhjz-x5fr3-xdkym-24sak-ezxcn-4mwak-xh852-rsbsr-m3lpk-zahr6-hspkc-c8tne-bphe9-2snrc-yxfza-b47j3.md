@@ -2,7 +2,7 @@
 title: Swoogo acquired by Eagle Rock Capital
 date: '2021-01-29'
 image: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne-bphe9-2snrc-yxfza-b47j3.jpg
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne-bphe9-2snrc-yxfza-b47j3-8a3d2991.jpg
 categories:
   - Merger & Acquisition
   - Financial
@@ -14,8 +14,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Swoogo acquired by Eagle Rock Capital — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-zahr6-hspkc-c8tne-bphe9-2snrc-yxfza-b47j3-2.jpg
+ogImage: ''
 sqsId: 6014b38ebf7edd00ec60810e
 sqsOrder: 56
 ---

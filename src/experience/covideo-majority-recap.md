@@ -1,7 +1,8 @@
 ---
 title: Covideo Closes Majority Recapitalization with Five Elms
 date: '2022-04-01'
-image: /images/experience/covideo-majority-recap.png
+image: >-
+  /images/experience/covideo-majority-recap-2e2d219d.png
 categories:
   - Capital Raise
   - Productivity
@@ -12,7 +13,7 @@ seoTitle: >-
   Covideo Closes Majority Recapitalization with Five Elms — Peak Technology
   Partners
 seoDescription: ''
-ogImage: /images/experience/covideo-majority-recap-2.png
+ogImage: ''
 sqsId: 61296b39e79fd0609429a665
 sqsOrder: 30
 ---

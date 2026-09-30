@@ -1,7 +1,8 @@
 ---
 title: How Do Market Cycles Shape Acquisition Timing for Bootstrapped Companies?
 date: '2025-10-20'
-image: /images/perspectives/market-cycle-effects.jpg
+image: >-
+  /images/perspectives/market-cycle-effects-9adabd10.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -35,7 +36,7 @@ seoDescription: >-
   booming or contracting, your profitability story deserves to be told in the
   language acquirers value most — and the best time to prepare for that story
   is  before  the cycle turns.
-ogImage: /images/perspectives/market-cycle-effects-2.jpg
+ogImage: ''
 sqsId: 68f65b37936af0186e3a31ac
 sqsOrder: 14
 ---

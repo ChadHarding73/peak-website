@@ -1,7 +1,8 @@
 ---
 title: Revenue Grid investment from W3 Capital
 date: '2021-09-02'
-image: /images/experience/revenuegrid-investment-from-w3capital.png
+image: >-
+  /images/experience/revenuegrid-investment-from-w3capital-0432604a.png
 categories:
   - Capital Raise
   - Financial
@@ -15,7 +16,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Revenue Grid investment from W3 Capital — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/revenuegrid-investment-from-w3capital-2.png
+ogImage: ''
 sqsId: 61310357a955261c833305a2
 sqsOrder: 38
 ---

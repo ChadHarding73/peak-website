@@ -1,7 +1,8 @@
 ---
 title: Rypple acquired by Salesforce
 date: '2021-01-05'
-image: /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8.jpg
+image: >-
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-6ae2451d.jpg
 categories:
   - Strategic
   - Merger & Acquisition
@@ -14,8 +15,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Rypple acquired by Salesforce — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-2.jpg
+ogImage: ''
 sqsId: 5ff52edb01d6f66bdbef85aa
 sqsOrder: 99
 ---

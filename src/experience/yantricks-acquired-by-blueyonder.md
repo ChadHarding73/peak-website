@@ -1,7 +1,8 @@
 ---
 title: Yantriks acquired by Blue Yonder
 date: '2021-01-29'
-image: /images/experience/yantricks-acquired-by-blueyonder.png
+image: >-
+  /images/experience/yantricks-acquired-by-blueyonder-daca8d1a.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -11,7 +12,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Yantriks acquired by Blue Yonder — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/yantricks-acquired-by-blueyonder-2.png
+ogImage: ''
 sqsId: 6412114ceb81de40b641dbc5
 sqsOrder: 55
 ---

@@ -1,7 +1,8 @@
 ---
 title: DriveScale acquired by Twitter
 date: '2021-02-10'
-image: /images/experience/drivescale-acquired-by-twitter.png
+image: >-
+  /images/experience/drivescale-acquired-by-twitter-c20e7140.png
 categories:
   - Merger & Acquisition
   - Strategic
@@ -13,7 +14,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: DriveScale acquired by Twitter — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/drivescale-acquired-by-twitter-2.png
+ogImage: ''
 sqsId: 60245f680371022c8765e43b
 sqsOrder: 47
 ---

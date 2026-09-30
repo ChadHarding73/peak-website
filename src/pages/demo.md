@@ -2,12 +2,13 @@
 title: Demo
 seoTitle: Demo — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/pages/the-impact-of-doge-on-government-software-companies-2.png
+ogImage: >-
+  /images/pages/arbitration-00376040.png
 sqsId: 60245b498aaaf4266ce6e285
 headerTheme: light
 logo: full
 ---
-<section class="band band--light h-custom w-medium ha-left va-bottom has-bg" style="--bg: url('/images/pages/demo.jpg'); --pt: calc(10vmax / 5);">
+<section class="band band--light h-custom w-medium ha-left va-bottom has-bg" style="--bg: url('/images/pages/demo-55f37932.jpg'); --pt: calc(10vmax / 5);">
 <div class="band__content"><div class="row"><div class="col" style="--span: 12; --of: 12"></div></div></div>
 </section>
 
@@ -15,7 +16,7 @@ logo: full
 <div class="band__content"><div class="row"><div class="col" style="--span: 12; --of: 12"><div class="row"><div class="col" style="--span: 6; --of: 12"><div class="b b--html"><h2>Founder Focused.</h2></div><div class="row"><div class="col" style="--span: 5; --of: 6"><div class="b b--horizontalrule"><hr class="rule"></div></div><div class="col" style="--span: 1; --of: 6"><div class="b b--spacer"><div class="spacer vsize-1"></div></div></div></div></div><div class="col" style="--span: 6; --of: 12"><div class="b b--html"><p class="sqsrte-large">Investment banking for technology companies. Partnering with founders to sell or raise capital.  Your success is our singular focus.</p></div></div></div></div></div></div>
 </section>
 
-<section class="band band--white ha-center va-middle has-bg" style="--bg: url('/images/pages/demo-2.jpg'); --pt: calc(60vmax / 10); --pb: calc(60vmax / 10); min-height: 60vh;">
+<section class="band band--white ha-center va-middle has-bg" style="--bg: url('/images/pages/demo-b0fa9165.jpg'); --pt: calc(60vmax / 10); --pb: calc(60vmax / 10); min-height: 60vh;">
 <div class="band__content"><div class="row"><div class="col" style="--span: 12; --of: 12"><div class="row"><div class="col" style="--span: 4; --of: 12"><div class="b b--html"><h3><strong>Entrepreneurial</strong></h3><p>Bootstrapping, managing growth, or prepping for an exit? We’ve been there. Many PEAK team members have operated companies themselves. </p></div><div class="row"><div class="col" style="--span: 2; --of: 4"><div class="b b--horizontalrule"><hr class="rule"></div></div><div class="col" style="--span: 2; --of: 4"><div class="b b--spacer"><div class="spacer vsize-1"></div></div></div></div></div><div class="col" style="--span: 4; --of: 12"><div class="b b--html"><h3><strong>Dedicated</strong></h3><p>When we partner with you, we become a part of your team. We’ll channel our grit and determination to ensure we achieve a favorable outcome, together.</p></div><div class="row"><div class="col" style="--span: 2; --of: 4"><div class="b b--horizontalrule"><hr class="rule"></div></div><div class="col" style="--span: 2; --of: 4"><div class="b b--spacer"><div class="spacer vsize-1"></div></div></div></div></div><div class="col" style="--span: 4; --of: 12"><div class="b b--html"><h3><strong>Aligned </strong></h3><p>We’re on your side. We only ever serve sellers and we structure our incentives to focus on successful outcomes with maximized valuations. </p></div><div class="row"><div class="col" style="--span: 2; --of: 4"><div class="b b--horizontalrule"><hr class="rule"></div></div><div class="col" style="--span: 2; --of: 4"><div class="b b--spacer"><div class="spacer vsize-1"></div></div></div></div></div></div></div></div></div>
 </section>
 
@@ -24,5 +25,5 @@ logo: full
 </section>
 
 <section class="band band--light-bold h-medium w-medium ha-center va-middle">
-<div class="band__content"><div class="row"><div class="col" style="--span: 6; --of: 12"><div class="b b--html"><h1>Access</h1><p>In over five decades of sell-side banking, we’ve built strong relationships with buyers and investors across the global technology ecosystem.</p></div></div><div class="col" style="--span: 6; --of: 12"><div class="b b--spacer"><div class="spacer vsize-1"></div></div></div></div><div class="row"><div class="col" style="--span: 12; --of: 12"><div class="b b--spacer"><div class="spacer vsize-1"></div></div><div class="b b--image"><figure class="image"><img src="/images/pages/demo-3.png" alt="Logo-Buyers-wall-2-01.png" loading="lazy"></figure></div><div class="b b--spacer"><div class="spacer vsize-1"></div></div></div></div></div>
+<div class="band__content"><div class="row"><div class="col" style="--span: 6; --of: 12"><div class="b b--html"><h1>Access</h1><p>In over five decades of sell-side banking, we’ve built strong relationships with buyers and investors across the global technology ecosystem.</p></div></div><div class="col" style="--span: 6; --of: 12"><div class="b b--spacer"><div class="spacer vsize-1"></div></div></div></div><div class="row"><div class="col" style="--span: 12; --of: 12"><div class="b b--spacer"><div class="spacer vsize-1"></div></div><div class="b b--image"><figure class="image"><img src="/images/pages/demo-d7803b79.png" alt="Logo-Buyers-wall-2-01.png" loading="lazy"></figure></div><div class="b b--spacer"><div class="spacer vsize-1"></div></div></div></div></div>
 </section>

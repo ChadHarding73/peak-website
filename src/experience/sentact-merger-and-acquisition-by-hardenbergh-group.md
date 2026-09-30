@@ -3,7 +3,8 @@ title: >-
   Peak Technology Partners Advises Sentact on its Acquisition by Hardenbergh
   Group
 date: '2025-05-30'
-image: /images/experience/sentact-merger-and-acquisition-by-hardenbergh-group.png
+image: >-
+  /images/experience/sentact-merger-and-acquisition-by-hardenbergh-group-3306c7bd.png
 categories:
   - Merger & Acquisition
   - Analytics
@@ -18,7 +19,7 @@ seoTitle: >-
   Peak Technology Partners Advises Sentact on its Acquisition by Hardenbergh
   Group — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/sentact-merger-and-acquisition-by-hardenbergh-group-2.png
+ogImage: ''
 sqsId: 6841d3c2a175727146c0e47c
 sqsOrder: 6
 ---

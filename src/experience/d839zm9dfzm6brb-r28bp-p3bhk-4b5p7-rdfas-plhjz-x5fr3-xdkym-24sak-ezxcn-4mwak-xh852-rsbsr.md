@@ -2,7 +2,7 @@
 title: DCI acquired by Marlin Equity
 date: '2021-01-28'
 image: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr.jpg
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-aa20fae5.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -14,8 +14,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: DCI acquired by Marlin Equity — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-2.jpg
+ogImage: ''
 sqsId: 601353e3ccabb90d3ba74f5b
 sqsOrder: 62
 ---

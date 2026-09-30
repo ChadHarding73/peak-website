@@ -2,7 +2,7 @@
 title: Portico Systems acquired by McKesson
 date: '2021-01-05'
 image: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-b8d2d405.jpg
 categories:
   - Strategic
   - Merger & Acquisition
@@ -13,8 +13,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Portico Systems acquired by McKesson — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-2.jpg
+ogImage: ''
 sqsId: 5ff53c70ada5017f0bf9181f
 sqsOrder: 97
 ---

@@ -2,12 +2,13 @@
 title: Error Page
 seoTitle: Error Page — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/pages/the-impact-of-doge-on-government-software-companies-2.png
+ogImage: >-
+  /images/pages/arbitration-00376040.png
 sqsId: 60182e2054379c62eb818d34
 headerTheme: light
 logo: full
 ---
-<section class="band band--light h-custom w-medium ha-left va-bottom has-bg" style="--bg: url('/images/pages/demo.jpg'); --pt: calc(10vmax / 5);">
+<section class="band band--light h-custom w-medium ha-left va-bottom has-bg" style="--bg: url('/images/pages/demo-55f37932.jpg'); --pt: calc(10vmax / 5);">
 <div class="band__content"><div class="row"><div class="col" style="--span: 12; --of: 12"></div></div></div>
 </section>
 

@@ -2,7 +2,7 @@
 title: Odyssey Software acquired by Symantec
 date: '2021-01-05'
 image: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-4e84c3ca.jpg
 categories:
   - Strategic
   - Merger & Acquisition
@@ -13,8 +13,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Odyssey Software acquired by Symantec — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-2.jpg
+ogImage: ''
 sqsId: 5ff535d32677a963ff551f2c
 sqsOrder: 98
 ---

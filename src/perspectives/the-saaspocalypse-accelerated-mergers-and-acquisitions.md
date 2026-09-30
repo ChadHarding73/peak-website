@@ -2,7 +2,7 @@
 title: 'The “SaaSpocalypse” Didn’t Slow Down M&A - It Accelerated It. '
 date: '2026-04-13'
 image: >-
-  /images/perspectives/the-saaspocalypse-accelerated-mergers-and-acquisitions.jpg
+  /images/perspectives/the-saaspocalypse-accelerated-mergers-and-acquisitions-a7f7cd17.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -31,8 +31,7 @@ seoTitle: >-
 seoDescription: >-
   If you've been watching AI disruption headlines and waiting for a cleaner
   signal, you may already be looking at it.
-ogImage: >-
-  /images/perspectives/the-saaspocalypse-accelerated-mergers-and-acquisitions-2.jpg
+ogImage: ''
 sqsId: 69d85255e0340c22820ea025
 sqsOrder: 0
 ---

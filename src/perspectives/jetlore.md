@@ -1,7 +1,8 @@
 ---
 title: 'Go the Extra Mile: Jetlore Acquired by PayPal'
 date: '2021-02-01'
-image: /images/perspectives/jetlore.jpg
+image: >-
+  /images/perspectives/jetlore-cf53741f.jpg
 categories:
   - Case Study
 sqsTags: []
@@ -16,7 +17,7 @@ seoDescription: >-
   and to have a strong acquisition rationale for any individual buyer. Our
   ability to develop a strong acquisition thesis for a less-than-obvious buyer
   enabled us to create an optimal outcome for Jetlore.
-ogImage: /images/perspectives/jetlore-2.jpg
+ogImage: ''
 sqsId: 601c06692f537f095a09e4b5
 sqsOrder: 46
 ---

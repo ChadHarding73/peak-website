@@ -3,7 +3,8 @@ title: >-
   Peak Technology Partners Delivers Another Milestone Deal in Digital Health
   with Dazos’ $25M Series A
 date: '2025-05-19'
-image: /images/experience/dazos-series-a-capital-raise.png
+image: >-
+  /images/experience/dazos-series-a-capital-raise-f84d5192.png
 categories:
   - Capital Raise
   - Healthcare
@@ -18,7 +19,7 @@ seoTitle: >-
   Peak Technology Partners Delivers Another Milestone Deal in Digital Health
   with Dazos’ $25M Series A — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/dazos-series-a-capital-raise-2.png
+ogImage: ''
 sqsId: 6841d846fb28ea78305f53e1
 sqsOrder: 7
 ---

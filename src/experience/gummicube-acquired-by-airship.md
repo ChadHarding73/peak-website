@@ -1,7 +1,8 @@
 ---
 title: Gummicube acquired by Airship
 date: '2022-06-02'
-image: /images/experience/gummicube-acquired-by-airship.png
+image: >-
+  /images/experience/gummicube-acquired-by-airship-7faaff4a.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -13,7 +14,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Gummicube acquired by Airship — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/gummicube-acquired-by-airship-2.png
+ogImage: ''
 sqsId: 629940379d01264b8fe1caaf
 sqsOrder: 28
 ---

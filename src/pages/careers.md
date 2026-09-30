@@ -7,7 +7,8 @@ seoDescription: >-
   reaching for your next challenge. We foster an environment of balance and
   flexibility, collaboration, and mentorship and training. Learn more about our
   available positions and start your career at PEAK.
-ogImage: /images/pages/the-impact-of-doge-on-government-software-companies-2.png
+ogImage: >-
+  /images/pages/arbitration-00376040.png
 sqsId: 5fc6adadcb3e0f57713d2cac
 headerTheme: white
 logo: mark-black

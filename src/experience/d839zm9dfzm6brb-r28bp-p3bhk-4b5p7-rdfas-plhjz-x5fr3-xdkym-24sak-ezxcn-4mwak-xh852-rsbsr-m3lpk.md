@@ -2,7 +2,7 @@
 title: BzzAgent acquired by PowerReviews
 date: '2021-01-28'
 image: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk.jpg
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-3a6ccb35.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -13,8 +13,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: BzzAgent acquired by PowerReviews — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-rsbsr-m3lpk-2.jpg
+ogImage: ''
 sqsId: 60135b1cccabb90d3ba7f1b2
 sqsOrder: 61
 ---

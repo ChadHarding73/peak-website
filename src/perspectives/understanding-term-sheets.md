@@ -1,7 +1,8 @@
 ---
 title: 'Understanding Term Sheets: A Guide for Software Company Founders'
 date: '2025-04-01'
-image: /images/perspectives/understanding-term-sheets.png
+image: >-
+  /images/perspectives/understanding-term-sheets-8372b907.png
 categories: []
 sqsTags: []
 excerpt: >-
@@ -28,7 +29,7 @@ seoDescription: >-
   funding sources, management roles post-transaction, and the due diligence
   process.   A strong grasp of these elements empowers founders to negotiate
   better terms and avoid costly pitfalls in M&amp;A or fundraising scenarios.
-ogImage: /images/perspectives/understanding-term-sheets-2.png
+ogImage: ''
 sqsId: 67ec2211c4a28b34bd0e0a06
 sqsOrder: 23
 ---

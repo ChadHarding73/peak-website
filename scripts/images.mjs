@@ -11,7 +11,7 @@ for (const f of await readdir('src/_includes/partials')) if (f.endsWith('.njk'))
 const refs = [];
 for (const f of files) {
   const text = await readFile(f.path, 'utf8');
-  [...text.matchAll(IMAGE_HOSTS)].forEach((m, i) => refs.push({ url: m[0], stem: i === 0 ? f.slug : `${f.slug}-${i + 1}`, dir: f.dir }));
+  for (const m of text.matchAll(IMAGE_HOSTS)) refs.push({ url: m[0], stem: f.slug, dir: f.dir });
 }
 const names = assignNames(refs);
 const dirOf = new Map(refs.map(r => [originalUrl(r.url), r.dir]));

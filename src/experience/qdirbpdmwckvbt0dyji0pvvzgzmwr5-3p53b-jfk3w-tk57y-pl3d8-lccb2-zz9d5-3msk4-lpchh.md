@@ -2,7 +2,7 @@
 title: WorkWave acquired by Chicago Growth Partners
 date: '2021-01-05'
 image: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-9ed3f76f.jpg
 categories:
   - Merger & Acquisition
   - Productivity
@@ -16,8 +16,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: WorkWave acquired by Chicago Growth Partners — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-2.jpg
+ogImage: ''
 sqsId: 5ff5438726996c5a85513a3f
 sqsOrder: 95
 ---

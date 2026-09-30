@@ -3,7 +3,8 @@ title: >-
   75% of PE Deals Are Now Add-Ons. What Is an Add-On, and What Does That Mean
   for Your Business?
 date: '2026-04-07'
-image: /images/perspectives/what-is-an-add-on.jpg
+image: >-
+  /images/perspectives/what-is-an-add-on-33ee0ad6.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -28,7 +29,7 @@ seoTitle: >-
 seoDescription: >-
   75% of PE buyouts are now add-ons. That single fact reshapes who the most
   motivated buyers in the market actually are and what it means for your exit.
-ogImage: /images/perspectives/what-is-an-add-on-2.jpg
+ogImage: ''
 sqsId: 69d54e22d9bffa73166eb9f0
 sqsOrder: 2
 ---

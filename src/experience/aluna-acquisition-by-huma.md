@@ -1,7 +1,8 @@
 ---
 title: Peak Technology Partners Advises Aluna on its Acquisition by Huma
 date: '2025-05-16'
-image: /images/experience/aluna-acquisition-by-huma.png
+image: >-
+  /images/experience/aluna-acquisition-by-huma-4bfa96b3.png
 categories:
   - Healthcare
   - SaaS
@@ -15,7 +16,7 @@ seoTitle: >-
   Peak Technology Partners Advises Aluna on its Acquisition by Huma — Peak
   Technology Partners
 seoDescription: ''
-ogImage: /images/experience/aluna-acquisition-by-huma-2.png
+ogImage: ''
 sqsId: 68150a47d356c16543e1baad
 sqsOrder: 8
 ---

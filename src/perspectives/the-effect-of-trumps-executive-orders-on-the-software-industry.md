@@ -2,7 +2,7 @@
 title: The Effect of Trump’s Executive Orders on the Software Industry
 date: '2025-01-24'
 image: >-
-  /images/perspectives/the-effect-of-trumps-executive-orders-on-the-software-industry.jpg
+  /images/perspectives/the-effect-of-trumps-executive-orders-on-the-software-industry-2cfa63ca.jpg
 categories: []
 sqsTags: []
 excerpt: "<p>President Trump's recent executive orders are set to reshape the software industry, particularly in AI and digital financial tech. Key actions include a shift toward deregulation to accelerate AI development, a $500 billion AI infrastructure project, and a focus on U.S. leadership in digital assets. Additionally, changes to TikTok's future in the U.S. and the removal of federal Diversity, Equity, and Inclusion initiatives could impact software companies' strategies. These shifts present both opportunities and challenges for tech innovation, regulatory uncertainty, and workplace policies.\_</p>"
@@ -18,8 +18,7 @@ seoDescription: >-
   federal Diversity, Equity, and Inclusion initiatives could impact software
   companies' strategies. These shifts present both opportunities and challenges
   for tech innovation, regulatory uncertainty, and workplace policies.&nbsp;
-ogImage: >-
-  /images/perspectives/the-effect-of-trumps-executive-orders-on-the-software-industry-2.jpg
+ogImage: ''
 sqsId: 6793c8ce95e39346c117a034
 sqsOrder: 35
 ---

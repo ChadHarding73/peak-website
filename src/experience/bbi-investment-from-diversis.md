@@ -1,7 +1,8 @@
 ---
 title: Black Box Intelligence receives investment from Diversis Capital
 date: '2021-02-09'
-image: /images/experience/bbi-investment-from-diversis.png
+image: >-
+  /images/experience/bbi-investment-from-diversis-2963d1c4.png
 categories:
   - Financial
   - SaaS
@@ -15,7 +16,7 @@ seoTitle: >-
   Black Box Intelligence receives investment from Diversis Capital — Peak
   Technology Partners
 seoDescription: ''
-ogImage: /images/experience/bbi-investment-from-diversis-2.png
+ogImage: ''
 sqsId: 60258aa5f0af0e319dcbfbb2
 sqsOrder: 48
 ---

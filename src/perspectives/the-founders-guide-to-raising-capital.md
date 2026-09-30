@@ -3,7 +3,8 @@ title: >-
   The Founder’s Guide to Raising Capital: Key Considerations and the Role of an
   Investment Bank
 date: '2025-03-11'
-image: /images/perspectives/the-founders-guide-to-raising-capital.png
+image: >-
+  /images/perspectives/the-founders-guide-to-raising-capital-8fd72fa0.png
 categories: []
 sqsTags: []
 excerpt: >-
@@ -36,7 +37,7 @@ seoDescription: >-
   fundraising can optimize valuation, expand investor access, and streamline the
   process.   Ultimately, founders who approach capital raising with clarity,
   preparation, and the right partners will maximize their chances of success.
-ogImage: /images/perspectives/the-founders-guide-to-raising-capital-2.png
+ogImage: ''
 sqsId: 67d060a9f1613a40846207b7
 sqsOrder: 26
 ---

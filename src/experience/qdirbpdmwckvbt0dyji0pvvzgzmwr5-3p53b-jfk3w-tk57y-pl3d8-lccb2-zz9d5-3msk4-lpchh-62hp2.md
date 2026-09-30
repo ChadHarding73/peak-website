@@ -2,7 +2,7 @@
 title: AppCentral acquired by Good Technology
 date: '2021-01-05'
 image: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-ad825120.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -13,8 +13,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: AppCentral acquired by Good Technology — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-2.jpg
+ogImage: ''
 sqsId: 5ff54605e9a1c0799c60f110
 sqsOrder: 94
 ---

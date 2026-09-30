@@ -3,7 +3,8 @@ title: >-
   Peak Technology Partners Serves as Exclusive Financial Advisor to Mobohubb on
   Its Acquisition by Guardhouse
 date: '2026-08-24'
-image: /images/experience/mobohubb-acquired-by-guardhouse.png
+image: >-
+  /images/experience/mobohubb-acquired-by-guardhouse-bd17eddf.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -17,7 +18,7 @@ seoTitle: >-
   Peak Technology Partners Serves as Exclusive Financial Advisor to Mobohubb on
   Its Acquisition by Guardhouse — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/mobohubb-acquired-by-guardhouse-2.png
+ogImage: ''
 sqsId: 6a875f5f5e47cc016ce076bc
 sqsOrder: 0
 ---

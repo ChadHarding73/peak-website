@@ -2,7 +2,7 @@
 title: EverWash receives investment from Spring Mountain Capital
 date: '2022-03-02'
 image: >-
-  /images/experience/everwash-receives-investment-from-spring-mountain-capital.png
+  /images/experience/everwash-receives-investment-from-spring-mountain-capital-031bcfbf.png
 categories:
   - Capital Raise
   - Financial
@@ -17,8 +17,7 @@ seoTitle: >-
   EverWash receives investment from Spring Mountain Capital — Peak Technology
   Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/everwash-receives-investment-from-spring-mountain-capital-2.png
+ogImage: ''
 sqsId: 651f1ebbdd16a11a2c0625b6
 sqsOrder: 31
 ---

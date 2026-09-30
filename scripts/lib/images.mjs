@@ -1,3 +1,4 @@
+import { createHash } from 'node:crypto';
 export const IMAGE_HOSTS = /https?:\/\/(?:images\.squarespace-cdn\.com|static1\.squarespace\.com)\/[^\s"'<>)?]+(?:\?[^\s"'<>)]*)?/g;
 
 export function originalUrl(u) {
@@ -11,16 +12,16 @@ export function localName(u, stem) {
   return `${stem}.${ext === 'jpeg' ? 'jpg' : ext}`;
 }
 
+// A local name is the file's stem plus a fingerprint of its source URL. Different uploads can
+// never share a name, and a re-run always maps a URL to the same file (so a cached file is
+// always the right one). This replaced positional names, which re-runs silently reused.
 export function assignNames(refs) {
   const byUrl = new Map();
-  const used = new Set();
   for (const { url, stem } of refs) {
     const key = originalUrl(url);
     if (byUrl.has(key)) continue;
-    let name = localName(key, stem);
-    for (let n = 2; used.has(name); n++) name = localName(key, `${stem}-${n}`);
-    used.add(name);
-    byUrl.set(key, name);
+    const fp = createHash('sha1').update(key).digest('hex').slice(0, 8);
+    byUrl.set(key, localName(key, `${stem}-${fp}`));
   }
   return byUrl;
 }

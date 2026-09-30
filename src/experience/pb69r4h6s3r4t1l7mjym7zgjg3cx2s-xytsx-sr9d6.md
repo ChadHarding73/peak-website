@@ -1,7 +1,8 @@
 ---
 title: Bloodhound Technologies acquired by Verisk Analytics
 date: '2020-12-16'
-image: /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-xytsx-sr9d6.jpg
+image: >-
+  /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-xytsx-sr9d6-e9c56331.jpg
 categories:
   - Merger & Acquisition
   - SaaS
@@ -15,7 +16,7 @@ seoTitle: >-
   Bloodhound Technologies acquired by Verisk Analytics — Peak Technology
   Partners
 seoDescription: ''
-ogImage: /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-xytsx-sr9d6-2.jpg
+ogImage: ''
 sqsId: 5fdaa24020a50f31401d9977
 sqsOrder: 105
 ---

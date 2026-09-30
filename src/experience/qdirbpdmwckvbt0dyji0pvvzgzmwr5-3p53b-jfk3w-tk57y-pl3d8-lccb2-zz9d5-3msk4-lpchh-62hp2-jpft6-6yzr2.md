@@ -2,7 +2,7 @@
 title: Snagajob receives investment from Split Rock Partners
 date: '2021-01-05'
 image: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-d20d40af.jpg
 categories:
   - Capital Raise
   - Financial
@@ -14,8 +14,7 @@ seoTitle: >-
   Snagajob receives investment from Split Rock Partners — Peak Technology
   Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-2.jpg
+ogImage: ''
 sqsId: 5ff5528d57c1e706a54958d0
 sqsOrder: 92
 ---

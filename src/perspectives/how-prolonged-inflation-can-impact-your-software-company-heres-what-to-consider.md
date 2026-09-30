@@ -2,7 +2,7 @@
 title: 'How Prolonged Inflation Can Impact Your Software Company and What to Consider '
 date: '2025-02-12'
 image: >-
-  /images/perspectives/how-prolonged-inflation-can-impact-your-software-company-heres-what-to-consider.jpg
+  /images/perspectives/how-prolonged-inflation-can-impact-your-software-company-heres-what-to-consider-979b2137.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -24,8 +24,7 @@ seoDescription: >-
   navigate these economic pressures, maintain financial stability, and continue
   to grow? This article explores key risks, strategic adjustments, and
   actionable steps to help your business stay resilient.
-ogImage: >-
-  /images/perspectives/how-prolonged-inflation-can-impact-your-software-company-heres-what-to-consider-2.jpg
+ogImage: ''
 sqsId: 67acdfeda6c8bc7ef94ce8cc
 sqsOrder: 31
 ---

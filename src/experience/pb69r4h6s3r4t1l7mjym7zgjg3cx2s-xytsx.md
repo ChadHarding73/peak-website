@@ -1,7 +1,8 @@
 ---
 title: eZuce acquired by CoreDial
 date: '2021-01-30'
-image: /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-xytsx.jpg
+image: >-
+  /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-xytsx-cbb8ee20.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -14,7 +15,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: eZuce acquired by CoreDial — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-xytsx-2.jpg
+ogImage: ''
 sqsId: 5fda7425c4d8491c57f08ebc
 sqsOrder: 52
 ---

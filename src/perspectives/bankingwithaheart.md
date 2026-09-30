@@ -1,7 +1,8 @@
 ---
 title: Banking with a Heart
 date: '2021-02-01'
-image: /images/perspectives/bankingwithaheart.png
+image: >-
+  /images/perspectives/bankingwithaheart-fffe0ea3.png
 categories:
   - Thoughts
 sqsTags: []
@@ -12,7 +13,7 @@ seoTitle: Banking with a Heart — Peak Technology Partners
 seoDescription: >-
   Pencils Down Podcast with Finalis' CEO and Host, Federico Baradello and PEAK
   Technology Partners' Founder and Managing Partner, Chad Harding
-ogImage: /images/perspectives/bankingwithaheart-2.png
+ogImage: ''
 sqsId: 6376c7d24a97ca193c896304
 sqsOrder: 42
 ---

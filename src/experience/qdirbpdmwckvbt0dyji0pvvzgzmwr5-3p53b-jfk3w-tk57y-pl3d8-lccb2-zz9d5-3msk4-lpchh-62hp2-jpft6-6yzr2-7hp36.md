@@ -2,7 +2,7 @@
 title: Channel Intelligence acquired by Google
 date: '2021-01-05'
 image: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-6b8b6a7a.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -14,8 +14,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Channel Intelligence acquired by Google — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-2.jpg
+ogImage: ''
 sqsId: 5ff5567ec0e43812a5f69080
 sqsOrder: 91
 ---

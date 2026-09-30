@@ -2,7 +2,7 @@
 title: Jetlore acquired by PayPal
 date: '2021-01-28'
 image: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852.jpg
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-acd40c2a.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -17,8 +17,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Jetlore acquired by PayPal — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-ezxcn-4mwak-xh852-2.jpg
+ogImage: ''
 sqsId: 60134e2b9a737517cf184c91
 sqsOrder: 63
 ---

@@ -1,7 +1,8 @@
 ---
 title: The Art and Science of Building the Right Buyer List
 date: '2025-11-10'
-image: /images/perspectives/buyer-list.jpg
+image: >-
+  /images/perspectives/buyer-list-916b9be6.jpg
 categories: []
 sqsTags: []
 excerpt: >-
@@ -23,7 +24,7 @@ seoDescription: >-
   data rooms, it highlights how disciplined execution can shape valuation and
   outcomes. The approach reflects Peak Technology Partners’ commitment to
   precision, discretion, and strategic insight in every transaction.
-ogImage: /images/perspectives/buyer-list-2.jpg
+ogImage: ''
 sqsId: 69125756e151d72207e5cb44
 sqsOrder: 12
 ---

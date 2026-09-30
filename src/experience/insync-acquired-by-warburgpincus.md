@@ -1,7 +1,8 @@
 ---
 title: InSync acquired by Qualifacts  and Credible
 date: '2021-12-15'
-image: /images/experience/insync-acquired-by-warburgpincus.png
+image: >-
+  /images/experience/insync-acquired-by-warburgpincus-f5065df3.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -14,7 +15,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: InSync acquired by Qualifacts  and Credible — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/insync-acquired-by-warburgpincus-2.png
+ogImage: ''
 sqsId: 61bbebc1caec3c3d222c4ad4
 sqsOrder: 34
 ---

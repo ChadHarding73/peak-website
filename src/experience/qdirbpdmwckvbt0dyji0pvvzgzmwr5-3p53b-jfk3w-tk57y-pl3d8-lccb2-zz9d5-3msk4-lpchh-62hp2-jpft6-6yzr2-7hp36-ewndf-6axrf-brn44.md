@@ -2,7 +2,7 @@
 title: Healthation receives investment from ABS Capital / Hughes & Company
 date: '2021-01-06'
 image: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-89f50546.jpg
 categories:
   - Capital Raise
   - Financial
@@ -15,8 +15,7 @@ seoTitle: >-
   Healthation receives investment from ABS Capital / Hughes & Company — Peak
   Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-2.jpg
+ogImage: ''
 sqsId: 5ff672d650a3eb131d926063
 sqsOrder: 88
 ---

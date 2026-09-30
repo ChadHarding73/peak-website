@@ -2,7 +2,7 @@
 title: Logi Analytics investment from LLR Partners
 date: '2021-01-06'
 image: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-341f6e0f.jpg
 categories:
   - Capital Raise
   - Financial
@@ -14,8 +14,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Logi Analytics investment from LLR Partners — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-2.jpg
+ogImage: ''
 sqsId: 5ff6860a8df79a27c37473c8
 sqsOrder: 84
 ---

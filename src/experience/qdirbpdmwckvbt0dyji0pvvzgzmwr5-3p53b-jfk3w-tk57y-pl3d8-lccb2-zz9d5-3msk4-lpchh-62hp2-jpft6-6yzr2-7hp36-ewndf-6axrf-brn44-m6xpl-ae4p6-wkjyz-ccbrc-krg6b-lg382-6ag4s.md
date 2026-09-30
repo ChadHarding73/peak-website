@@ -2,7 +2,7 @@
 title: Market Metrix acquired by Clarabridge
 date: '2021-01-06'
 image: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s-3cba5910.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -16,8 +16,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Market Metrix acquired by Clarabridge — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-lpchh-62hp2-jpft6-6yzr2-7hp36-ewndf-6axrf-brn44-m6xpl-ae4p6-wkjyz-ccbrc-krg6b-lg382-6ag4s-2.jpg
+ogImage: ''
 sqsId: 5ff6a7509b1bb001407945f6
 sqsOrder: 81
 ---

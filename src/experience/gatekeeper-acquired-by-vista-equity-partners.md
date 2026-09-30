@@ -1,7 +1,8 @@
 ---
 title: Gatekeeper acquired by Vista Equity Partners
 date: '2023-10-18'
-image: /images/experience/gatekeeper-acquired-by-vista-equity-partners.png
+image: >-
+  /images/experience/gatekeeper-acquired-by-vista-equity-partners-0a436284.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -12,7 +13,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Gatekeeper acquired by Vista Equity Partners — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/gatekeeper-acquired-by-vista-equity-partners-2.png
+ogImage: ''
 sqsId: 6530248290444f3a0cd69ef2
 sqsOrder: 16
 ---

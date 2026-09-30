@@ -1,7 +1,8 @@
 ---
 title: Apilayer Acquired by Idera
 date: '2021-01-30'
-image: /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862-69ca7.jpg
+image: >-
+  /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862-69ca7-69086d3d.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -12,7 +13,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Apilayer Acquired by Idera — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/pb69r4h6s3r4t1l7mjym7zgjg3cx2s-sf862-69ca7-2.jpg
+ogImage: ''
 sqsId: 5fda99608f93be18d4524a3e
 sqsOrder: 49
 ---

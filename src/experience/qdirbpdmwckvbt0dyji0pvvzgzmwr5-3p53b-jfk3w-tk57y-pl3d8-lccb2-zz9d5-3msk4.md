@@ -2,7 +2,7 @@
 title: Solutionreach receives investment from Summit Partners
 date: '2021-01-05'
 image: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4.jpg
+  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-cefc9395.jpg
 categories:
   - Capital Raise
   - Financial
@@ -17,8 +17,7 @@ seoTitle: >-
   Solutionreach receives investment from Summit Partners — Peak Technology
   Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/qdirbpdmwckvbt0dyji0pvvzgzmwr5-3p53b-jfk3w-tk57y-pl3d8-lccb2-zz9d5-3msk4-2.jpg
+ogImage: ''
 sqsId: 5ff53df810b8ec33bb8eeb5d
 sqsOrder: 96
 ---

@@ -1,7 +1,8 @@
 ---
 title: eversign acquired by PDFTron
 date: '2022-11-16'
-image: /images/experience/eversign-acquired-by-pdftron.png
+image: >-
+  /images/experience/eversign-acquired-by-pdftron-ac7757bb.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -14,7 +15,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: eversign acquired by PDFTron — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/eversign-acquired-by-pdftron-2.png
+ogImage: ''
 sqsId: 63752765902bf40dd8d5e49e
 sqsOrder: 21
 ---

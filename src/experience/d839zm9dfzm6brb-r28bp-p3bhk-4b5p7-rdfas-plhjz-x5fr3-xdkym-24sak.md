@@ -2,7 +2,7 @@
 title: FlowJo acquired by Becton Dickinson
 date: '2021-01-25'
 image: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak.jpg
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-115640e4.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -13,8 +13,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: FlowJo acquired by Becton Dickinson — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-24sak-2.jpg
+ogImage: ''
 sqsId: 600fb41a43ce1c7121d5c68c
 sqsOrder: 65
 ---

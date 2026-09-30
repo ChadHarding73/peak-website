@@ -1,7 +1,8 @@
 ---
 title: 'Faces of the Lower Middle Market: Investment Bankers'
 date: '2018-06-06'
-image: /images/perspectives/axial.jpg
+image: >-
+  /images/perspectives/axial-8972d1c1.jpg
 categories:
   - Thoughts
 sqsTags: []
@@ -10,7 +11,7 @@ seoTitle: >-
   Faces of the Lower Middle Market: Investment Bankers — Peak Technology
   Partners
 seoDescription: Excerpt from David Stevenson’s 2021 interview with Axial.
-ogImage: /images/perspectives/axial-2.jpg
+ogImage: ''
 sqsId: 617b182a35223e56684dc640
 sqsOrder: 55
 ---

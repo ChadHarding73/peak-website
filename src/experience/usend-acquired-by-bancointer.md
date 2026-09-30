@@ -1,7 +1,8 @@
 ---
 title: USEND acquired by Banco Inter
 date: '2022-02-03'
-image: /images/experience/usend-acquired-by-bancointer.png
+image: >-
+  /images/experience/usend-acquired-by-bancointer-b69f1d32.png
 categories:
   - Merger & Acquisition
   - Strategic
@@ -10,7 +11,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: USEND acquired by Banco Inter — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/usend-acquired-by-bancointer-2.png
+ogImage: ''
 sqsId: 61fc011ff1a3017e73a7b2e0
 sqsOrder: 33
 ---

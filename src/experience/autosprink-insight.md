@@ -3,7 +3,8 @@ title: >-
   Peak Technology Partners Advises M.E.P.CAD, Inc., Developer of AutoSPRINK and
   AlarmCAD, on Its Sale to VisualLogix
 date: '2026-03-17'
-image: /images/experience/autosprink-insight.png
+image: >-
+  /images/experience/autosprink-insight-510596c5.png
 categories:
   - Merger & Acquisition
   - SaaS
@@ -16,7 +17,7 @@ seoTitle: >-
   Peak Technology Partners Advises M.E.P.CAD, Inc., Developer of AutoSPRINK and
   AlarmCAD, on Its Sale to VisualLogix — Peak Technology Partners
 seoDescription: ''
-ogImage: /images/experience/autosprink-insight-2.png
+ogImage: ''
 sqsId: 691557353f17481317925130
 sqsOrder: 1
 ---

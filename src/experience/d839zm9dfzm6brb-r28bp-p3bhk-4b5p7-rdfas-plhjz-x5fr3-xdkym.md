@@ -2,7 +2,7 @@
 title: Aptexx acquired by Property Brands
 date: '2021-01-25'
 image: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym.jpg
+  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-e1a974c6.jpg
 categories:
   - Merger & Acquisition
   - Strategic
@@ -14,8 +14,7 @@ sqsTags: []
 excerpt: ''
 seoTitle: Aptexx acquired by Property Brands — Peak Technology Partners
 seoDescription: ''
-ogImage: >-
-  /images/experience/d839zm9dfzm6brb-r28bp-p3bhk-4b5p7-rdfas-plhjz-x5fr3-xdkym-2.jpg
+ogImage: ''
 sqsId: 600fb011ec3c9609cc1ab7cf
 sqsOrder: 66
 ---

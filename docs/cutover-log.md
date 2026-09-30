@@ -18,8 +18,15 @@ Full before/after snapshots: `baseline/dns-before.txt`, `baseline/dns-after.txt`
 
 ## Netlify
 - Custom domains added: peak-tech.com and www.peak-tech.com. Both are DNS-verified.
-- Let's Encrypt certificate: pending at the time of writing (Netlify waits for its resolvers to see the new records).
-- Primary domain: Netlify set peak-tech.com as primary and won't change it while the certificate is provisioning (API: "you cannot change custom domains until that process completes"). Switch www.peak-tech.com to primary as soon as the certificate is issued, to match the old canonical host.
+- Let's Encrypt certificate: issued 2026-09-30 17:35 UTC (10:35 AM PT) for peak-tech.com and www.peak-tech.com, valid to 2026-12-29 and auto-renewed. It went live about 30 minutes after the DNS change.
+- Primary domain: www.peak-tech.com (switched once the certificate existed; before that Netlify refused with "you cannot change custom domains until that process completes"). HTTPS is forced.
+
+## Post-cutover checks (2026-09-30, about 11:35 AM PT)
+- Redirects: https://peak-tech.com → 301 https://www.peak-tech.com/; http → 301 https; /transactions → 301 /experience.
+- All 233 baseline URLs, both slash forms (465 requests), return 200 on https://www.peak-tech.com. One transient connection error on /investment-banking-analyst passed on 6 retries.
+- Google Analytics G-3K4D2PRNEL present on live pages; no noindex; canonical https://www.peak-tech.com/; robots.txt points to the sitemap.
+- Mail: inbound delivery to chad@peak-tech.com confirmed by Chad (12 s, through Google MX). Mail DNS records unchanged per the before/after diff.
+- Contact form: Netlify Forms → contact@peak-tech.com (tested before cutover). Visitors still on cached old DNS reach the Squarespace form, which also emails contact@peak-tech.com, so no submission is lost in the transition.
 
 ## Rollback (if ever needed)
 Delete the two new records in Squarespace DNS and re-add the "Squarespace Defaults" preset (Add Preset). The Squarespace site is still live behind it until the website plan is cancelled (not before about 2026-10-30).

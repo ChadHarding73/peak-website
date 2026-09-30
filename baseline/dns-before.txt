@@ -1,0 +1,42 @@
+== A
+== CAA
+== MX
+== NS
+== TXT
+== _dmarc
+== _domainconnect
+== brevo1._domainkey
+== brevo2._domainkey
+== google._domainkey
+== squarespace._domainkey
+== www
+_dmarc.peak-tech.com.	1800	IN	TXT	"v=DMARC1; p=quarantine; pct=25; rua=mailto:re+qtscfc7arys@dmarc.postmarkapp.com; sp=none; aspf=r;"
+_dmarc.peak-tech.com.	3600	IN	HINFO	"RFC8482" ""
+_domainconnect.peak-tech.com. 14400 IN	CNAME	_domainconnect.domains.squarespace.com.
+brevo1._domainkey.peak-tech.com. 14400 IN CNAME	b1.peak-tech-com.dkim.brevo.com.
+brevo2._domainkey.peak-tech.com. 14400 IN CNAME	b2.peak-tech-com.dkim.brevo.com.
+google._domainkey.peak-tech.com. 300 IN	TXT	"v=DKIM1;k=rsa;p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr3alCJ5q46/MO4N9wZzsu2FMsP/RsGx73f6p2yOfY3ckHdNlBkxwW1gNmjaPimb6DaicH4BkPY9Dz0gZqbJ1L6ZnFhYl9dKC5Ctooj1g7Md54WOTGCySrbhjb87vWfhpx9GvrGcsTwhx8nJqvK6Ncw71A4g71gBpc4pXLURHMFZwq0we0NCWaUeDZEyhYLX7qHy" "qQQTabBOEUBNLQYq/2s6I8HXAQOc1Tw3KTbhDzNnEkC2Ni0c8vgpoZ8yrRoWzEjo4qVjNJnVXhVrQ/KaNTWTXC/MqJBeDeMEEBc2uFlaNOSLKDAhSUauJd+k2LGBlcv0NOTfjwnStMqChFBUK7QIDAQAB"
+google._domainkey.peak-tech.com. 3600 IN HINFO	"RFC8482" ""
+peak-tech.com.		14400	IN	A	198.185.159.144
+peak-tech.com.		14400	IN	A	198.185.159.145
+peak-tech.com.		14400	IN	A	198.49.23.144
+peak-tech.com.		14400	IN	A	198.49.23.145
+peak-tech.com.		14400	IN	MX	1 aspmx.l.google.com.
+peak-tech.com.		14400	IN	MX	10 alt3.aspmx.l.google.com.
+peak-tech.com.		14400	IN	MX	10 alt4.aspmx.l.google.com.
+peak-tech.com.		14400	IN	MX	5 alt1.aspmx.l.google.com.
+peak-tech.com.		14400	IN	MX	5 alt2.aspmx.l.google.com.
+peak-tech.com.		14400	IN	TXT	"asv=f261f951f54c56ecf95a581ce26ce0c7"
+peak-tech.com.		14400	IN	TXT	"google-site-verification=9YdpHzTb-uVOBWt_tG_wCGYDO9iR5QGpX3ED2pWIAXw"
+peak-tech.com.		14400	IN	TXT	"google-site-verification=kU0oq-Gdaj6IXtpijSriDX6n_9mJQKcOSOtbdcuuz6o"
+peak-tech.com.		14400	IN	TXT	"v=spf1 include:_spf.google.com ~all"
+peak-tech.com.		3600	IN	NS	dns1.p07.nsone.net.
+peak-tech.com.		3600	IN	NS	dns2.p07.nsone.net.
+peak-tech.com.		3600	IN	NS	dns3.p07.nsone.net.
+peak-tech.com.		3600	IN	NS	dns4.p07.nsone.net.
+peak-tech.com.		3600	IN	NS	ns01.squarespacedns.com.
+peak-tech.com.		3600	IN	NS	ns02.squarespacedns.com.
+peak-tech.com.		3600	IN	NS	ns03.squarespacedns.com.
+peak-tech.com.		3600	IN	NS	ns04.squarespacedns.com.
+squarespace._domainkey.peak-tech.com. 1800 IN CNAME squarespace-domainkey.squarespace-mail.com.
+www.peak-tech.com.	3600	IN	CNAME	ext-sq.squarespace.com.

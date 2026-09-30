@@ -1,0 +1,35 @@
+{% set items = collections[listCollection] %}
+{% if listCategory %}{% set items = items | inCategory(listCategory) %}{% endif %}
+{% if listCollection == 'perspectives' %}
+<section class="collection collection--side-by-side">
+  {% for item in items %}
+  <article class="sbs">
+    {% if item.data.image %}<a class="sbs__image" href="{{ item.url | canonicalPath }}"><img src="{{ item.data.image }}" alt="{{ item.data.title }}" loading="lazy"></a>{% endif %}
+    <div class="sbs__text">
+      <h1 class="sbs__title"><a href="{{ item.url | canonicalPath }}">{{ item.data.title }}</a></h1>
+      {% if item.data.excerpt %}<div class="sbs__excerpt">{{ item.data.excerpt | safe }}</div>{% endif %}
+    </div>
+  </article>
+  {% endfor %}
+</section>
+{% else %}
+<section class="collection collection--grid{% if filters[listCollection] %} has-filters{% endif %}">
+  {% if filters[listCollection] %}
+  <aside class="filters" data-filters>
+    {% for group in filters[listCollection] %}
+    <details class="filter" open data-attr="{{ group.attr }}">
+      <summary>{{ group.name }}</summary>
+      <ul>{% for opt in group.options %}<li><button type="button" data-value="{{ opt }}">{{ opt }}</button></li>{% endfor %}</ul>
+    </details>
+    {% endfor %}
+  </aside>
+  {% endif %}
+  <div class="grid">
+    {% for item in items %}
+    <a class="grid__item" href="{{ item.url | canonicalPath }}" data-categories="{{ item.data.categories | attrList }}" data-tags="{{ item.data.sqsTags | attrList }}">
+      {% if item.data.image %}<img src="{{ item.data.image }}" alt="{{ item.data.title }}" loading="lazy">{% endif %}
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

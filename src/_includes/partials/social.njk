@@ -1,0 +1,7 @@
+<p class="social">
+  {% for s in site.social %}<a href="{{ s.href }}" aria-label="{{ s.label }}" class="social__link">
+    {% if s.icon == 'email' %}<svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15"/><path d="M9 11.5h14v9H9z M9 11.5l7 5 7-5"/></svg>
+    {% elif s.icon == 'linkedin' %}<svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15"/><path d="M11 14v8 M11 10.5v.5 M15 22v-8 M15 17.5c0-2 1.3-3.6 3.2-3.6S21 15.3 21 17.5V22"/></svg>
+    {% else %}<svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15"/><path d="M13.5 18.5l5-5 M12 16l-1.5 1.5a2.5 2.5 0 0 0 3.5 3.5L15.5 20 M20 16l1.5-1.5a2.5 2.5 0 0 0-3.5-3.5L16.5 12"/></svg>{% endif %}
+  </a>{% endfor %}
+</p>

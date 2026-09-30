@@ -20,7 +20,7 @@ headerTheme: light
 </section>
 
 <section class="band band--light h-medium w-medium ha-center va-middle">
-<div class="band__content"><div class="row"><div class="col span-12"><h1><strong>Our People</strong></h1><div class="row"><div class="col span-7"><p></p><p>We built the team we wanted to join. With extensive investment banking experience, startup-style scrappiness, and a passion for partnering with founders, we’re energized by the new challenges that each deal throws our way. <strong><br /></strong></p></div><div class="col span-5"><div class="spacer vsize-1"></div></div></div><div class="spacer vsize-1"></div><div id="b-yui_3_17_2_1_1606937281091_6157">{% summary collections, '{"collection":"team","latest":19,"design":"autogrid","date":false,"excerpt":false,"readMore":false}' %}</div></div></div></div>
+<div class="band__content"><div class="row"><div class="col span-12"><h1><strong>Our People</strong></h1><div class="row"><div class="col span-7"><p></p><p>We built the team we wanted to join. With extensive investment banking experience, startup-style scrappiness, and a passion for partnering with founders, we’re energized by the new challenges that each deal throws our way. <strong><br /></strong></p></div><div class="col span-5"><div class="spacer vsize-1"></div></div></div><div class="spacer vsize-1"></div><div id="b-yui_3_17_2_1_1606937281091_6157">{% summary collections, '{"collection":"team","latest":19,"design":"autogrid","meta":"cats","metaPosition":"below-title","excerpt":false,"readMore":false,"perRow":3,"gutter":66}' %}</div></div></div></div>
 </section>
 
 <section class="band band--black h-medium w-wide ha-right va-middle">

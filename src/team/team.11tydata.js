@@ -1,1 +1,1 @@
-export default { layout: 'layouts/bio.njk', permalink: data => `/team/${data.page.fileSlug}/` };
+export default { layout: 'layouts/bio.njk', headerTheme: 'light', collectionName: 'team', permalink: data => `/team/${data.page.fileSlug}/` };

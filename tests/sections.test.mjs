@@ -53,6 +53,7 @@ test('convertPage keeps accent and alignment classes on text but no inline style
 test('convertPage replaces dynamic blocks with shortcodes/partials and reports no unknown blocks', () => {
   const home = convertPage(fx('home-main.html'), ORDER);
   assert.equal((home.html.match(/\{% summary /g) || []).length, 2);
+  assert.match(home.html, /"perRow":3,"gutter":60/);
   assert.deepEqual(home.warnings.filter(w => w.startsWith('unknown')), []);
   const contact = convertPage(fx('contact-main.html'), ORDER);
   assert.match(contact.html, /\{% include "partials\/contact-form\.njk" %\}/);
@@ -62,10 +63,10 @@ test('convertPage replaces dynamic blocks with shortcodes/partials and reports n
 });
 
 test('summaryArgs uses "latest N" when items are the newest N, else the exact slugs', () => {
-  assert.deepEqual(summaryArgs(['/experience/mobohubb-acquired-by-guardhouse', '/experience/x'], ['summary-block-setting-design-autogrid', 'summary-block-setting-primary-metadata-date'], ORDER),
-    { collection: 'experience', latest: 2, design: 'autogrid', date: true, excerpt: false, readMore: false });
-  assert.deepEqual(summaryArgs(['/perspectives/b', '/perspectives/a'], ['summary-block-setting-design-carousel', 'summary-block-setting-show-excerpt', 'summary-block-setting-show-read-more-link'], { perspectives: ['a', 'b'] }),
-    { collection: 'perspectives', slugs: ['b', 'a'], design: 'carousel', date: false, excerpt: true, readMore: true });
+  assert.deepEqual(summaryArgs(['/experience/mobohubb-acquired-by-guardhouse', '/experience/x'], ['summary-block-setting-design-autogrid', 'summary-block-setting-primary-metadata-date', 'summary-block-setting-metadata-position-below-content'], ORDER),
+    { collection: 'experience', latest: 2, design: 'autogrid', meta: 'date', metaPosition: 'below-content', excerpt: false, readMore: false });
+  assert.deepEqual(summaryArgs(['/perspectives/b', '/perspectives/a'], ['summary-block-setting-design-carousel', 'summary-block-setting-show-excerpt', 'summary-block-setting-show-read-more-link', 'summary-block-setting-primary-metadata-cats', 'summary-block-setting-metadata-position-below-title'], { perspectives: ['a', 'b'] }),
+    { collection: 'perspectives', slugs: ['b', 'a'], design: 'carousel', meta: 'cats', metaPosition: 'below-title', excerpt: true, readMore: true });
 });
 
 test('a fluid-engine section becomes a grid whose cells keep their mobile and desktop placement', () => {
@@ -109,4 +110,10 @@ test('quote and gallery blocks become a blockquote and an image list', () => {
   assert.match(q, /<blockquote class="quote">/);
   const g = convertLayout(JSON.parse(readFileSync('tests/fixtures/gallery-item.json', 'utf8')).body).html;
   assert.match(g, /<div class="gallery gallery--slider">(<figure class="image"><img src="https:\/\/images\.squarespace-cdn\.com[^"]+" alt="[^"]*" loading="lazy">(<figcaption>[^<]*<\/figcaption>)?<\/figure>)+<\/div>/);
+});
+
+test('the footer keeps the Finalis disclosure preformatted, exactly as authored', () => {
+  const { html } = convertPage(fx('footer.html'), ORDER);
+  assert.match(html, /<pre><code>Securities are offered through <a href="https:\/\/www\.finalis\.com\/" target="_blank">Finalis Securities LLC<\/a>/);
+  assert.match(html, /Finalis Business Continuity Plan[\s\S]*FINRA BrokerCheck[\s\S]*Form CRS/);
 });

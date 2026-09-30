@@ -1,0 +1,9 @@
+---
+layout: layouts/page.njk
+permalink: /404.html
+headerTheme: light
+title: Error Page
+seoTitle: Error Page — Peak Technology Partners
+eleventyExcludeFromCollections: true
+---
+{% set ep = collections.all | pageBySlug('error-page') %}{{ ep.content | safe }}

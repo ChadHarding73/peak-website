@@ -1,0 +1,15 @@
+---
+layout: layouts/base.njk
+---
+{% set items = collections[collectionName] %}
+<article class="item item--{{ collectionName }}">
+  <div class="item__inner">
+    <h1 class="item__title">{{ title }}</h1>
+    <div class="item__body">{{ content | safe }}</div>
+  </div>
+  {% set prev = items | neighbor(page.url, -1) %}{% set next = items | neighbor(page.url, 1) %}
+  <nav class="item-pagination">
+    {% if prev %}<a class="item-pagination__prev" href="{{ prev.url | canonicalPath }}"><span class="item-pagination__label">Previous</span><span class="item-pagination__title">{{ prev.data.title }}</span></a>{% endif %}
+    {% if next %}<a class="item-pagination__next" href="{{ next.url | canonicalPath }}"><span class="item-pagination__label">Next</span><span class="item-pagination__title">{{ next.data.title }}</span></a>{% endif %}
+  </nav>
+</article>

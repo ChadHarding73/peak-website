@@ -1,4 +1,5 @@
 ---
 layout: layouts/base.njk
+bodyClass: list-page
 ---
-{{ content | safe }}
+{% include "lists/" + listCollection + ".njk" %}

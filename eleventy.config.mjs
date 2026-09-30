@@ -1,4 +1,5 @@
 import { readFileSync } from 'node:fs';
+import { renderSummary } from './scripts/lib/cards.mjs';
 
 // Squarespace keeps category pages live even when no item uses the category; the baseline lists them.
 function baselineCategories(collection) {
@@ -34,6 +35,12 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter('inCategory', (items, cat) => items.filter(i => (i.data.categories || []).includes(cat)));
   eleventyConfig.addFilter('categoryPath', cat => cat.replace(/ /g, '+'));
   eleventyConfig.addFilter('categoryHref', cat => encodeURIComponent(cat).replace(/%20/g, '+'));
+
+  eleventyConfig.addNunjucksShortcode('summary', renderSummary);
+  eleventyConfig.addFilter('longDate', d => new Date(d).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' }));
+  eleventyConfig.addFilter('pageBySlug', (all, slug) => all.find(p => p.page.fileSlug === slug && p.page.inputPath.includes('/pages/')));
+  eleventyConfig.addFilter('neighbor', (items, url, step) => { const i = items.findIndex(x => x.url === url); return i < 0 ? null : items[i + step] || null; });
+  eleventyConfig.addFilter('attrList', xs => (xs || []).join('|'));
 
   return {
     dir: { input: 'src', includes: '_includes', data: '_data', output: '_site' },

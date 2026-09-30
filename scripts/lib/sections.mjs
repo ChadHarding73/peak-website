@@ -14,7 +14,7 @@ const findAll = (test, nodes) => DU.findAll(test, Array.isArray(nodes) ? nodes :
 const esc = s => String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
 
 const RICH = {
-  allowedTags: ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'ul', 'ol', 'li', 'a', 'strong', 'em', 'b', 'i', 'u', 'br', 'blockquote', 'sup', 'sub', 'span'],
+  allowedTags: ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'ul', 'ol', 'li', 'a', 'strong', 'em', 'b', 'i', 'u', 'br', 'blockquote', 'sup', 'sub', 'span', 'pre', 'code'],
   allowedAttributes: { a: ['href', 'target', 'rel'], '*': ['class'] },
   allowedClasses: { '*': ['sqsrte-*'] },
   nonTextTags: ['script', 'style', 'textarea', 'option', 'noscript'],
@@ -38,7 +38,8 @@ export function summaryArgs(hrefs, settingClasses, order) {
   const args = { collection };
   if (slugs.length && slugs.every((s, i) => s === newest[i])) args.latest = slugs.length;
   else args.slugs = slugs;
-  return { ...args, design, date: set('primary-metadata-date'), excerpt: set('show-excerpt'), readMore: set('show-read-more-link') };
+  const pick = (prefix, fallback) => (settingClasses.find(c => c.startsWith(`summary-block-setting-${prefix}-`)) || `summary-block-setting-${prefix}-${fallback}`).slice(`summary-block-setting-${prefix}-`.length);
+  return { ...args, design, meta: pick('primary-metadata', 'none'), metaPosition: pick('metadata-position', 'below-title'), excerpt: set('show-excerpt'), readMore: set('show-read-more-link') };
 }
 
 function convertBlock(el, ctx) {
@@ -70,7 +71,9 @@ function convertBlock(el, ctx) {
       const settings = [...new Set(findAll(e => classes(e).some(c => c.startsWith('summary-block-setting-')), el).flatMap(classes))];
       const hrefs = [...new Set(findAll(e => e.name === 'a' && hasClass(e, 'summary-title-link'), el).map(a => a.attribs.href))];
       if (!hrefs.length) { ctx.warnings.push('summary block with no items'); return ''; }
-      return `{% summary collections, '${JSON.stringify(summaryArgs(hrefs, settings, ctx.order))}' %}`;
+      const grid = find(e => e.attribs && e.attribs['data-slides-per-row'], el);
+      const extra = grid ? { perRow: Number(grid.attribs['data-slides-per-row']), gutter: Number(grid.attribs['data-gutter'] || 0) } : {};
+      return `{% summary collections, '${JSON.stringify({ ...summaryArgs(hrefs, settings, ctx.order), ...extra })}' %}`;
     }
     case 'quote': {
       const bq = find(e => e.name === 'blockquote', el);

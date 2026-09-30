@@ -1,1 +1,22 @@
-<!doctype html><title>{{ title }}</title>{{ content | safe }}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ seoTitle or (title ~ " — " ~ site.name) }}</title>
+  {% if seoDescription %}<meta name="description" content="{{ seoDescription }}">{% endif %}
+  <link rel="canonical" href="{{ site.url }}{{ page.url | canonicalPath }}">
+  <meta property="og:title" content="{{ seoTitle or title }}">
+  <meta property="og:image" content="{{ site.url }}{{ ogImage or image or "/images/brand/social.png" }}">
+  <link rel="icon" href="/images/brand/peak-mark.png">
+  <link rel="stylesheet" href="/assets/css/site.css">
+  {% include "partials/analytics.njk" ignore missing %}
+  {% include "partials/head-injection.njk" ignore missing %}
+</head>
+<body class="{{ bodyClass or 'page' }}">
+  {% include "partials/header.njk" %}
+  <main>{{ content | safe }}</main>
+  {% include "partials/footer.njk" %}
+  <script src="/assets/js/site.js" defer></script>
+</body>
+</html>

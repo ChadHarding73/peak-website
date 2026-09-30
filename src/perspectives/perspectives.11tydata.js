@@ -1,1 +1,1 @@
-export default { layout: 'layouts/post.njk', permalink: data => `/perspectives/${data.page.fileSlug}/` };
+export default { layout: 'layouts/post.njk', headerTheme: 'white', collectionName: 'perspectives', permalink: data => `/perspectives/${data.page.fileSlug}/` };

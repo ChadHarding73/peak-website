@@ -5,3 +5,4 @@
 {% else %}
 <meta name="robots" content="noindex">
 {% endif %}
+{% if noindex and env.context == 'production' %}<meta name="robots" content="noindex">{% endif %}

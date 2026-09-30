@@ -3,6 +3,8 @@
 import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
 import matter from 'gray-matter';
 import { convertPage, convertLayout, headerLogo } from './lib/sections.mjs';
+import { guardMigration } from './lib/inventory.mjs';
+guardMigration();
 
 const COLLECTIONS = ['experience', 'perspectives', 'team'];
 const order = {};

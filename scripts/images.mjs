@@ -2,6 +2,8 @@ import { readdir, readFile, writeFile, mkdir, access } from 'node:fs/promises';
 import { dirname } from 'node:path';
 import { ORIGIN } from './lib/inventory.mjs';
 import { IMAGE_HOSTS, originalUrl, assignNames, rewriteRefs, ORIGINAL_ACCEPT, typeMatchesName, nameForType, acceptFor } from './lib/images.mjs';
+import { guardMigration } from './lib/inventory.mjs';
+guardMigration();
 
 const DIRS = ['experience', 'perspectives', 'team', 'pages'];
 const files = [];

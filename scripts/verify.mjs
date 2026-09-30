@@ -9,11 +9,13 @@ import { ORIGIN } from './lib/inventory.mjs';
 import { normalizeText, firstDifference, diffRatio, classify } from './lib/compare.mjs';
 import { settle } from './probe-styles.mjs';
 import { start } from './serve.mjs';
+import { guardMigration } from './lib/inventory.mjs';
 
 const args = process.argv.slice(2);
 const opt = name => (args.find(a => a.startsWith(`--${name}=`)) || '').split('=').slice(1).join('=');
 const only = opt('only').split(',').filter(Boolean);
 const refreshOld = args.includes('--refresh-old');
+if (refreshOld) guardMigration();
 const concurrency = Number(opt('concurrency') || 4);
 let newBase = args.find(a => a.startsWith('http'));
 let server;

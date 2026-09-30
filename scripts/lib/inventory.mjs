@@ -36,3 +36,10 @@ export function addUnique(map, p, source) {
   if (!map.has(k)) map.set(k, { path: p, source });
   return map;
 }
+
+// Since the 2026-09-30 cutover, ORIGIN serves the NEW site. The migration and baseline scripts would
+// crawl it and overwrite the frozen record of the old Squarespace site that the tests depend on.
+export function guardMigration(argv = process.argv) {
+  if (argv.includes('--squarespace-migration')) return;
+  throw new Error('Refusing to run: peak-tech.com is now the Netlify site, so this migration/baseline script would overwrite the frozen Squarespace baseline. Pass --squarespace-migration only if you really mean to.');
+}

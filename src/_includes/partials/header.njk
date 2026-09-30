@@ -6,9 +6,8 @@
     {% elif lg == 'mark-black' %}<img src="/images/brand/210128-PEAK-square-black-01.png" alt="{{ site.name }}" width="70" height="70">
     {% else %}<img src="/images/brand/peak-logo-header.png" alt="{{ site.name }}" width="223" height="70">{% endif %}
   </a>
-  <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Menu">
-  <label for="nav-toggle" class="nav-burger" aria-hidden="true"><span></span><span></span></label>
-  <nav class="site-nav">
-    {% for item in site.nav %}<a href="{{ item.href }}"{% if page.url == item.href + '/' or page.url.startsWith(item.href + '/category/') or (item.activeOnItems and page.url.startsWith(item.href + '/')) %} aria-current="page"{% endif %}>{{ item.label }}</a>{% endfor %}
+  <button type="button" class="nav-burger" aria-expanded="false" aria-controls="site-nav" aria-label="Menu"><span></span><span></span></button>
+  <nav class="site-nav" id="site-nav">
+    {% for item in site.nav %}<a href="{{ item.href }}"{% if page.url == item.href or page.url.startsWith(item.href + 'category/') or (item.activeOnItems and page.url.startsWith(item.href)) %} aria-current="page"{% endif %}>{{ item.label }}</a>{% endfor %}
   </nav>
 </header>

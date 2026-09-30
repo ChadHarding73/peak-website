@@ -7,24 +7,24 @@
   "nav": [
     {
       "label": "TRANSACTIONS",
-      "href": "/experience"
+      "href": "/experience/"
     },
     {
       "label": "PERSPECTIVES",
-      "href": "/perspectives",
+      "href": "/perspectives/",
       "activeOnItems": true
     },
     {
       "label": "PEOPLE",
-      "href": "/people"
+      "href": "/people/"
     },
     {
       "label": "CAREERS",
-      "href": "/careers"
+      "href": "/careers/"
     },
     {
       "label": "CONTACT",
-      "href": "/contact"
+      "href": "/contact/"
     }
   ],
   "social": [

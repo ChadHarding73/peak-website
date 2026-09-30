@@ -53,3 +53,9 @@ test('addUnique keeps first source for duplicate keys', () => {
   assert.equal(m.size, 1);
   assert.equal([...m.values()][0].source, 'sitemap');
 });
+
+test('migration scripts refuse to run after launch unless explicitly overridden', async () => {
+  const { guardMigration } = await import('../scripts/lib/inventory.mjs');
+  assert.throws(() => guardMigration(['node', 'scripts/scrape.mjs']), /peak-tech\.com is now the Netlify site/);
+  assert.doesNotThrow(() => guardMigration(['node', 'scripts/scrape.mjs', '--squarespace-migration']));
+});

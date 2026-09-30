@@ -1,3 +1,11 @@
+// Mobile menu: a real button that toggles the nav and reports its state; Escape closes it.
+document.querySelectorAll('.nav-burger').forEach(btn => {
+  const header = btn.closest('.site-header');
+  const set = open => { header.classList.toggle('nav-open', open); btn.setAttribute('aria-expanded', String(open)); };
+  btn.addEventListener('click', () => set(btn.getAttribute('aria-expanded') !== 'true'));
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && header.classList.contains('nav-open')) { set(false); btn.focus(); } });
+});
+
 // Carousel arrows and the Transactions filter (replaces the paid Squarespace "custom-filter" plugin).
 document.querySelectorAll('.summary--carousel').forEach(block => {
   const track = block.querySelector('.summary__items');

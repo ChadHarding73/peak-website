@@ -1,6 +1,8 @@
 import { fetchRetry } from './lib/net.mjs';
 import { mkdir, writeFile } from 'node:fs/promises';
 import { ORIGIN, parseSitemap, extractLinks, addUnique, pathKey } from './lib/inventory.mjs';
+import { guardMigration } from './lib/inventory.mjs';
+guardMigration();
 
 const found = new Map();
 const xml = await (await fetchRetry(`${ORIGIN}/sitemap.xml`)).text();

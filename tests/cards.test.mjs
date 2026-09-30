@@ -12,7 +12,7 @@ test('latest N renders the first N items in collection order with lowercase cano
   const html = renderSummary(collections, JSON.stringify({ collection: 'experience', latest: 2, design: 'autogrid', meta: 'date', metaPosition: 'below-content', excerpt: false, readMore: false, perRow: 3, gutter: 60 }));
   assert.equal((html.match(/class="card"/g) || []).length, 2);
   assert.match(html, /M&amp;A &lt;deal&gt;/);
-  assert.match(html, /href="\/experience\/a"/);
+  assert.match(html, /href="\/experience\/a\/"/);
   assert.match(html, /<time class="card__meta" datetime="2026-08-24">August 24, 2026<\/time>/);
   assert.match(html, /class="summary summary--autogrid summary--experience" style="--per-row: 3; --gutter: 60px"/);
 });
@@ -21,11 +21,16 @@ test('explicit slugs render in the given order and skip unknown slugs', () => {
   const html = renderSummary(collections, JSON.stringify({ collection: 'experience', slugs: ['c', 'missing', 'a'], design: 'carousel', meta: 'none', metaPosition: 'above-title', excerpt: true, readMore: true }));
   const titles = [...html.matchAll(/class="card__title"><a [^>]*>([^<]*)</g)].map(m => m[1]);
   assert.deepEqual(titles, ['c', 'M&amp;A &lt;deal&gt;']);
-  assert.match(html, /class="card__more" href="\/experience\/c">Read more →<\/a>/);
+  assert.match(html, /class="card__more" href="\/experience\/c\/">Read more →<\/a>/);
   assert.match(html, /summary--carousel/);
 });
 
 test('category metadata shows below the title', () => {
   const html = renderSummary(collections, JSON.stringify({ collection: 'team', latest: 1, design: 'autogrid', meta: 'cats', metaPosition: 'below-title', excerpt: false, readMore: false }));
-  assert.match(html, /class="card__title"><a href="\/experience\/chad">chad<\/a><\/h3><p class="card__meta">Managing Partner<\/p>/);
+  assert.match(html, /class="card__title"><a href="\/experience\/chad\/">chad<\/a><\/h3><p class="card__meta">Managing Partner<\/p>/);
+});
+
+test('"latest": "all" renders every item, so adding a bio never pushes someone off the People page', () => {
+  const html = renderSummary(collections, JSON.stringify({ collection: 'experience', latest: 'all', design: 'autogrid', meta: 'none', metaPosition: 'below-title', excerpt: false, readMore: false }));
+  assert.equal((html.match(/class="card"/g) || []).length, 3);
 });

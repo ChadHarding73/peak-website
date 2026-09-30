@@ -3,6 +3,8 @@ import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import { dirname } from 'node:path';
 import { ORIGIN } from './lib/inventory.mjs';
 import { COLLECTIONS, itemToFile, pageToFile, parseSeo, droppedTags } from './lib/convert.mjs';
+import { guardMigration } from './lib/inventory.mjs';
+guardMigration();
 
 async function getJson(path) {
   const res = await fetchRetry(`${ORIGIN}${path}${path.includes('?') ? '&' : '?'}format=json`);

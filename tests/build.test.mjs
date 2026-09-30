@@ -39,7 +39,7 @@ test('SEO title and description carry over for a sample of each type', () => {
 
 test('canonical links use the lowercase path Netlify serves', () => {
   const h = readFileSync('_site/team/nick-bountouvas-Hagtv/index.html', 'utf8');
-  assert.match(h, /<link rel="canonical" href="https:\/\/www\.peak-tech\.com\/team\/nick-bountouvas-hagtv">/);
+  assert.match(h, /<link rel="canonical" href="https:\/\/www\.peak-tech\.com\/team\/nick-bountouvas-hagtv\/">/);
 });
 
 test('every standalone page has real body content (guards the empty-body extraction bug)', () => {
@@ -60,7 +60,7 @@ test('contact form posts without JavaScript and is Netlify-detectable (Review Fo
   const form = h.match(/<form\b[^>]*>/)[0];
   assert.match(form, /name="contact"/);
   assert.match(form, /method="POST"/i);
-  assert.match(form, /action="\/contact-thanks"/);
+  assert.match(form, /action="\/contact-thanks\/"/);
   assert.match(form, /data-netlify="true"/);
   assert.match(form, /netlify-honeypot="bot-field"/);
   assert.match(h, /<input[^>]+name="form-name"[^>]+value="contact"/);
@@ -107,8 +107,8 @@ test('sitemap.xml lists every page by its canonical URL, and robots.txt points t
   const xml = read('_site/sitemap.xml');
   const locs = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]);
   const urls = JSON.parse(read('baseline/urls.json')).filter(u => u.status === 200 && u.type === 'text/html');
-  const want = urls.map(u => 'https://www.peak-tech.com' + (u.path === '/' ? '/' : decodeURIComponent(u.path).toLowerCase()));
-  const missing = [...new Set(want)].filter(w => !locs.map(l => l.replace(/&amp;/g, '&')).includes(w) && w !== 'https://www.peak-tech.com/home');
+  const want = urls.map(u => 'https://www.peak-tech.com' + (u.path === '/' ? '/' : decodeURIComponent(u.path).toLowerCase() + '/'));
+  const missing = [...new Set(want)].filter(w => !locs.map(l => l.replace(/&amp;/g, '&')).includes(w) && w !== 'https://www.peak-tech.com/home/');
   assert.deepEqual(missing, []);
   assert.ok(!locs.some(l => l.includes('404') || l.includes('contact-thanks')), 'no 404/thank-you in sitemap');
   assert.match(read('_site/robots.txt'), /Sitemap: https:\/\/www\.peak-tech\.com\/sitemap\.xml/);
@@ -118,4 +118,21 @@ test('every image a built page references exists in the build', () => {
   const missing = [];
   for (const p of pages) for (const m of read(p).matchAll(/(?:src="|url\(')(\/images\/[^"')]+)/g)) if (!existsSync('_site' + decodeURIComponent(m[1]))) missing.push(`${m[1]} in ${p}`);
   assert.deepEqual(missing, []);
+});
+
+test('internal links point straight at the served (trailing-slash) URL, never at a redirect', () => {
+  const bad = new Set();
+  for (const p of pages) for (const m of read(p).matchAll(/href="(\/[^"#?]*)"/g)) {
+    const u = m[1];
+    if (u === '/' || /\.[a-z0-9]+$/i.test(u) || u.startsWith('/images/') || u.startsWith('/assets/')) continue;
+    if (!u.endsWith('/')) bad.add(u);
+  }
+  assert.deepEqual([...bad].slice(0, 10), []);
+});
+
+test('the mobile menu opens from a real, focusable button that reports its state', () => {
+  const h = read('_site/index.html');
+  assert.match(h, /<button type="button" class="nav-burger" aria-expanded="false" aria-controls="site-nav" aria-label="Menu">/);
+  assert.match(h, /<nav class="site-nav" id="site-nav">/);
+  assert.doesNotMatch(h, /aria-hidden="true"[^>]*nav-burger|nav-burger[^>]*aria-hidden="true"/);
 });

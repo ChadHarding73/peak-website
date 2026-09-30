@@ -2,6 +2,8 @@ import { fetchRetry } from './lib/net.mjs';
 import { readFile, readdir } from 'node:fs/promises';
 import { ORIGIN } from './lib/inventory.mjs';
 import { COLLECTIONS, splitFullUrl } from './lib/convert.mjs';
+import { guardMigration } from './lib/inventory.mjs';
+guardMigration();
 
 const json = async p => (await fetchRetry(`${ORIGIN}${p}${p.includes('?') ? '&' : '?'}format=json`)).json();
 const changes = [];

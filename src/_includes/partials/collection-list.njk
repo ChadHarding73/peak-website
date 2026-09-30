@@ -20,7 +20,7 @@
     {% for group in filters[listCollection] %}
     <details class="filter" open data-attr="{{ group.attr }}">
       <summary>{{ group.name }}</summary>
-      <ul>{% for opt in group.options %}<li><button type="button" data-value="{{ opt }}">{{ opt }}</button></li>{% endfor %}</ul>
+      <ul>{% for opt in group.options %}<li><button type="button" aria-pressed="false" data-value="{{ opt }}">{{ opt }}</button></li>{% endfor %}</ul>
     </details>
     {% endfor %}
   </aside>

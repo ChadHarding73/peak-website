@@ -25,9 +25,16 @@ Static Eleventy site, deployed by Netlify (project `thriving-moxie-406412`, PEAK
 ## Adding a tombstone
 Chad supplies the PNG. Add `src/images/experience/<slug>.png` and `src/experience/<slug>.md` with front matter `title`, `date` (YYYY-MM-DD), `image`, `categories` (from `src/_data/filters.json`), `sqsOrder`, `seoTitle`, and the press-release body as HTML (`<div class="b b--html"><p>…</p></div>`). The home page's Recent Transactions updates on its own.
 
+## Adding a team bio
+Chad supplies the photo. Add `src/images/team/<slug>.jpg` and `src/team/<slug>.md` with `title` (the person's name), `date`, `image`, `categories` (their role, e.g. `Analyst`), `sqsOrder` (their place in the People grid; renumber others if needed), `seoTitle`, and the bio body. The People page shows every bio (`"latest": "all"`), so nobody drops off.
+
+## Image names
+Images are named `<page-slug>-<8-hex fingerprint of the original URL>.<ext>`. For a new image, any unique descriptive name works; never reuse an existing filename for a different picture.
+
 ## Rules
 - Never change a URL. If a page must move, add a 301 to `src/_redirects` in the same commit. Netlify serves paths lowercased; links and canonical tags use the lowercase form.
 - Public content only. No deal material, and no tombstone until Chad says it is cleared to publish.
 - Existing copy is verbatim. New copy drafted for Chad uses no em dashes. The brand is "PEAK" or "Peak Technology Partners".
-- **Never re-run the migration scripts** (`npm run scrape`, `npm run pages`, `npm run images`) after launch. They rebuild content from the old Squarespace site and would overwrite every edit made since.
+- **Never re-run the migration scripts** (`npm run inventory`, `scrape`, `pages`, `images`, `drift`, or `verify --refresh-old`) after launch. They rebuild content and baselines from Squarespace, and `www.peak-tech.com` is now this site, so they would overwrite every edit and corrupt the frozen old-site baseline the tests depend on. They refuse to run without `--squarespace-migration`; never pass it.
+- **Item bodies are HTML inside `.md` files.** Keep each body's HTML free of blank lines: a blank line drops Markdown out of HTML mode and mangles what follows. Run `npm run build && npm test` after every body edit.
 - DNS lives at Squarespace and carries the firm's email records. Never touch it from here.

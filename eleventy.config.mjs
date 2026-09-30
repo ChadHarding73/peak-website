@@ -8,6 +8,14 @@ function baselineCategories(collection) {
   return urls.filter(u => u.path.startsWith(prefix)).map(u => decodeURIComponent(u.path.slice(prefix.length)).replace(/\+/g, ' '));
 }
 
+// Netlify serves /x/index.html at /x/ (lowercased); /x and mixed case redirect there.
+function servedPath(u) {
+  if (u === '/' || /\.[a-z0-9]+$/i.test(u)) return u;
+  let p = u;
+  try { p = decodeURIComponent(u); } catch {}
+  return p.toLowerCase().replace(/\/*$/, '/');
+}
+
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ 'src/images': 'images', 'src/assets': 'assets', 'src/s': 's', 'src/_redirects': '_redirects', 'src/robots.txt': 'robots.txt' });
 
@@ -29,7 +37,16 @@ export default function (eleventyConfig) {
   });
 
   // Lowercase: Netlify redirects mixed-case paths to lowercase, so that is the URL actually served.
-  eleventyConfig.addFilter('canonicalPath', u => (u === '/' ? '/' : decodeURIComponent(u).replace(/\/$/, '').toLowerCase()));
+  eleventyConfig.addFilter('canonicalPath', servedPath);
+  // Migrated Squarespace content links to /people, /home, /experience/category/SaaS etc. Point every
+  // internal page link at the URL Netlify actually serves, so no click or crawler hits a redirect.
+  eleventyConfig.addTransform('internal-links', function (html) {
+    if (!(this.page.outputPath || '').endsWith('.html')) return html;
+    return html.replace(/href="(\/[^"#?]*)([#?][^"]*)?"/g, (m, path, rest = '') => {
+      if (path.startsWith('/images/') || path.startsWith('/assets/') || /\.[a-z0-9]+$/i.test(path)) return m;
+      return `href="${path === '/home' || path === '/home/' ? '/' : servedPath(path)}${rest}"`;
+    });
+  });
   eleventyConfig.addFilter('isoDay', d => new Date(d).toISOString().slice(0, 10));
   eleventyConfig.addFilter('monthDay', d => new Date(d).toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' }));
   eleventyConfig.addFilter('inCategory', (items, cat) => items.filter(i => (i.data.categories || []).includes(cat)));

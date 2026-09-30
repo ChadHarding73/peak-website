@@ -14,7 +14,8 @@ for (const c of COLLECTIONS) {
 const customCss = await readFile('baseline/squarespace-custom.css', 'utf8');
 const keepIds = new Set([...customCss.matchAll(/#block-([A-Za-z0-9_]+)/g)].map(m => m[1]));
 const slice = (h, open, close) => h.slice(h.indexOf(open), h.indexOf(close) + close.length);
-const headerTheme = h => (slice(h, '<header', '</header>').match(/data-section-theme="([^"]*)"/) || [])[1] || 'light';
+// An empty header theme renders like an empty section theme: bright (orange palette, white menu).
+const headerTheme = h => { const m = slice(h, '<header', '</header>').match(/data-section-theme="([^"]*)"/); return m ? m[1] || 'bright' : 'light'; };
 
 const warnings = {};
 const note = (k, w) => { if (w.length) warnings[k] = w; };

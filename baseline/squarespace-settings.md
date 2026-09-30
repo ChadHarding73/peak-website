@@ -19,8 +19,8 @@ Fields (from the public page DOM at /contact, in order):
 
 - Squarespace adds a hidden honeypot text input (positioned at -5000px); replaced by Netlify's `netlify-honeypot`.
 - Submit button text: "Submit".
-- Recipients (Storage panel): PENDING, Chad to read out.
-- Post-submit message: PENDING, Chad to read out.
+- Recipients (Storage panel): contact@peak-tech.com (confirmed by Chad 2026-09-29 with a test submission; Squarespace sends "Form Submission - CONTACT Form 2" from 'Squarespace' via Contact).
+- Post-submit message: "Thank you!" (confirmed by Chad's screenshot 2026-09-29).
 
 Calendly inline embed on /contact: `https://calendly.com/peakchad/founder-intro-call` (embed_type=Inline).
 

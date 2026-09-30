@@ -40,6 +40,9 @@ html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; font-family: var(--font); font-size: var(--fs-body); line-height: 1.5; color: var(--ink); background: #fff; }
 img { max-width: 100%; height: auto; display: block; }
 a { color: inherit; }
+/* Links in body copy are orange (white on orange bands and in the footer), as on the live site. */
+:is(.b--html, .item__body, .card__excerpt, .sbs__excerpt, .code) a { color: var(--accent); }
+:is(.band--bright, .site-footer) :is(.b--html, .code) a { color: inherit; }
 h1, h2, h3, h4 { font-weight: 400; margin: 2rem 0; }
 h4 { margin: 0 0 2rem; }
 h1 { font-size: var(--fs-h1); line-height: 1.118; }

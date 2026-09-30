@@ -5,15 +5,43 @@
   "gtmId": "",
   "calendlyUrl": "https://calendly.com/peakchad/founder-intro-call",
   "nav": [
-    { "label": "TRANSACTIONS", "href": "/experience" },
-    { "label": "PERSPECTIVES", "href": "/perspectives" },
-    { "label": "PEOPLE", "href": "/people" },
-    { "label": "CAREERS", "href": "/careers" },
-    { "label": "CONTACT", "href": "/contact" }
+    {
+      "label": "TRANSACTIONS",
+      "href": "/experience"
+    },
+    {
+      "label": "PERSPECTIVES",
+      "href": "/perspectives",
+      "activeOnItems": true
+    },
+    {
+      "label": "PEOPLE",
+      "href": "/people"
+    },
+    {
+      "label": "CAREERS",
+      "href": "/careers"
+    },
+    {
+      "label": "CONTACT",
+      "href": "/contact"
+    }
   ],
   "social": [
-    { "label": "contact@peak-tech.com", "href": "mailto:contact@peak-tech.com", "icon": "email" },
-    { "label": "LinkedIn", "href": "https://www.linkedin.com/company/peak-technology-partners/", "icon": "linkedin" },
-    { "label": "URL", "href": "https://www.peak-tech.com/", "icon": "url" }
+    {
+      "label": "contact@peak-tech.com",
+      "href": "mailto:contact@peak-tech.com",
+      "icon": "email"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/company/peak-technology-partners/",
+      "icon": "linkedin"
+    },
+    {
+      "label": "URL",
+      "href": "https://www.peak-tech.com/",
+      "icon": "url"
+    }
   ]
 }

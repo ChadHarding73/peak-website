@@ -102,3 +102,14 @@ test('each category page lists exactly the items carrying that category (guards 
     assert.equal((h.match(/class="grid__item"/g) || []).length, n, cat);
   }
 });
+
+test('sitemap.xml lists every page by its canonical URL, and robots.txt points to it', () => {
+  const xml = read('_site/sitemap.xml');
+  const locs = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]);
+  const urls = JSON.parse(read('baseline/urls.json')).filter(u => u.status === 200 && u.type === 'text/html');
+  const want = urls.map(u => 'https://www.peak-tech.com' + (u.path === '/' ? '/' : decodeURIComponent(u.path).toLowerCase()));
+  const missing = [...new Set(want)].filter(w => !locs.map(l => l.replace(/&amp;/g, '&')).includes(w) && w !== 'https://www.peak-tech.com/home');
+  assert.deepEqual(missing, []);
+  assert.ok(!locs.some(l => l.includes('404') || l.includes('contact-thanks')), 'no 404/thank-you in sitemap');
+  assert.match(read('_site/robots.txt'), /Sitemap: https:\/\/www\.peak-tech\.com\/sitemap\.xml/);
+});

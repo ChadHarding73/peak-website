@@ -9,7 +9,7 @@ function baselineCategories(collection) {
 }
 
 export default function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy({ 'src/images': 'images', 'src/assets': 'assets', 'src/s': 's', 'src/_redirects': '_redirects' });
+  eleventyConfig.addPassthroughCopy({ 'src/images': 'images', 'src/assets': 'assets', 'src/s': 's', 'src/_redirects': '_redirects', 'src/robots.txt': 'robots.txt' });
 
   for (const c of ['experience', 'perspectives', 'team']) {
     eleventyConfig.addCollection(c, api => api.getFilteredByGlob(`src/${c}/*.md`).sort((a, b) => a.data.sqsOrder - b.data.sqsOrder));

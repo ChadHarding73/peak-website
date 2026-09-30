@@ -3,6 +3,7 @@ pagination:
   data: collections.categoryPages
   size: 1
   alias: entry
+  addAllPagesToCollections: true
 permalink: "/{{ entry.collection }}/category/{{ entry.category | categoryPath | safe }}/"
 layout: layouts/list.njk
 eleventyComputed:

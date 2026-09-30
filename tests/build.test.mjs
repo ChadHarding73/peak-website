@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { readFileSync, readdirSync, statSync } from 'node:fs';
+import { readFileSync, readdirSync, statSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import matter from 'gray-matter';
 
@@ -52,4 +52,42 @@ test('every standalone page has real body content (guards the empty-body extract
 
 test('the 404 page carries the error-page copy', () => {
   assert.match(read('_site/404.html'), /We couldn’t find the page you were looking for/);
+});
+import { execSync } from 'node:child_process';
+
+test('contact form posts without JavaScript and is Netlify-detectable (Review Focus 5)', () => {
+  const h = read('_site/contact/index.html');
+  const form = h.match(/<form\b[^>]*>/)[0];
+  assert.match(form, /name="contact"/);
+  assert.match(form, /method="POST"/i);
+  assert.match(form, /action="\/contact-thanks"/);
+  assert.match(form, /data-netlify="true"/);
+  assert.match(form, /netlify-honeypot="bot-field"/);
+  assert.match(h, /<input[^>]+name="form-name"[^>]+value="contact"/);
+  const body = h.slice(h.indexOf(form), h.indexOf('</form>'));
+  for (const m of body.matchAll(/<(input|textarea|select)\b[^>]*>/g)) {
+    if (/type="(submit|hidden)"/.test(m[0]) || /name="bot-field"/.test(m[0])) continue;
+    assert.match(m[0], /\bname="[^"]+"/, `field without name: ${m[0]}`);
+  }
+});
+
+test('non-production builds are noindex and load no analytics; production is the reverse', () => {
+  execSync('npx @11ty/eleventy --quiet', { env: { ...process.env, CONTEXT: 'branch-deploy' } });
+  let h = read('_site/index.html');
+  assert.match(h, /<meta name="robots" content="noindex">/);
+  assert.doesNotMatch(h, /googletagmanager\.com/);
+  execSync('npx @11ty/eleventy --quiet', { env: { ...process.env, CONTEXT: 'production' } });
+  h = read('_site/index.html');
+  assert.doesNotMatch(h, /noindex/);
+  assert.match(h, /googletagmanager\.com\/gtag\/js\?id=G-3K4D2PRNEL/);
+});
+
+test('the contact form carries the live form\'s fields, options and required flags', () => {
+  const h = read('_site/contact/index.html');
+  const body = h.slice(h.indexOf('<form'), h.indexOf('</form>'));
+  for (const label of ['First Name', 'Last Name', 'Company', 'Email', 'What are you exploring?', 'Anything you&#39;d like us to know?']) assert.ok(body.includes(label) || body.includes(label.replace('&#39;', "'")), label);
+  for (const opt of ['Sale', 'Capital Raise', 'Just gathering information']) assert.match(body, new RegExp(`<option[^>]*>${opt}</option>`));
+  assert.equal((body.match(/\srequired(?=[\s>])/g) || []).length, 5);
+  assert.match(body, /<button type="submit"[^>]*>Submit<\/button>/);
+  assert.ok(existsSync('_site/contact-thanks/index.html'));
 });

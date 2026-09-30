@@ -1,1 +1,25 @@
-{# Filled in by Task 6 (Netlify form). #}
+{# Netlify form replacing the Squarespace form block. Fields mirror the live form (baseline/squarespace-settings.md).
+   Recipients are set in Netlify → Forms → contact → Notifications, not here. #}
+<form name="contact" method="POST" action="/contact-thanks" data-netlify="true" netlify-honeypot="bot-field" class="contact-form">
+  <input type="hidden" name="form-name" value="contact">
+  <p class="hp"><label>Leave this field blank <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+  <fieldset class="form-group">
+    <legend>Name</legend>
+    <div class="form-row">
+      <label class="field"><span class="field__label">First Name <span class="req">(required)</span></span><input type="text" name="fname" autocomplete="given-name" required></label>
+      <label class="field"><span class="field__label">Last Name <span class="req">(required)</span></span><input type="text" name="lname" autocomplete="family-name" required></label>
+    </div>
+  </fieldset>
+  <label class="field"><span class="field__label">Company <span class="req">(required)</span></span><input type="text" name="company" autocomplete="organization" required></label>
+  <label class="field"><span class="field__label">Email <span class="req">(required)</span></span><input type="email" name="email" autocomplete="email" required></label>
+  <label class="field"><span class="field__label">What are you exploring? <span class="req">(required)</span></span>
+    <select name="exploring" required>
+      <option value="" disabled selected>Select an option</option>
+      <option>Sale</option>
+      <option>Capital Raise</option>
+      <option>Just gathering information</option>
+    </select>
+  </label>
+  <label class="field"><span class="field__label">Anything you'd like us to know?</span><textarea name="message" rows="4"></textarea></label>
+  <button type="submit" class="btn">Submit</button>
+</form>

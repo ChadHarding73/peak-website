@@ -128,8 +128,9 @@ hr.rule { border: 0; height: 8px; background: var(--accent); margin: 9.7px 0; }
 figure { margin: 0; }
 figure.image img { width: 100%; }
 blockquote { margin: 1rem 0; padding-left: 2rem; font-size: var(--fs-large); }
-blockquote.quote { padding: 0; font-size: var(--fs-h4); line-height: 1.4; }
-blockquote.quote cite { display: block; margin-top: .5em; font-size: var(--fs-small); font-style: normal; }
+blockquote.quote { padding: 0; margin: 0; font-size: var(--fs-small); line-height: 1.5; }
+blockquote.quote p { margin: 0; }
+blockquote.quote cite { display: block; margin-top: .3em; font-size: 12px; font-style: normal; text-align: right; }
 .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 20px; }
 /* Squarespace "slider" gallery: one image at a time, auto-advancing (site.js). */
 .gallery--slider { display: grid; grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: 100%; gap: 0; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; }
@@ -180,12 +181,12 @@ pre code { font-family: var(--font); font-size: 16px; line-height: 24px; }
 .collection--grid:not(.has-filters) .grid { margin: 0 auto; }
 /* Team Bios & Photos: full-width three-column grid on the light theme. */
 .collection--team .grid { max-width: none; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 42px 20px; }
-@media (max-width: 767px) { .collection--team .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 767px) { .collection--team .grid { grid-template-columns: minmax(0, 1fr); } }
 .grid__item { display: block; }
 .grid__item img { width: 100%; aspect-ratio: 1; object-fit: cover; }
 .grid__item.is-hidden { display: none; }
 .filters { align-self: start; font-size: 13px; min-width: 0; }
-@media (min-width: 768px) { .filters { position: sticky; top: 10%; max-height: 98vh; overflow-y: auto; } }
+@media (min-width: 768px) { .filters { position: sticky; top: 10%; height: 98vh; overflow-y: auto; } }
 .filter { background: #22222a; color: #fff; margin-bottom: 12px; }
 .filter summary { padding: 8px 12px; cursor: pointer; font-weight: 500; font-size: 11px; list-style-position: inside; }
 .filter ul { list-style: none; margin: 0; padding: 4px 12px 12px; }
@@ -206,6 +207,11 @@ pre code { font-family: var(--font); font-size: 16px; line-height: 24px; }
 .item-pagination { display: flex; justify-content: space-between; align-items: center; gap: 20px; max-width: 1325px; margin: 100px auto 0; padding: 48px 0; }
 .item-pagination a { text-decoration: none; display: flex; flex-direction: column; max-width: 45%; }
 .item-pagination__next { margin-left: auto; text-align: right; }
+.item-pagination a { position: relative; }
+.item-pagination__prev { padding-left: 28px; } .item-pagination__next { padding-right: 28px; }
+.item-pagination__prev::before, .item-pagination__next::after { content: ""; position: absolute; top: 50%; width: 11px; height: 11px; border: solid currentColor; border-width: 0 0 1.5px 1.5px; }
+.item-pagination__prev::before { left: 4px; transform: translateY(-50%) rotate(45deg); }
+.item-pagination__next::after { right: 4px; transform: translateY(-50%) rotate(-135deg); }
 .item-pagination__label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
 .item-pagination__title { font-size: 18px; line-height: 1.2; font-weight: 450; }
 @media (max-width: 767px) { .item-pagination__title { font-size: 12.5px; } }
@@ -242,4 +248,4 @@ pre code { font-family: var(--font); font-size: 16px; line-height: 24px; }
 
 /* Squarespace keeps empty paragraphs as a blank line. */
 p:empty::before { content: "\200b"; }
-.collection__category { margin: 0 0 40px; font-size: var(--fs-small); text-transform: none; }
+.sbs__meta { margin: 0 0 8px; font-size: 16px; }

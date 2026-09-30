@@ -2,11 +2,11 @@
 {% if listCategory %}{% set items = items | inCategory(listCategory) %}{% endif %}
 {% if listCollection == 'perspectives' %}
 <section class="collection collection--side-by-side">
-  {% if listCategory %}<p class="collection__category">{{ listCategory }}</p>{% endif %}
   {% for item in items %}
   <article class="sbs">
     {% if item.data.image %}<a class="sbs__image" href="{{ item.url | canonicalPath }}"><img src="{{ item.data.image }}" alt="{{ item.data.title }}" loading="lazy"></a>{% endif %}
     <div class="sbs__text">
+      {% if listCategory and item.data.categories.length %}<p class="sbs__meta">{{ item.data.categories | join(', ') }}</p>{% endif %}
       <h1 class="sbs__title"><a href="{{ item.url | canonicalPath }}">{{ item.data.title }}</a></h1>
       {% if item.data.excerpt %}<div class="sbs__excerpt">{{ item.data.excerpt | safe }}</div>{% endif %}
     </div>

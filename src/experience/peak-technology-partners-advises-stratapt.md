@@ -9,6 +9,7 @@ categories:
   - Productivity
   - B2B Software
   - SaaS
+  - AI
 sqsTags: []
 excerpt: ''
 seoTitle: Peak Technology Partners Advises StrataPT — Peak Technology Partners

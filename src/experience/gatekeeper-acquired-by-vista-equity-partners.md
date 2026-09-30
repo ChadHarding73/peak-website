@@ -9,6 +9,7 @@ categories:
   - Analytics
   - Financial
   - B2B Software
+  - AI
 sqsTags: []
 excerpt: ''
 seoTitle: Gatekeeper acquired by Vista Equity Partners — Peak Technology Partners

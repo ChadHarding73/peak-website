@@ -2,7 +2,6 @@
   "experience": [
     { "name": "TRANSACTION TYPE", "attr": "categories", "options": ["Capital Raise", "Merger & Acquisition"] },
     { "name": "INDUSTRY", "attr": "categories", "options": ["Productivity", "SaaS", "Analytics", "Media", "Marketing", "Consumer", "FinTech", "Healthcare", "HR", "Communications", "Infrastructure", "IT Services", "B2B Software", "CyberSecurity", "AI"] },
-    { "name": "BUYER", "attr": "categories", "options": ["Financial", "Strategic"] },
-    { "name": "TAGS", "attr": "tags", "options": [] }
+    { "name": "BUYER", "attr": "categories", "options": ["Financial", "Strategic"] }
   ]
 }

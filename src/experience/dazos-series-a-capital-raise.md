@@ -13,6 +13,7 @@ categories:
   - B2B Software
   - Financial
   - Productivity
+  - AI
 sqsTags: []
 excerpt: ''
 seoTitle: >-

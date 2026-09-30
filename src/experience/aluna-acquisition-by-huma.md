@@ -10,6 +10,7 @@ categories:
   - Analytics
   - Strategic
   - B2C Software
+  - AI
 sqsTags: []
 excerpt: ''
 seoTitle: >-

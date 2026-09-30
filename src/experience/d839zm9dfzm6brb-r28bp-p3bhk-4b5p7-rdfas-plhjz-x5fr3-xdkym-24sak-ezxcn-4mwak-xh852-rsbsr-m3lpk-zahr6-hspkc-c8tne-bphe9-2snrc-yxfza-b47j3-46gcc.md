@@ -9,6 +9,7 @@ categories:
   - SaaS
   - Capital Raise
   - B2B Software
+  - AI
 sqsTags: []
 excerpt: ''
 seoTitle: Agiloft investment from FTV Capital — Peak Technology Partners

@@ -9,6 +9,7 @@ categories:
   - Financial
   - B2B Software
   - Capital Raise
+  - AI
 sqsTags: []
 excerpt: ''
 seoTitle: >-

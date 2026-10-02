@@ -257,3 +257,34 @@ pre code { font-family: var(--font); font-size: 16px; line-height: 24px; }
 /* Squarespace keeps empty paragraphs as a blank line. */
 p:empty::before { content: "\200b"; }
 .sbs__meta { margin: 0 0 8px; font-size: 16px; }
+
+/* ---------- Testimonials (home): one large client quote at a time, then a static buyer strip ---------- */
+.testimonials .band__content { padding-block: 80px; }
+.tq__head { display: flex; justify-content: space-between; align-items: baseline; gap: 20px; }
+.tq__nav { display: flex; gap: 12px; }
+.tq__nav button { background: none; border: 0; font-size: 34px; line-height: 1; cursor: pointer; color: inherit; padding: 0 4px; }
+.tq__track { display: grid; grid-auto-flow: column; grid-auto-columns: 100%; column-gap: 120px; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; margin-top: 24px; }
+.tq__track::-webkit-scrollbar { display: none; }
+.tq__track:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
+.tq__slide { scroll-snap-align: start; margin: 0; max-width: 900px; }
+.tq__quote, .tq-buyer blockquote { margin: 0; padding: 0; border: 0; }
+.tq__quote p { font-size: clamp(20px, 2.1vw, 30px); line-height: 1.35; font-weight: 500; letter-spacing: -.01em; margin: 0; text-wrap: pretty; }
+.tq__who { display: flex; align-items: center; gap: 16px; margin-top: 28px; font-size: 15px; line-height: 1.4; }
+.tq__who img { border-radius: 50%; object-fit: cover; flex: none; filter: grayscale(100%); }
+.tq__slide .tq__who img { width: 72px; height: 72px; }
+.tq__who strong { font-weight: 600; }
+.tq__dots { display: flex; gap: 10px; margin-top: 32px; }
+.tq__dots button { width: 10px; height: 10px; border-radius: 50%; border: 1px solid currentColor; background: none; padding: 0; cursor: pointer; opacity: .5; }
+.tq__dots button[aria-current="true"] { background: var(--accent); border-color: var(--accent); opacity: 1; }
+.tq-buyers__title { margin: 72px 0 24px; padding-top: 40px; border-top: 1px solid #ddd; font-size: 22px; }
+.tq-buyers { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 40px; }
+.tq-buyer { margin: 0; display: flex; flex-direction: column; justify-content: space-between; }
+.tq-buyer blockquote p { margin: 0; font-size: 15px; line-height: 1.55; }
+.tq-buyer .tq__who { margin-top: 20px; font-size: 13px; }
+.tq-buyer .tq__who img { width: 56px; height: 56px; }
+.tq__disclosure { margin: 48px 0 0; font-size: 12px; line-height: 1.5; opacity: .7; max-width: 760px; }
+@media (max-width: 767px) {
+  .testimonials .band__content { padding-block: 56px; }
+  .tq-buyers { grid-template-columns: 1fr; gap: 32px; }
+  .tq-buyers__title { margin-top: 48px; padding-top: 32px; }
+}

@@ -1,0 +1,40 @@
+<section class="band band--white testimonials">
+<div class="band__content">
+  <div class="tq" data-tq>
+    <div class="tq__head">
+      <h2 id="tq-founders"><strong>What founders say</strong></h2>
+      <div class="tq__nav">
+        <button type="button" class="tq__prev" aria-label="Previous quote">&#8249;</button>
+        <button type="button" class="tq__next" aria-label="Next quote">&#8250;</button>
+      </div>
+    </div>
+    <div class="tq__track" role="region" aria-labelledby="tq-founders" tabindex="0">
+      {%- for t in testimonials.clients %}
+      <figure class="tq__slide" aria-label="Quote {{ loop.index }} of {{ testimonials.clients | length }}">
+        <blockquote class="tq__quote"><p>&ldquo;{{ t.quote }}&rdquo;</p></blockquote>
+        <figcaption class="tq__who">
+          {%- if t.photo %}<img src="{{ t.photo }}" alt="{{ t.name }}" width="72" height="72" loading="lazy">{% endif %}
+          <span><strong>{{ t.name }}</strong><br>{{ t.title }}, {{ t.company }}</span>
+        </figcaption>
+      </figure>
+      {%- endfor %}
+    </div>
+    <div class="tq__dots">
+      {%- for t in testimonials.clients %}<button type="button" aria-label="Show quote {{ loop.index }}"{% if loop.first %} aria-current="true"{% endif %}></button>{% endfor %}
+    </div>
+  </div>
+  <h3 class="tq-buyers__title"><strong>What buyers say</strong></h3>
+  <div class="tq-buyers">
+    {%- for t in testimonials.buyers %}
+    <figure class="tq-buyer">
+      <blockquote><p>&ldquo;{{ t.quote }}&rdquo;</p></blockquote>
+      <figcaption class="tq__who">
+        {%- if t.photo %}<img src="{{ t.photo }}" alt="{{ t.name }}" width="56" height="56" loading="lazy">{% endif %}
+        <span><strong>{{ t.name }}</strong><br>{{ t.title }}, {{ t.company }}</span>
+      </figcaption>
+    </figure>
+    {%- endfor %}
+  </div>
+  <p class="tq__disclosure">Testimonials may not be representative of the experience of other clients and are no guarantee of future results. No compensation was provided for these testimonials.</p>
+</div>
+</section>

@@ -25,6 +25,27 @@ document.querySelectorAll('.summary--carousel').forEach(block => {
   }, 5000);
 });
 
+// Founder quotes (home): arrows, dots, and the same paused-when-busy 5s auto-advance as Recent Transactions.
+document.querySelectorAll('[data-tq]').forEach(block => {
+  const track = block.querySelector('.tq__track');
+  const slides = [...track.children];
+  const dots = [...block.querySelectorAll('.tq__dots button')];
+  const pos = i => slides[i].offsetLeft - slides[0].offsetLeft;
+  const current = () => slides.reduce((best, _, i) => Math.abs(pos(i) - track.scrollLeft) < Math.abs(pos(best) - track.scrollLeft) ? i : best, 0);
+  const go = i => track.scrollTo({ left: pos((i + slides.length) % slides.length), behavior: 'smooth' });
+  block.querySelector('.tq__prev').addEventListener('click', () => go(current() - 1));
+  block.querySelector('.tq__next').addEventListener('click', () => go(current() + 1));
+  dots.forEach((d, i) => d.addEventListener('click', () => go(i)));
+  track.addEventListener('scroll', () => { const c = current(); dots.forEach((d, i) => d.setAttribute('aria-current', String(i === c))); }, { passive: true });
+  track.addEventListener('keydown', e => { if (e.key === 'ArrowRight') { e.preventDefault(); go(current() + 1); } if (e.key === 'ArrowLeft') { e.preventDefault(); go(current() - 1); } });
+  if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  let paused = false, visible = true;
+  ['mouseenter', 'focusin'].forEach(e => block.addEventListener(e, () => { paused = true; }));
+  ['mouseleave', 'focusout'].forEach(e => block.addEventListener(e, () => { paused = false; }));
+  new IntersectionObserver(([e]) => { visible = e.isIntersecting; }).observe(block);
+  setInterval(() => { if (!paused && visible && !document.hidden) go(current() + 1); }, 5000);
+});
+
 document.querySelectorAll('[data-filters]').forEach(panel => {
   // Phones: start with the groups collapsed, like the old site's compact Filter panel.
   if (matchMedia('(max-width: 767px)').matches) panel.querySelectorAll('details').forEach(d => { d.open = false; });

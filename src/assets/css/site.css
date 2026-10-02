@@ -160,6 +160,8 @@ pre code { font-family: var(--font); font-size: 16px; line-height: 24px; }
 .summary--carousel .summary__items::-webkit-scrollbar { display: none; }
 .summary--carousel .card { scroll-snap-align: start; }
 @media (max-width: 767px) { .summary--carousel .summary__items { grid-auto-columns: calc((100% - 20px) / 2); column-gap: 20px; } }
+/* Recent Transactions on phones: one card at a time, with the next one peeking in, so long deal titles stay readable. */
+@media (max-width: 767px) { .summary--experience.summary--carousel .summary__items { grid-auto-columns: 80%; } }
 .summary__nav { position: absolute; right: 0; top: -48px; display: flex; gap: 12px; }
 .summary__nav button { background: none; border: 0; font-size: 28px; line-height: 1; cursor: pointer; color: inherit; padding: 0 4px; }
 .card__image { display: block; margin-bottom: 15px; overflow: hidden; }

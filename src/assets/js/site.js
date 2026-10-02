@@ -12,6 +12,17 @@ document.querySelectorAll('.summary--carousel').forEach(block => {
   const step = () => track.querySelector('.card')?.getBoundingClientRect().width || track.clientWidth;
   block.querySelector('.summary__prev')?.addEventListener('click', () => track.scrollBy({ left: -step(), behavior: 'smooth' }));
   block.querySelector('.summary__next')?.addEventListener('click', () => track.scrollBy({ left: step(), behavior: 'smooth' }));
+  // Recent Transactions auto-advances one card every 5s, looping; it pauses while hovered, focused or off-screen, and never runs for reduced motion.
+  if (!block.classList.contains('summary--experience') || matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  let paused = false, visible = true;
+  ['mouseenter', 'focusin'].forEach(e => block.addEventListener(e, () => { paused = true; }));
+  ['mouseleave', 'focusout'].forEach(e => block.addEventListener(e, () => { paused = false; }));
+  new IntersectionObserver(([e]) => { visible = e.isIntersecting; }).observe(block);
+  setInterval(() => {
+    if (paused || !visible || document.hidden) return;
+    const atEnd = track.scrollLeft + track.clientWidth >= track.scrollWidth - 2;
+    track.scrollTo({ left: atEnd ? 0 : track.scrollLeft + step(), behavior: 'smooth' });
+  }, 5000);
 });
 
 document.querySelectorAll('[data-filters]').forEach(panel => {

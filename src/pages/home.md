@@ -29,7 +29,7 @@ logo: full
 </section>
 
 <section class="band band--light h-custom w-wide ha-center va-middle" style="--pt: calc(0vmax / 10); --pb: calc(0vmax / 10); min-height: 0vh;">
-<div class="band__content"><div class="fe-grid" style="--rows-m: 15; --rows-d: 16"><div class="fe-cell" style="--m: 1/2/3/10; --d: 4/5/8/17"><div class="b b--html"><h2><strong>Recent Transactions</strong></h2></div></div><div class="fe-cell" style="--m: 3/2/5/10; --d: 4/20/6/26"><div class="b b--button"><p class="btn-wrap btn-wrap--center"><a class="btn" href="/experience">View All Transactions</a></p></div></div><div class="fe-cell" style="--m: 5/2/16/10; --d: 8/5/16/26"><div class="b b--summary-v2">{% summary collections, '{"collection":"experience","latest":4,"design":"autogrid","meta":"date","metaPosition":"below-content","excerpt":true,"readMore":false,"perRow":3,"gutter":60}' %}</div></div></div></div>
+<div class="band__content"><div class="fe-grid" style="--rows-m: 15; --rows-d: 16"><div class="fe-cell" style="--m: 1/2/3/10; --d: 4/5/8/17"><div class="b b--html"><h2><strong>Recent Transactions</strong></h2></div></div><div class="fe-cell" style="--m: 3/2/5/10; --d: 4/20/6/26"><div class="b b--button"><p class="btn-wrap btn-wrap--center"><a class="btn" href="/experience">View All Transactions</a></p></div></div><div class="fe-cell" style="--m: 5/2/16/10; --d: 8/5/16/26"><div class="b b--summary-v2">{% summary collections, '{"collection":"experience","latest":8,"design":"carousel","meta":"date","metaPosition":"below-content","excerpt":true,"readMore":false,"perRow":3,"gutter":60}' %}</div></div></div></div>
 </section>
 
 <section class="band band--light h-medium w-medium ha-center va-middle">

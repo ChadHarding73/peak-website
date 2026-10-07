@@ -12,7 +12,7 @@ Static Eleventy site, deployed by Netlify (project `thriving-moxie-406412`, PEAK
 - **List pages** (`/experience`, `/perspectives`, `/team`): the bands around each list are in `src/_includes/lists/<collection>.njk`. The list itself is `src/_includes/partials/collection-list.njk`.
 - **Header nav, social links, analytics ID:** `src/_data/site.json`. **Transaction filters:** `src/_data/filters.json`.
 - **Footer**, including the Finalis broker-dealer disclosure: `src/_includes/partials/footer-sections.njk`. The disclosure is compliance text; change it only on Chad's explicit instruction.
-- **Images:** `src/images/<collection>/`. **Styles:** `src/assets/css/site.css`. **Scripts** (carousel, filter): `src/assets/js/site.js`.
+- **Images:** `src/images/<collection>/`. Each JPG/PNG has a `.webp` copy beside it (max 1600px, made by `npm run webp`); a build transform points every `<img>` and CSS background at the copy, while `og:image` keeps the original because LinkedIn previews handle WebP unreliably. **Styles:** `src/assets/css/site.css`. **Scripts** (carousel, filter): `src/assets/js/site.js`.
 - **Order:** `sqsOrder` in front matter, lower first. A new item gets one less than the current minimum so it appears first.
 
 ## Every change
@@ -29,10 +29,10 @@ Static Eleventy site, deployed by Netlify (project `thriving-moxie-406412`, PEAK
 - At 0 credits Netlify pauses production deploys and adds a small operational buffer. When that runs out, it **takes the site offline** until the monthly reset. On Personal, extra credits cost $5 per 500. Check the balance at app.netlify.com → PEAK team → Usage & billing before a busy editing day.
 
 ## Adding a tombstone
-Chad supplies the PNG. Add `src/images/experience/<slug>.png` and `src/experience/<slug>.md` with front matter `title`, `date` (YYYY-MM-DD), `image`, `categories` (from `src/_data/filters.json`), `sqsOrder`, `seoTitle`, and the press-release body as HTML (`<div class="b b--html"><p>…</p></div>`). The home page's Recent Transactions updates on its own.
+Chad supplies the PNG. Add `src/images/experience/<slug>.png` and `src/experience/<slug>.md` with front matter `title`, `date` (YYYY-MM-DD), `image`, `categories` (from `src/_data/filters.json`), `sqsOrder`, `seoTitle`, and the press-release body as HTML (`<div class="b b--html"><p>…</p></div>`). The home page's Recent Transactions updates on its own. Then run `npm run webp` to make the image's WebP copy (the test suite fails until you do).
 
 ## Adding a team bio
-Chad supplies the photo. Add `src/images/team/<slug>.jpg` and `src/team/<slug>.md` with `title` (the person's name), `date`, `image`, `categories` (their role, e.g. `Analyst`), `sqsOrder` (their place in the People grid; renumber others if needed), `seoTitle`, and the bio body. The People page shows every bio (`"latest": "all"`), so nobody drops off.
+Chad supplies the photo. Add `src/images/team/<slug>.jpg` and `src/team/<slug>.md` with `title` (the person's name), `date`, `image`, `categories` (their role, e.g. `Analyst`), `sqsOrder` (their place in the People grid; renumber others if needed), `seoTitle`, and the bio body. The People page shows every bio (`"latest": "all"`), so nobody drops off. Run `npm run webp` for the photo.
 
 ## Image names
 Images are named `<page-slug>-<8-hex fingerprint of the original URL>.<ext>`. For a new image, any unique descriptive name works; never reuse an existing filename for a different picture.

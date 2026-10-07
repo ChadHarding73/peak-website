@@ -1,5 +1,7 @@
 import { readFileSync } from 'node:fs';
 import { renderSummary } from './scripts/lib/cards.mjs';
+import { existsSync } from 'node:fs';
+import { toWebpRefs, webpSibling } from './scripts/lib/webp.mjs';
 
 // Squarespace keeps category pages live even when no item uses the category; the baseline lists them.
 function baselineCategories(collection) {
@@ -46,6 +48,11 @@ export default function (eleventyConfig) {
       if (path.startsWith('/images/') || path.startsWith('/assets/') || /\.[a-z0-9]+$/i.test(path)) return m;
       return `href="${path === '/home' || path === '/home/' ? '/' : servedPath(path)}${rest}"`;
     });
+  });
+  // Serve the .webp copy of every JPG/PNG that has one (npm run webp makes them); about 83% less bandwidth.
+  eleventyConfig.addTransform('webp-images', function (html) {
+    if (!(this.page.outputPath || '').endsWith('.html')) return html;
+    return toWebpRefs(html, p => existsSync('src' + webpSibling(p)));
   });
   eleventyConfig.addFilter('isoDay', d => new Date(d).toISOString().slice(0, 10));
   eleventyConfig.addFilter('monthDay', d => new Date(d).toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' }));

@@ -65,9 +65,16 @@ strong { font-weight: 700; }
 
 /* ---------- Header (transparent, over the first band) ---------- */
 .site-header { position: absolute; z-index: 10; top: 0; left: 0; right: 0; height: var(--header-h); display: flex; align-items: center; justify-content: space-between; padding: 0 var(--gutter); color: var(--ink); }
-.site-logo { display: block; }
-.site-logo img { height: 70px; width: auto; }
+.site-logo { display: block; flex: none; }
+.site-logo img { height: 70px; width: auto; max-width: none; }
 .site-nav { display: flex; gap: 0 1.2em; font-size: var(--fs-body); }
+/* Tablets and small laptops: a full logo plus the full nav needs ~950px, so both scale with the window
+   (100% at ~1100px, ~75% at 768px) instead of the logo being squeezed out of proportion. */
+@media (min-width: 768px) and (max-width: 1099px) {
+  .site-header { gap: 16px; }
+  .site-logo img { height: clamp(48px, 6.4vw, 70px); }
+  .site-nav { font-size: clamp(14px, 1.77vw, 19.456px); }
+}
 .site-nav a { text-decoration: none; color: inherit; }
 .site-nav a:hover, .site-nav a[aria-current] { color: var(--accent-hover); }
 .site-header--bright, .site-header--black { color: #fff; }
@@ -287,4 +294,10 @@ p:empty::before { content: "\200b"; }
   .testimonials .band__content { padding-block: 56px; }
   .tq-buyers { grid-template-columns: 1fr; gap: 32px; }
   .tq-buyers__title { margin-top: 48px; padding-top: 32px; }
+}
+
+/* Three-across headings (home: Entrepreneurial / Dedicated / Aligned): shrink with the window between the
+   phone and desktop layouts so the longest word fits its column instead of running into the next one. */
+@media (min-width: 768px) and (max-width: 1199px) {
+  .col:is([style*="--span: 3;"], [style*="--span: 4;"]) h3 { font-size: min(var(--fs-h3), 3.05vw); }
 }

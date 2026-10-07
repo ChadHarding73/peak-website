@@ -22,10 +22,11 @@ Static Eleventy site, deployed by Netlify (project `thriving-moxie-406412`, PEAK
 4. Only on Chad's OK: `git switch main && git merge --ff-only edit/<topic> && git push`.
 5. Verify the live page, then delete the branch.
 
-## Netlify credits (Free plan: 300 per month, hard limit)
-- Every push to `main` is a production deploy and costs **15 credits**. Branch previews are free. At 0 credits Netlify **takes the site offline** ("Site not available") until the monthly reset on the 29th.
-- So batch edits: preview as many times as needed on a branch, then merge once. Commits that don't change the site (docs, tests) must include `[skip ci]` in the message so Netlify doesn't build.
-- Check the balance at app.netlify.com → PEAK team → Usage & billing before a busy editing day.
+## Netlify credits (Personal plan since 2026-10-06: 1,000 per month, $9)
+- The Free plan (300) ran out on 2026-10-06, a week into the cycle. **Visitor traffic, not deploys, is the main cost:** bandwidth is 20 credits per GB and web requests 2 per 10K. The first week ran about 4.9 GB and 65K requests, roughly 14 credits a day, or about 400 a month with zero deploys. Heavy PNG images and crawler traffic drive it.
+- Every push to `main` is a production deploy and costs **15 credits**. Branch previews are free. Commits that don't change the site (docs, tests) must include `[skip ci]` in the message; on cutover day, docs commits without it each cost a full production deploy.
+- Batch edits: preview on a branch as often as needed, then merge once.
+- At 0 credits Netlify pauses production deploys and adds a small operational buffer. When that runs out, it **takes the site offline** until the monthly reset. On Personal, extra credits cost $5 per 500. Check the balance at app.netlify.com → PEAK team → Usage & billing before a busy editing day.
 
 ## Adding a tombstone
 Chad supplies the PNG. Add `src/images/experience/<slug>.png` and `src/experience/<slug>.md` with front matter `title`, `date` (YYYY-MM-DD), `image`, `categories` (from `src/_data/filters.json`), `sqsOrder`, `seoTitle`, and the press-release body as HTML (`<div class="b b--html"><p>…</p></div>`). The home page's Recent Transactions updates on its own.
